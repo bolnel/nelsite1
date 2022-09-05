@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Remote, Self-Education, No-Burnout & More - blog by Ninel Bolotova"
+theme = "paper"
