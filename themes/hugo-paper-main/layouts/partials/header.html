@@ -1,11 +1,9 @@
-<header class="mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center">
+<header class="site_header mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center">
   <div class="relative z-50 mr-auto flex items-center">
-    <a class="-translate-x-[1px] -translate-y-0.5 text-3xl font-bold" href="{{ `` | absURL }}"
-      >{{ site.Title }}</a
-    >
-    <a
-      class="btn-dark ml-6 h-6 w-6 shrink-0 cursor-pointer {{ if site.Params.monoDarkIcon }}[background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert{{ else }}[background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)]{{ end }} dark:[background-position:right]"
-    ></a>
+    <a class="logo_avatar" href="{{ `` | absURL }}"> <img src="/ninel_header_avatar.jpg" alt="blog by Ninel Bolotova"> </a>
+    <a class="twitter_icon_header" href="https://twitter.com/" target=_blank><img src="/twitter_logo_blue.png" alt="Ninel's Twitter"></a>
+    <a class="" href="https://www.linkedin.com/in/ninel-b/" target=_blank><img src="/linkedin_logo_blue.png" alt="Ninel's LinkedIn"></a>
+
   </div>
 
   <a

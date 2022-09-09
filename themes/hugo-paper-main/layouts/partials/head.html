@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <!-- Title -->
-  <title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}</title>
+  <title>{{ if .IsHome }}{{ site.Title }}{{ end }} {{ .Title }}</title>
 
   <!-- Meta -->
   <meta name="theme-color" />
@@ -87,4 +87,22 @@
   {{ template "_internal/twitter_cards.html" . }}
   <!---->
   {{ end }}
+
+  <!-- Sender.net snippet -->
+  <script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('a72b4488cb8941')
+</script>
+<!-- END Sender.net snippet -->
+
 </head>

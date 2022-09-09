@@ -1,1 +1,18 @@
 /* Place custom css here. */
+
+
+.logo_avatar {
+    position: relative;
+    bottom: -20px;
+    left: -20px;
+}
+
+.site_header {
+    border-bottom: 1px solid lightgray;
+}
+
+.twitter_icon_header {
+  margin-right: 10px;
+    position: relative;
+    bottom: -8px;
+}
