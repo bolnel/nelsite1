@@ -1,8 +1,13 @@
----
-title: "Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?"
-date: 2022-09-08T08:47:11+01:00
-draft: false
----
++++
+title = "Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?"
+description = "Getting a certification is a significant investment of time and money. Will it help with landing a job or earning more? Consider the following points..."
+date = "2022-09-08"
+slug = "are-certifications-worth-it"
+image = "/are-certifications-worth-it-hero.jpg"
+categories = ['certifications', 'self-education']
+tags = ['pmp', 'psm', 'certifications', 'courses']
+draft = false
++++
 
 If a certain certification or license is required for the position you're seeking, then making a decision is easy - you don't really have a choice. [Examples of obligatory certifications].
 

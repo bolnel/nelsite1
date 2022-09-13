@@ -3,18 +3,34 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/favicon-192-192.png" />
+
   <!-- Title -->
   <title>{{ if .IsHome }}{{ site.Title }}{{ end }} {{ .Title }}</title>
 
   <!-- Meta -->
-  <meta name="theme-color" />
-  {{ if eq .Kind "page" }}
-  <meta name="description" content="{{ .Summary }}" />
-  <meta name="author" content="{{ .Params.Author | default site.Author.name }}" />
-  {{ else }}
-  <meta name="description" content="{{ site.Params.description }}" />
-  <meta name="author" content="{{ site.Author.name }}" />
-  {{ end }}
+<meta name="author" content="{{ site.Author.name }}" />
+<meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
+<meta itemprop="description" content="{{ .Params.description }}" />
+<meta property="og:description" content="{{ .Params.description }}" />
+<meta name="twitter:description" content="{{ .Params.description }}" />
+<meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}" />
+
+<!-- Image for social sharing -->
+  {{ with .Params.image }}
+  <meta itemprop="image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image:src" content="{{ . | absURL }}" />
+{{ else }}
+  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" />
+{{ end }}
 
   <!-- Styles & Scripts -->
   {{ $main_css := resources.Get "main.css" }}

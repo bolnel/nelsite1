@@ -5,3 +5,5 @@ theme = "hugo-paper-main"
 
 [params]
   color = 'light'
+  author = "Ninel Bolotova"
+  description = "Ninel's take on various subjects she's interested in and worked with."
