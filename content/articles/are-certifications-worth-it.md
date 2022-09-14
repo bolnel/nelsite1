@@ -17,7 +17,7 @@ But what if it's not strictly necessary? While you could see the benefits in the
 
 In this article, we'll see what the answer is in your situation.
 
-{{< figure src="/are-certifications-worth-it-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="by \@cdd20 on Unsplash">}}
+{{< figure src="/are-certifications-worth-it-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@persnicketyprints on Unsplash">}}
 
 # Contents
 
@@ -34,3 +34,5 @@ Imagine you already got a certain certification you're considering. If anyone we
 - I wanted the knowledge preparing for the exam would give me
 - My employer offered taking it, so I decided I might as well do it
 - I know the subject very well, and decided to make it official
+
+{{< figure src="/are-certifications-worth-it-img1.jpg" alt="There are a few points you need to consider before making a decision" caption="by \@cdd20 on Unsplash">}}
