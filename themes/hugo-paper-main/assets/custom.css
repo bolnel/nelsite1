@@ -1,6 +1,6 @@
 /* Place custom css here. */
 
-
+/* Header elements */
 .logo_avatar {
     position: relative;
     bottom: -20px;
@@ -15,4 +15,26 @@
   margin-right: 10px;
     position: relative;
     bottom: -8px;
+}
+
+/* Article title styling */
+.article_header:after, h2:after {
+  content: "";
+    display: block;
+    width: 40%;
+    padding-top: 10px;
+    border-bottom: 2px solid #5d097b;
+}
+
+.article_header_under:before {
+  content: "";
+  border-top: 2px solid #b1acb5;
+    display: block;
+    width: 30%;
+    margin-top: 5px;
+}
+
+/* Article subheader correction */
+h2:after {
+  padding-top: 5px;
 }
