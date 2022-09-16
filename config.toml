@@ -2,6 +2,8 @@ baseURL = 'https://bolnel.github.io/nelsite1/'
 languageCode = 'en-us'
 title = "Remote, Self-Education, No-Burnout & More. Blog by Ninel Bolotova"
 theme = "hugo-paper-main"
+canonifyURLs = "true"
+
 
 [params]
   color = 'light'
