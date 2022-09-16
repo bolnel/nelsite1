@@ -34,6 +34,14 @@
   </footer>
   {{ end }}
 
+  <!-- Add This. Go to www.addthis.com/dashboard to customize -->
+  <p>done <br>
+   <div class="addthis_inline_share_toolbox"></div>
+  </p>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-632169f48a9e8abd"></script>
+
+
+
   <!-- Post Nav -->
   {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
   {{ if and (gt (len $pages) 1) (in $pages . ) }}
