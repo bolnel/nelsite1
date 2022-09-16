@@ -20,12 +20,14 @@
   <!-- Title -->
   <title>{{ if .IsHome }}{{ site.Title }}{{ end }} {{ .Title }}</title>
 
-  <!-- Meta -->
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image"></meta>
+  <meta name="twitter:creator" content="@NinelBolotova">
+
 <meta name="author" content="{{ site.Author.name }}" />
 <meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
 <meta itemprop="description" content="{{ .Params.description }}" />
 <meta property="og:description" content="{{ .Params.description }}" />
-<meta name="twitter:description" content="{{ .Params.description }}" />
 <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}" />
 
 <!-- Image for social sharing -->
