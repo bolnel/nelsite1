@@ -10,7 +10,7 @@ draft = false
 
 [twitter]
   card = "summary_large_image"
-  creator = "\@NinelBolotova"
+  creator = "@NinelBolotova"
   image = "/are-certifications-worth-it-hero.jpg"
 +++
 
