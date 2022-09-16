@@ -18,7 +18,7 @@
 }
 
 /* Article title styling */
-.article_header:after, h2:after {
+.article_header:after, article h2:after {
   content: "";
     display: block;
     width: 40%;
@@ -35,6 +35,24 @@
 }
 
 /* Article subheader correction */
-h2:after {
+article h2:after {
   padding-top: 5px;
+}
+
+/* Email address on the pages */
+.my_addr {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+/* "Work with me" button */
+.header_nav_button {
+  background: #4a0762;
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.header_nav_button:hover {
+  background: #621f7a;
 }

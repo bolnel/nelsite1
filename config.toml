@@ -7,3 +7,28 @@ theme = "hugo-paper-main"
   color = 'light'
   author = "Ninel Bolotova"
   description = "Ninel's take on various subjects she's interested in and worked with."
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+  [menu]
+  [[menu.main]]
+    identifier = '/'
+    name = 'About'
+    url = '/about/'
+    weight = 10
+  [[menu.main]]
+    name = 'Articles'
+    url = '/articles/'
+    weight = 20
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 30
+  [[menu.main]]
+    name = 'Work with me'
+    url = '/work-with-ninel/'
+    weight = 40
+    [menu.main.params]
+    class = "header_nav_button"
