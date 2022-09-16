@@ -31,7 +31,7 @@
 <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}" />
 
 <!-- Image for social sharing -->
-  {{ with .Params.image }}
+  {{ with .Params.images }}
   <meta itemprop="image" content="https://ninel.work{{ . }}" />
   <meta property="og:image" content="{{ . | absURL }}" />
   <meta name="twitter:image" content="https://ninel.work{{ . }}" />
