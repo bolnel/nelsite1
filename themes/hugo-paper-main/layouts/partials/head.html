@@ -32,9 +32,9 @@
 
 <!-- Image for social sharing -->
   {{ with .Params.image }}
-  <meta itemprop="image" content="{{ . }}" />
+  <meta itemprop="image" content="https://ninel.work/{{ . }}" />
   <meta property="og:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image" content="https://ninel.work/are-certifications-worth-it-hero.jpg" />
+  <meta name="twitter:image" content="https://ninel.work/{{ . }}" />
   <meta name="twitter:image:src" content="https://ninel.work/are-certifications-worth-it-hero.jpg" />
 {{ else }}
   <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
