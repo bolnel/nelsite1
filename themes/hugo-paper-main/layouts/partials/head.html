@@ -23,6 +23,8 @@
   <!-- Twitter card -->
   <meta name="twitter:card" content="summary_large_image"></meta>
   <meta name="twitter:creator" content="@NinelBolotova">
+  <meta name="twitter:image" content="https://ninel.work{{ .Params.featured }}" />
+  <meta name="twitter:image:src" content="https://ninel.work/are-certifications-worth-it-hero.jpg" />
 
 <meta name="author" content="{{ site.Author.name }}" />
 <meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
@@ -34,8 +36,6 @@
   {{ with .Params.featured }}
   <meta itemprop="image" content="https://ninel.work{{ . }}" />
   <meta property="og:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image" content="https://ninel.work{{ . }}" />
-  <meta name="twitter:image:src" content="https://ninel.work/are-certifications-worth-it-hero.jpg" />
 {{ else }}
   <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
   <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
