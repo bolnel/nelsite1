@@ -7,6 +7,11 @@ image = "/are-certifications-worth-it-hero.jpg"
 categories = ['certifications', 'self-education']
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
+
+[twitter]
+  card = "summary_large_image"
+  creator = "\@NinelBolotova"
+  image = "/are-certifications-worth-it-hero.jpg"
 +++
 
 If a certain certification or license is required for the position you're seeking, then making a decision is easy - you don't really have a choice. [Examples of obligatory certifications].
