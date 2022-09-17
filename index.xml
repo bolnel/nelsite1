@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</title><link>https://bolnel.github.io/nelsite1/</link><description>Recent content on Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bolnel.github.io/nelsite1/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://bolnel.github.io/nelsite1/contact/</link><pubDate>Thu, 15 Sep 2022 11:15:34 +0300</pubDate><guid>https://bolnel.github.io/nelsite1/contact/</guid><description>You can get in touch with me on Twitter or LinkedIn, or write me an email: contactREMOVE@ninel.work</description></item><item><title>Work with me</title><link>https://bolnel.github.io/nelsite1/work-with-ninel/</link><pubDate>Wed, 14 Sep 2022 11:16:34 +0300</pubDate><guid>https://bolnel.github.io/nelsite1/work-with-ninel/</guid><description>I provide various services as a freelancer, including but not limited to:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</title>
+    <link>https://bolnel.github.io/nelsite1/</link>
+    <description>Recent content on Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bolnel.github.io/nelsite1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://bolnel.github.io/nelsite1/contact/</link>
+      <pubDate>Thu, 15 Sep 2022 11:15:34 +0300</pubDate>
+      
+      <guid>https://bolnel.github.io/nelsite1/contact/</guid>
+      <description>You can get in touch with me on Twitter or LinkedIn, or write me an email: contactREMOVE@ninel.work</description>
+    </item>
+    
+    <item>
+      <title>Work with me</title>
+      <link>https://bolnel.github.io/nelsite1/work-with-ninel/</link>
+      <pubDate>Wed, 14 Sep 2022 11:16:34 +0300</pubDate>
+      
+      <guid>https://bolnel.github.io/nelsite1/work-with-ninel/</guid>
+      <description>I provide various services as a freelancer, including but not limited to:
 project management creating and optimizing workflows in remote environment reviewing and hiring the best contractors in various fields implementing Agile methodologies setting up and customizing E-commerce stores, mainly Shopify productivity coaching Get in touch with me to book a free 30-min discovery call:
-contactREMOVE@ninel.work</description></item><item><title>About</title><link>https://bolnel.github.io/nelsite1/about/</link><pubDate>Wed, 14 Sep 2022 11:15:34 +0300</pubDate><guid>https://bolnel.github.io/nelsite1/about/</guid><description>Welcome to the personal website of Ninel Bolotova. I&amp;rsquo;ll write more about myself later : )</description></item><item><title>Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?</title><link>https://bolnel.github.io/nelsite1/articles/are-certifications-worth-it/</link><pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate><guid>https://bolnel.github.io/nelsite1/articles/are-certifications-worth-it/</guid><description>If a certain certification or license is required for the position you&amp;rsquo;re seeking, then making a decision is easy - you don&amp;rsquo;t really have a choice. [Examples of obligatory certifications].
-But what if it&amp;rsquo;s not strictly necessary? While you could see the benefits in theory, you&amp;rsquo;re not sure if you should go through with it, given how much time and money obtaining a certification would require. You&amp;rsquo;re looking at the options, pondering: &amp;ldquo;Is this worth it?</description></item></channel></rss>
+contactREMOVE@ninel.work</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bolnel.github.io/nelsite1/about/</link>
+      <pubDate>Wed, 14 Sep 2022 11:15:34 +0300</pubDate>
+      
+      <guid>https://bolnel.github.io/nelsite1/about/</guid>
+      <description>Welcome to the personal website of Ninel Bolotova. I&amp;rsquo;ll write more about myself later : )</description>
+    </item>
+    
+    <item>
+      <title>Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?</title>
+      <link>https://bolnel.github.io/nelsite1/articles/are-certifications-worth-it/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolnel.github.io/nelsite1/articles/are-certifications-worth-it/</guid>
+      <description>If a certain certification or license is required for the position you&amp;rsquo;re seeking, then making a decision is easy - you don&amp;rsquo;t really have a choice. [Examples of obligatory certifications].
+But what if it&amp;rsquo;s not strictly necessary? While you could see the benefits in theory, you&amp;rsquo;re not sure if you should go through with it, given how much time and money obtaining a certification would require. You&amp;rsquo;re looking at the options, pondering: &amp;ldquo;Is this worth it?</description>
+    </item>
+    
+  </channel>
+</rss>
