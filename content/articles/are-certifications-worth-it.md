@@ -3,7 +3,7 @@ title = "Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?"
 description = "Getting a certification is a significant investment of time and money. Will it help with landing a job or earning more? Consider the following points..."
 date = "2022-09-08"
 slug = "are-certifications-worth-it"
-featured = "/are-certifications-worth-it-hero.jpg"
+featured = "/article_images/are-certifications-worth-it-hero.jpg"
 categories = ['certifications', 'self-education']
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
@@ -17,7 +17,7 @@ But what if it's not strictly necessary? While you could see the benefits in the
 
 In this article, we'll see what the answer is in your situation.
 
-{{< figure src="/are-certifications-worth-it-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@persnicketyprints on Unsplash">}}
+{{< figure src="/article_images/are-certifications-worth-it-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@persnicketyprints on Unsplash">}}
 
 # Contents
 
@@ -35,4 +35,4 @@ Imagine you already got a certain certification you're considering. If anyone we
 - My employer offered taking it, so I decided I might as well do it
 - I know the subject very well, and decided to make it official
 
-{{< figure src="/are-certifications-worth-it-img1.jpg" alt="There are a few points you need to consider before making a decision" caption="by \@cdd20 on Unsplash">}}
+{{< figure src="/article_images/are-certifications-worth-it-img1.jpg" alt="There are a few points you need to consider before making a decision" caption="by \@cdd20 on Unsplash">}}
