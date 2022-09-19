@@ -2,6 +2,7 @@
 title: "Work with me"
 date: 2022-09-14T11:16:34+03:00
 draft: false
+no_socials: true
 ---
 
 I provide various services as a freelancer, including but not limited to:

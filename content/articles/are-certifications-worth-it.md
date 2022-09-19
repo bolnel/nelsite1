@@ -19,7 +19,7 @@ In this article, we'll see what the answer is in your situation.
 
 {{< figure src="/article_images/are-certifications-worth-it-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@persnicketyprints on Unsplash">}}
 
-# Contents
+{{< table_of_contents >}}
 
 ## What is your core motivation?
 
