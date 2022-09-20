@@ -9,7 +9,6 @@ canonifyURLs = "true"
   color = 'light'
   author = "Ninel Bolotova"
   description = "Ninel's take on various subjects she's interested in and worked with."
-  customDomain = "https://ninel.work/"
 
 [markup.goldmark.renderer]
 unsafe= true

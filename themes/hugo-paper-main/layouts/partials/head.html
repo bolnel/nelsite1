@@ -25,7 +25,7 @@
   <meta name="twitter:title" content="{{ .Params.title }}"/>
   <meta name="twitter:description" content="{{ .Params.description }}"/>
   <meta name="twitter:creator" content="@NinelBolotova">
-  <meta name="twitter:image" content="https://bolnel.github.io/nelsite1{{ .Params.featured }}" />
+  <meta name="twitter:image" content="{{ .Params.featured | absURL }}" />
 
 <meta name="author" content="{{ site.Author.name }}" />
 <meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
@@ -35,8 +35,8 @@
 
 <!-- Image for social sharing -->
   {{ with .Params.featured }}
-  <meta itemprop="image" content="https://bolnel.github.io/nelsite1{{ . }}" />
-  <meta property="og:image" content="https://bolnel.github.io/nelsite1{{ . }}" />
+  <meta itemprop="image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | absURL }}" />
 {{ else }}
   <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
   <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
