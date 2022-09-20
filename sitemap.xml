@@ -1,12 +1,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  
+  <url>
+    <loc>https://ninel.work/contact/</loc>
+    <lastmod>2022-09-15T11:15:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/work-with-ninel/</loc>
+    <lastmod>2022-09-14T11:16:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/work-with-ninel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/about/</loc>
+    <lastmod>2022-09-14T11:15:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/certifications/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/certifications/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/certifications/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/certifications/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/courses/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/courses/"
+                />
+  </url>
+  
   <url>
     <loc>https://ninel.work/articles/are-certifications-worth-it/</loc>
-    <priority>0</priority>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/are-certifications-worth-it/"
                 />
   </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/pmp/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/pmp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/psm/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/psm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/self-education/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/self-education/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/</loc>
+    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/"
+                />
+  </url>
+  
 </urlset>
