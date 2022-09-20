@@ -2,6 +2,7 @@
 title = "Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?"
 description = "Getting a certification is a significant investment of time and money. Will it help with landing a job or earning more? Consider the following points..."
 date = "2022-09-08"
+lastmod = "2022-09-14"
 slug = "are-certifications-worth-it"
 featured = "/article_images/are-certifications-worth-it-hero.jpg"
 categories = ['certifications', 'self-education']
