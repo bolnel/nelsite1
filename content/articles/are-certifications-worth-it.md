@@ -141,7 +141,7 @@ You need to be ready to introduce this certification and its value, and not expe
 
 ## Why it's worth it even if you fail the actual exam
 
-The initial question was "Are there any benefits from the certification if I get it", and the answer could be "yes" or "no", one of zero. But what about the negative? What if you spend all this time and money preparing and applying – only to show up and score low on the test?
+The initial question was "Are there any benefits from the certification if I get it", and the answer could be "yes" or "no", one or zero. But what about the negative? What if you spend all this time and money preparing and applying – only to show up and score low on the test?
 
 It will still be useful if you get the most out of the preparation process. Learning activates your brain and helps you live a happier and healthier life.
 
