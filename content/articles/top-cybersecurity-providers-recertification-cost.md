@@ -22,7 +22,7 @@ How well do you like them? Could you satisfy their demands in the first place? A
 
 In this article, we'll look at the most established infosec and cybersecurity certification providers, learn a few tidbits about them, and see what kind of requirements they have for obtaining and maintaining a credential.
 
-{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-hero.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@cottonbro on Pexels">}}
+{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-hero.jpg" alt="What are the recertification fees for CISM CSX-P, CEH, CISSP?" caption="photo by \@cottonbro on Pexels">}}
 
 {{< table_of_contents >}}
 
@@ -44,7 +44,7 @@ For each certification provider, I looked at the following:
 **Maintenance fee**. Once you obtained the certification, how much will it cost you to keep it active?
 
 
-{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img1.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@alinnnaaaa on Unsplash">}}
+{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img1.jpg" alt="Do you have to be a member to maintain your cybersecurity certification?" caption="photo by \@alinnnaaaa on Unsplash">}}
 
 
 ## ISACA
@@ -84,7 +84,7 @@ The pricing structure easily accessible is flat. There are three types of exams 
 
 **Maintenance fees**. The obligatory membership fee varies from $45 to $125 per year, depending on the certification level. Plus earning the Professional Development units, which ICCP estimates [would cost around $500-$600/year](https://www.iccp.org/fees-cost--membership-fees.html). At this point, they note that such costs are the reason the majority of ICCP members belong to mid-to-large corporations that fund their employees' certification and ongoing professional development.
 
-{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img2.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@angieprz21 on Unsplash">}}
+{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img2.jpg" alt="What are the total costs of maintaining your cybersecurity credential?" caption="photo by \@angieprz21 on Unsplash">}}
 
 
 ## CompTIA
@@ -120,7 +120,7 @@ Tech giant founded in 1984 by a married couple of Standford University computer 
 
 **Maintenance fee**. Cisco doesn’t have fixed recertification fees. [Based on your certification level](https://www.cisco.com/c/en/us/training-events/training-certifications/recertification-policy.html), during the 3-year recertification period you’ll need to pass another exam (the average price is $300 per exam), or multiple exams, or earn Continuous Education units by completing educational courses and training by Cisco or accredited partners.
 
-{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img3.jpg" alt="Considering if obtaining a certification is worth your time and resources?" caption="photo by \@nasa on Unsplash">}}
+{{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img3.jpg" alt="How much does maintaining a Cisco certification cost?" caption="photo by \@nasa on Unsplash">}}
 
 
 ## (ISC)2
