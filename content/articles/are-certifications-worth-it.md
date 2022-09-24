@@ -69,20 +69,20 @@ Many well-recognized certifications have the experience barrier – a minimum of
 **Human Relations**: 1 year of professional HR experience – [PHR](https://www.hrci.org/certifications/individual-certifications/phr) by HRCI.<br>
 **Cybersecurity**: 5 years of work experience – [CISSP](https://www.isc2.org/Certifications/CISSP/experience-requirements) by (ISC)2.
 
-Stay tuned for a dedicated article describing the prerequisites for the top certifications in project management, IT, security, HR, and more.
+Here's a more detailed breakdown of prerequisites for the [top cybersecurity certifications](/articles/top-cybersecurity-providers-recertification-cost).
 
 
 ## Full costs of obtaining and maintaining a certification
 
 Aside from the exam price itself, there are at least two types of costs you need to consider: preparation and recertification cost.
 
-**Preparation costs** could run from zero to thousands of dollars, depending on which resources and courses you're using. The route to take here would depend on how used you are to self-education, how much time you have, how much money you have to spare, and whether there are courses that are particularly to your liking.
+**Preparation costs** could run from zero to thousands of dollars, depending on which resources and courses you're using. The route to take here would depend on how used you are to self-education, how much time you have, how much money you have to spare, and whether there are courses that are particular to your liking.
 
 For some certifications, the required work experience could partially be waived if you pass an eligible course.
 
-**Recertification cost** is a fee that you need to pay every year or once a few years, and a number of learning units you need to submit to show that you keep actively practicing. Attending webinars and conferences, writing articles, reading books, working in a relevant area, organizing events, and so on.
+**Recertification cost** is a fee that you need to pay every year or once a few years, and a number of learning units you need to submit to show that you keep actively practicing. Attending webinars and conferences, writing articles, reading books, working in a relevant area, organizing events, and so on. Some credentials don't expire, so their recertification cost is zero.
 
-Some credentials don't expire, so their recertification cost is zero.
+Check my breakdown of [recertification costs of the cybersecurity](/articles/top-cybersecurity-providers-recertification-cost) credential providers.
 
 
 ## Are you really proving your skills by getting certified?
@@ -132,7 +132,7 @@ Check who they are, their history, their values. Don't take anything for granted
 
 {{< figure src="/article_images/are-certifications-worth-it-img3.jpg" alt="Learn about the authority that issues the certificate before you take the test" caption="photo by \@drolls0ut on Unsplash">}}
 
-All things being equal, I think you're better off getting an entry-level one from a widely recognized provider. For people who don't have proven experience for the main certifications, there's usually some form of an "associate". You'll benefit from the same body of knowledge the higher-level exams have, and from the brand recognition.
+All things being equal, I think you're better off getting an entry-level one from a widely recognized provider. For people who don't have proven experience for the main certifications, the could be [some form of an "associate"](/articles/top-cybersecurity-providers-recertification-cost). You'll benefit from the same body of knowledge the higher-level exams have, and from the brand recognition.
 
 As for the certifications that don't immediately ring the bell for most people, analyze them. Who is the provider? How hard is the exam?
 
