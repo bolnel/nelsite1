@@ -2,7 +2,7 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -12,7 +12,7 @@
   
   <url>
     <loc>https://ninel.work/categories/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -22,7 +22,7 @@
   
   <url>
     <loc>https://ninel.work/tags/certifications/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -32,11 +32,51 @@
   
   <url>
     <loc>https://ninel.work/categories/certifications/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/categories/certifications/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/online-proctored-testing-pros-cons/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/online-proctored-testing-pros-cons/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/self-education/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/self-education/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/tags/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/tags/"
                 />
   </url>
   
@@ -47,36 +87,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/tags/courses/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/self-education/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/self-education/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/"
                 />
   </url>
   
