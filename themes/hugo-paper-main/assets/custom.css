@@ -94,7 +94,7 @@ article h2:after {
     line-height: 1.5;
 }
 
-/* Thumbnail image in the article list */
+/* Thumbnail article list */
 .list_thumbnail {
   width: 350px;
   float: left;
@@ -105,3 +105,11 @@ article h2:after {
   line-height: 1.4;
     margin-top: 5px;
 }
+
+/* The very bottom of the footer */
+.footer_credits {
+  border-top: 1px solid lightgray;
+  padding: 10px 0;
+  margin-top: 20px;
+}
+.footer_credits a {text-decoration: underline;}
