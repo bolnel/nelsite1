@@ -5,6 +5,7 @@ date = "2022-09-24"
 lastmod = "2022-09-24"
 slug = "top-cybersecurity-providers-recertification-cost"
 featured = "/article_images/top-cybersecurity-providers-recertification-cost-hero.jpg"
+thumbnail = "/article_images/top-cybersecurity-providers-recertification-cost-thumbnail.jpg"
 categories = ['certifications', 'self-education']
 tags = ['certifications', 'courses']
 draft = false
