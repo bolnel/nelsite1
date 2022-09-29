@@ -86,9 +86,22 @@ article h2:after {
   display: block;
 }
 
+/* Pieces of text highlighted with purple */
 .paragraph_highlight {
   font-size: 1.5em;
     border-left: 2px solid purple;
     padding-left: 2vw;
     line-height: 1.5;
+}
+
+/* Thumbnail image in the article list */
+.list_thumbnail {
+  width: 350px;
+  float: left;
+    margin: 0 20px 3vw 0;
+}
+
+.list_item_description {
+  line-height: 1.4;
+    margin-top: 5px;
 }

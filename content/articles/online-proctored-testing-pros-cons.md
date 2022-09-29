@@ -5,7 +5,6 @@ date = "2022-09-28"
 lastmod = "2022-09-28"
 slug = "online-proctored-testing-pros-cons"
 featured = "/article_images/online-proctored-testing-pros-cons-hero.jpg"
-twitter = "/article_images/online-proctored-testing-pros-cons-hero-twitter.jpg"
 categories = ['certifications', 'self-education']
 tags = ['certifications']
 draft = false

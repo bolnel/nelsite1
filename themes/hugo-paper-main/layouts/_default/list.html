@@ -44,9 +44,17 @@
 {{ end }}
 
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  <h2 class="!my-0 pb-1 !leading-none">{{ .Title }}</h2>
-  <time class="text-sm opacity-60">{{ .Date | time.Format ":date_medium" }}</time>
-  <a class="absolute inset-0" href="{{ .Permalink }}"></a>
+  <div  style="clear: both;">
+    <div>
+      <a href="{{ .Permalink }}"><img class="list_thumbnail" src="{{ .Params.featured | absURL }}" /></a>
+    </div>
+    <div>
+      <h2 class="!my-0 pb-1 !leading-none">{{ .Title }}</h2>
+      <time class="text-sm opacity-60">{{ .Date | time.Format ":date_medium" }}</time>
+      <p class="list_item_description">{{ .Params.description }}</p>
+      <a class="absolute inset-0" href="{{ .Permalink }}"></a>
+    </div>
+  </div>
 </section>
 {{ end }}
 
