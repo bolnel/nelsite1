@@ -21,36 +21,6 @@
   </url>
   
   <url>
-    <loc>https://ninel.work/categories/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/certifications/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/certifications/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/certifications/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/certifications/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ninel.work/articles/online-proctored-testing-pros-cons/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -67,36 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/self-education/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/self-education/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/</loc>
-    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/courses/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/courses/"
                 />
   </url>
   
@@ -147,26 +87,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/are-certifications-worth-it/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/pmp/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/pmp/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/tags/psm/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/tags/psm/"
                 />
   </url>
   
