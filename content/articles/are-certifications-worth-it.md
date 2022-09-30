@@ -1,8 +1,8 @@
 +++
 title = "Is Getting Certified Worth It? Do the Benefits Outweigh the Costs?"
 description = "Getting a certification is a significant investment of time and money. Will it help with landing a job or earning more? Consider the following points..."
-date = "2022-09-08"
-lastmod = "2022-09-14"
+date = "2022-09-14"
+lastmod = "2022-09-20"
 slug = "are-certifications-worth-it"
 featured = "/article_images/are-certifications-worth-it-hero.jpg"
 thumbnail = "/article_images/are-certifications-worth-it-thumbnail.jpg"
@@ -150,7 +150,7 @@ It will still be useful if you get the most out of the preparation process. Lear
 
 Some certification providers offer the second attempt at a discounted price, so you can use this option if you don't pass at the first attempt.
 
-But you will most likely succeed. Stay tuned for an article on how to prepare for a test and pass it the first time. So not only will you reap the benefits of learning, but you'll also have a credential – a cherry on top of the improvement cake.
+But you will most likely succeed. See how to [prepare for a test and pass it the first time](/articles/how-pass-certification-exam-test-first-try-tips-techniques). So not only will you reap the benefits of learning, but you'll also have a credential – a cherry on top of the improvement cake.
 
 
 ## Conclusion
