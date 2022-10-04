@@ -6,7 +6,6 @@ lastmod = "2022-09-20"
 slug = "are-certifications-worth-it"
 featured = "/article_images/are-certifications-worth-it-hero.jpg"
 thumbnail = "/article_images/are-certifications-worth-it-thumbnail.jpg"
-categories = ['certifications', 'self-education']
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
 +++
