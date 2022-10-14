@@ -1,5 +1,5 @@
 +++
-title = "How to Find the Best Online Course for You? 6 Points to Consider"
+title = "How to Start a Successful Study Group Online? Challenges & Tips"
 description = "A study group could be a fun and efficient way of active learning. But there are challenges an online study group could face - how do you set yours up for success?"
 date = "2022-10-08"
 lastmod = "2022-10-08"
