@@ -89,7 +89,7 @@ There are many great courses you could take for free on [edX](https://www.edx.or
 
 <p class="paragraph_highlight">Are you looking for a course just to get the information it provides? Or do you also want to get a certificate of completion?</p>
 
-Are you after a credential that would confirm your skill level, like a certificate of completing a course from a well-recognized provider, or professional certification? Maybe you have a certification already and are looking to earn the continuing education units?
+Are you after a credential that would confirm your skill level, like a certificate of completing a course from a well-recognized provider, or [professional certification](/articles/are-certifications-worth-it)? Maybe you have a certification already and are looking to earn the continuing education units?
 
 If you do need a credential, you'll need to pay, which brings us to the next question:
 

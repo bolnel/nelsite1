@@ -85,7 +85,7 @@ There are two levels to your way of studying. Let's call them "strategy" and "ta
 _Strategic_ _level_ is your general preference for how you study, based on how much guidance you receive and how many interactions you have with others:
 
 * Study groups
-* Enrolling in a course
+* [Enrolling in a course](/articles/how-find-best-online-course)
 * Individual lessons
 * Self-education
 

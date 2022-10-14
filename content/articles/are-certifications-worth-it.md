@@ -57,7 +57,7 @@ You probably don't have a definitive answer now – after all, having things cla
 With some certifications, you can go ahead and take the test whenever you feel prepared, but many have some condition you have to meet before applying, the most common are:
 
 * Years of experience
-* Taking a course
+* [Taking a course](/articles/how-find-best-online-course)
 * Obtaining a lower-level certification first
 
 It could be just one, or a combination of these, or all three.
@@ -76,7 +76,7 @@ Here's a more detailed breakdown of prerequisites for the [top cybersecurity cer
 
 Aside from the exam price itself, there are at least two types of costs you need to consider: preparation and recertification cost.
 
-**Preparation costs** could run from zero to thousands of dollars, depending on which resources and courses you're using. The route to take here would depend on how used you are to self-education, how much time you have, how much money you have to spare, and whether there are courses that are particular to your liking.
+**Preparation costs** could run from zero to thousands of dollars, depending on which resources and courses you're using. The route to take here would depend on how used you are to self-education, how much time you have, how much money you have to spare, and [whether there are courses](/articles/how-find-best-online-course) that are particular to your liking.
 
 For some certifications, the required work experience could partially be waived if you pass an eligible course.
 

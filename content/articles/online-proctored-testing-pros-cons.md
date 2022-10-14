@@ -11,7 +11,7 @@ tags = ['certifications']
 draft = false
 +++
 
-One of the silver linings to the 2020 COVID pandemic was that the certification providers became much more open to online testing. Now everyone offers this option, so you could take a test from the comfort of your own home.
+One of the silver linings to the 2020 COVID pandemic was that the [certification providers](/articles/are-certifications-worth-it) became much more open to online testing. Now everyone offers this option, so you could take a test from the comfort of your own home.
 
 There are a few caveats, though. I took my certification tests online, and I'll likely continue to do so in the future. But every time at a certain point I wished I were in a test center instead.
 
@@ -111,15 +111,12 @@ But for some tests, there's actually a paper-based option. Here's why I think co
 
 
 1. **Get the results immediately**.
-
     Don't spend another minute worrying about the outcome - learn right away if it's time to celebrate or embrace the failure and get ready for another attempt.
 
 2. **Costs less**.
-
     As the questions are scored automatically, there are less administrative resources involved.
 
 3. **More environment-friendly**.
-
     No printing, no paper (that also contributes to lower cost).
 
 
@@ -129,3 +126,5 @@ But for some tests, there's actually a paper-based option. Here's why I think co
 If there was a test center with high availability a short subway ride away, I'd surely try it out. It must be great to just show your ID at the door and go take your exam without stumbling through the setup and identification procedures.
 
 But in most cases, online proctored testing is the preferred - and often the only - option. While it has its small drawbacks, it's great that we have it.
+
+Before you choose which certification to get, make sure to check [what the recertification costs are](/articles/top-cybersecurity-providers-recertification-cost).
