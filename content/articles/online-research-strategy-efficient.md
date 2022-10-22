@@ -84,7 +84,7 @@ An exit point of a research iteration is a potential entry point of the next one
 
 ### 1. Linked articles
 
-The references linked right in the article are low-hanging fruit. They're right there, a single click away, and they expand on the topics related to the material at hand - an easy way to get new information, ideas, and research leads.
+The references linked right in the article are low-hanging fruit. They're right there, a single click away, and they expand on the topics related to the material at hand – an easy way to get new information, ideas, and research leads.
 
 But should you click every link you see? What if something isn't that relevant to your search topic? And won't it distract from an article you're reading?
 
@@ -105,7 +105,7 @@ There are listicles, review and comparison articles that give an overview and su
 
 **Examples**: "Book Name Here" reviews. Data Scientist average salary. [Pros and cons of online study groups](/articles/start-successful-study-group-online-challenges-tips-guide).
 
-By the way, if you see a numbered list of options, be especially aware that the author might be biased. Check the domain name - does it match the #1 option on the list? Hover over the link - does it have some URL parameters that mean it's a part of a marketing campaign, or maybe even an unmarked affiliate link?
+By the way, if you see a numbered list of options, be especially aware that the author might be biased. Check the domain name – does it match the #1 option on the list? Hover over the link – does it have some URL parameters that mean it's a part of a marketing campaign, or maybe even an unmarked affiliate link?
 
 Comparison lists are useful, but always follow up with your own research.
 
@@ -122,11 +122,11 @@ Have you ever read or even used a word multiple times, only to encounter its def
 
 Our brain has an amazing capacity to infer meaning based on context, experience and intuitions. It's great that we could learn different languages without reaching for the dictionary to check every single word.
 
-However, if we make decisions and build our strategies based on the things we "kinda get" - it's a shaky foundation.
+However, if we make decisions and build our strategies based on the things we "kinda get" – it's a shaky foundation.
 
 "If your code _just works_ and you don't have a clear understanding of why it does, then it's already broken, you simply aren't aware of it yet."
 
-Quoted from memory from the seminal book on coding by Steve McConnell, "Code Complete". But I think it's applicable in all aspects of life, not only in programming.
+Quoted from memory from the seminal book on coding by Steve McConnell, ["Code Complete"](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/). But I think it's applicable in all aspects of life, not only in programming.
 
 You can feel it. The small details you're fuzzy on, those blurry spots in your mental field of vision that make recognizable shapes, but you never look directly at them. Of course, it's unfeasible to have a high-resolution rendering of every single detail in the world around you. But if it's a recurring point, or something that might have an impact on your actions and decisions, stop and honestly ask yourself:
 
@@ -154,17 +154,17 @@ That would give you some specific insights into what you're missing and what poi
 
 Does it seem like you could iterate indefinitely, as there's always something new to be learned?
 
-You have a beacon - the intent from that vague search phrase that you typed into the search engine box first. As you go through the sources, keep in mind the way the new information circles back to your original goal.
+You have a beacon – the intent from that vague search phrase that you typed into the search engine box first. As you go through the sources, keep in mind the way the new information circles back to your original goal.
 
-Soon enough, you'll start seeing there are fewer and fewer new exit points - ideas you haven't seen before, concepts you can't easily explain, and things you haven't tried.
+Soon enough, you'll start seeing there are fewer and fewer new exit points – ideas you haven't seen before, concepts you can't easily explain, and things you haven't tried.
 
-Reading different materials on the subject maps the scope. Seeing the recurring themes would give you a good idea of what the fundamental aspects are. Nearly every source will talk about them - in the body of the text, linked in the text as a reference, or just mentioned in passing, implying the reader already knows the subject well.
+Reading different materials on the subject maps the scope. Seeing the recurring themes would give you a good idea of what the fundamental aspects are. Nearly every source will talk about them – in the body of the text, linked in the text as a reference, or just mentioned in passing, implying the reader already knows the subject well.
 
 There will also be things that are mentioned in just a few sources, and nuggets of information that are only brought up once or twice.
 
 <p class="paragraph_highlight">This will help to deal with an issue of "you don't know what you don't know" and missing something important.</p>
 
-You won't remain oblivious for long - if some sources didn't bring up an important point, or if you missed it because you had to process a lot of information, you'll definitely notice it as you go through more sources.
+You won't remain oblivious for long – if some sources didn't bring up an important point, or if you missed it because you had to process a lot of information, you'll definitely notice it as you go through more sources.
 
 {{< figure src="/article_images/online-research-strategy-efficient-img5.jpg" alt="Check out different sources and go beyond the first page as you perform your Google search" caption="photo by \@george-milton on Pexels">}}
 
@@ -187,15 +187,15 @@ However, we’re digging deep, so why not look through 2-3 more pages? You might
 
 There are popular ones, like putting word combinations in quotes to find the exact match, using "-" to exclude certain keywords, or typing "site:" to find the results on a specific website.
 
-But there are many more [Google search operators](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) that aren't as common - they might also come in handy.
+But there are many more [Google search operators](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) that aren't as common – they might also come in handy.
 
 
 ## Conclusion. "Mapping the Catacombs"
 
-In the beginning, I compared [navigating a body of knowledge](https://www.elearners.com/education-resources/online-learning/how-to-conduct-research-online/) to finding your way through a labyrinth. But when we imagine a labyrinth, it's usually flat - and what we're about to map definitely has more than two dimensions. The pathways are interconnected, deep, and initially dark.
+In the beginning, I compared [navigating a body of knowledge](https://www.elearners.com/education-resources/online-learning/how-to-conduct-research-online/) to finding your way through a labyrinth. But when we imagine a labyrinth, it's usually flat – and what we're about to map definitely has more than two dimensions. The pathways are interconnected, deep, and initially dark.
 
-So, “cave system” would be a more accurate analogy. However, I don’t have first-hand experience with caves - but a few hours spent in abandoned catacombs left an impression.
+So, “cave system” would be a more accurate analogy. However, I don’t have first-hand experience with caves – but a few hours spent in abandoned catacombs left an impression.
 
-Not as extreme as caves, you could comfortably walk through the corridors most of the time - but you can get hopelessly lost in a three-dimensional labyrinth if your trusty flashlight goes out, even if you know the area in and out.
+Not as extreme as caves, you could comfortably walk through the corridors most of the time – but you can get hopelessly lost in a three-dimensional labyrinth if your trusty flashlight goes out, even if you know the area in and out.
 
 I’m calling this approach to research “Mapping the Catacombs”. You look into deep corners, create connections, illuminate the paths. And eventually, you have a clear vision of how to get to the point you’re seeking.
