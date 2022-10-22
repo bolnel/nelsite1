@@ -44,7 +44,7 @@ Then you check the availability of your local test center and realize that the n
 
 That's yet another week to prepare and double-check the materials - or to brew anxiety as you spend days imagining what the exam would be like.
 
-{{< figure src="/article_images/online-proctored-testing-pros-cons-img1.jpg" alt="Anxious about taking your certification test? Check the requirements" caption="photo by \@jeshoots on Unsplash">}}
+{{< figure src="/article_images/online-proctored-testing-pros-cons-img1.jpg" alt="Anxious about taking your certification test? Check the requirements" caption="photo by \@mikhail-nilov on Unsplash">}}
 
 Depends on what kind of person you are. For some, it's better to set the exam date a few weeks in advance, as it gives the deadline that stimulates studying. Personally, I go at full speed the moment I set my mind to learning something, then I prefer to finalize it once I'm ready and free my mind to fully allocate its resources to something else.
 

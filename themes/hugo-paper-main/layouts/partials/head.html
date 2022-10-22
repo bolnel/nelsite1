@@ -1,4 +1,13 @@
 <head>
+  <!-- Preventing the elements, especially img without width, from overflowing - against GConsole mobile usability issues-->
+  <style>
+      :where(body, iframe, pre, img, svg, video, canvas, select) {
+          max-width: 100%;
+          overflow: auto;
+          word-break: break-word;
+      }
+  </style>
+
   <!-- Google tag (gtag.js) Google Analytics-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-92KTFPL9LQ"></script>
 <script>
