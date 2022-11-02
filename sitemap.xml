@@ -2,11 +2,31 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/develop-intuition-learning-self-awareness/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/develop-intuition-learning-self-awareness/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
                 />
   </url>
   
@@ -17,16 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/psm-csm-which-scrum-certification-best/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
                 />
   </url>
   
