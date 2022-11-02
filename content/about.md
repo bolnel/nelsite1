@@ -11,4 +11,4 @@ The overall topic of this blog is "Personal Growth via Lifelong Learning" – yo
 
 I’d be happy if you join me on this journey!
 
-{{< figure src="/about-ninel-retro-circus.JPG" alt="Loft, retro circus black-and-white outfit" caption="photo by Victor Yasinsky">}}
+{{< figure src="/about-ninel-retro-circus.JPG" alt="Loft, retro circus black-and-white outfit" caption="photo by Erandir">}}

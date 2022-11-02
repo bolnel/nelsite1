@@ -226,4 +226,4 @@ The following factors have influenced my decision:
 
 Thus I went straight for PSM II, and the understanding of Agile approaches that got ingrained in my head during the preparation was a solid basis for passing my PMP exam.
 
-Here’s my strategy to pass an exam on the first try.
+Here’s my strategy to [pass an exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
