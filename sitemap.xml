@@ -1,12 +1,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ninel.work/articles/free-scrum-agile-webinars-prepare-certification-exam/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/free-scrum-agile-webinars-prepare-certification-exam/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
                 />
   </url>
   
@@ -17,16 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/develop-intuition-learning-self-awareness/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
                 />
   </url>
   
