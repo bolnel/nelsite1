@@ -204,7 +204,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 {{< youtube _wnd-eyPoMo >}}
 
-**Speaker**: Jez Humble. Software engineer and product development consultant on international scale.
+**Speaker**: Jez Humble. Software engineer and product development consultant on an international scale.
 
 **Webinar name**: Architecting for Continuous Delivery
 
@@ -219,6 +219,6 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 Hope some of the materials here stroke a chord with you and contributed to your journey as a Scrum Master, Product Owner, or Agile Developer.
 
-And regardless of your accountability, each of us grows as a person and a leader when we’re willing to learn, inspect and adapt, and improve.
+And regardless of your accountability, each of us grows as a person and a leader when we’re [willing to learn](/articles/online-research-strategy-efficient), inspect and adapt, and improve.
 
-If you consider getting a Scrum Master certification, see how PSM is different from CSM, and take a look at my guide on how to get PSM certifications of all levels.
+If you consider getting a Scrum Master certification, see [how PSM is different from CSM](/articles/psm-csm-which-scrum-certification-best), and take a look at my guide on how to get PSM certifications of all levels.
