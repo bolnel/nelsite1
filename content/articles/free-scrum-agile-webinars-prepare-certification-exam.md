@@ -26,7 +26,7 @@ Each entry on this list is titled with the main question the webinar answers.
 
 {{< table_of_contents >}}
 
-## What impact does Product Owner have?
+## 1. What impact does Product Owner have?
 
 {{< youtube 5plarx4ZvuE >}}
 
@@ -41,7 +41,7 @@ Each entry on this list is titled with the main question the webinar answers.
 **Related reading**: _The Professional Product Owner: Leveraging Scrum as a Competitive Advantage_ by Don McGreal and Ralph Jocham. Available on [Amazon](https://www.amazon.com/Professional-Product-Owner-Leveraging-Competitive/dp/0134686470) and [Barnes & Noble](https://www.barnesandnoble.com/w/professional-product-owner-the-don-mcgreal/1138611618?ean=9780134686479).
 
 
-## What happens if you only pay attention to the “urgent”?
+## 2. What happens if you only pay attention to the “urgent”?
 
 {{< youtube dEHtDfQTNcw >}}
 
@@ -58,7 +58,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question_ by Daniel Vakanti. Available on [Amazon](https://www.amazon.com/gp/product/B084WVMKLC/ref=dbs_a_def_rwt_bibl_vppi_i1) and [Barnes & Noble](https://www.barnesandnoble.com/w/when-will-it-be-done-daniel-s-vacanti/1136492825?ean=9780986436376).
 
 
-## How to make team communication more open and transparent?
+## 3. How to make team communication more open and transparent?
 
 {{< youtube 02eU5CEbJRE >}}
 
@@ -74,7 +74,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 {{< figure src="/article_images/free-scrum-agile-webinars-prepare-certification-exam-img1.jpg" alt="Agile principle is: people over processes and tools. Team communication is very important." caption="photo by \@polina-zimmerman on Pexels">}}
 
-## Do job titles exist in Scrum?
+## 4. Do job titles exist in Scrum?
 
 {{< youtube 0fW8aoxyVHs >}}
 
@@ -89,7 +89,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _Mastering Professional Scrum_ by Stephanie Ockerman and Simon Reindl. Available on [Amazon](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522) and [Barnes & Noble](https://www.barnesandnoble.com/w/mastering-professional-scrum-stephanie-ockerman/1132975155?ean=9780134841526).
 
 
-## How to get funding for your product developed with Scrum?
+## 5. How to get funding for your product developed with Scrum?
 
 {{< youtube uWxeSkPvKgM >}}
 
@@ -104,7 +104,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _The Professional Agile Leader: Growing Mature Agile Teams and Organizations_ by Ron Eringa, Kurt Bittner, Laurens Bonnema. Available on [Amazon](https://www.amazon.com/Professional-Agile-Leader-Growing-Organizations/dp/0137591519/) and [Barnes & Noble](https://www.barnesandnoble.com/w/professional-agile-leader-the-ron-eringa/1141785998?ean=9780137591510).
 
 
-## How to create self-organizing teams with Scrum – Nexus?
+## 6. How to create self-organizing teams with Scrum – Nexus?
 
 {{< youtube jvoSGaQ-Mbs >}}
 
@@ -120,7 +120,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 {{< figure src="/article_images/free-scrum-agile-webinars-prepare-certification-exam-img2.jpg" alt="How to facilitate Scrum values in a team to develop great products?" caption="photo by \@rodnae-prod on Pexels">}}
 
-## What power do you use to be a leader?
+## 7. What power do you use to be a leader?
 
 {{< youtube fyDYpGCuvaA >}}
 
@@ -139,7 +139,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power_ by Christopher Avery. Available on [Amazon](https://www.amazon.com/Responsibility-Process-Unlocking-Natural-Ability/dp/099774720X) and [Barnes & Noble](https://www.barnesandnoble.com/w/the-responsibility-process-christopher-avery/1124684502?ean=9780997747201).
 
 
-## How does Little’s Law work?
+## 8. How does Little’s Law work?
 
 {{< vimeo 52683659 >}}
 
@@ -154,7 +154,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _Actionable Agile Metrics for Predictability: An Introduction_ by Daniel Vakanti. Available on [Amazon](https://www.amazon.com/Actionable-Agile-Metrics-Predictability-Introduction/dp/098643633X) and [Barnes & Noble](https://www.barnesandnoble.com/w/actionable-agile-metrics-for-predictability-daniel-s-vacanti/1122562436?ean=9780986436338).
 
 
-## Do Scrum teams think about product architecture?
+## 9. Do Scrum teams think about product architecture?
 
 {{< youtube IBqOrCpRP8Y >}}
 
@@ -170,7 +170,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 {{< figure src="/article_images/free-scrum-agile-webinars-prepare-certification-exam-img3.jpg" alt="As an agile leader, facilitate values of commitment, courage, openness and respect on your team" caption="photo by \@polina-kovaleva on Pexels">}}
 
-## How to use Scrum with Kanban?
+## 10. How to use Scrum with Kanban?
 
 {{< youtube 23MCJLU76rQ >}}
 
@@ -185,7 +185,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _Practical Kanban: From Team Focus to Creating Value_ by Klaus Leopold. Available on [Amazon](https://www.amazon.com/Practical-Kanban-Focus-Creating-Value-ebook/dp/B077RZ2JNS) and [Barnes & Noble](https://www.barnesandnoble.com/w/practical-kanban-klaus-leopold/1127769552?ean=9783903205000).
 
 
-## What is the biggest question to answer when conceiving a product?
+## 11. What is the biggest question to answer when conceiving a product?
 
 {{< youtube qp0HIF3SfI4 >}}
 
@@ -200,7 +200,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 **Related reading**: _Start with Why: How Great Leaders Inspire Everyone to Take Action_ by Simon Sinek. Available on [Amazon](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) and [Barnes & Noble](https://www.barnesandnoble.com/w/start-with-why-simon-sinek/1016513563?ean=9781591846444).
 
 
-## How to implement continuous delivery?
+## 12. How to implement continuous delivery with Scrum?
 
 {{< youtube _wnd-eyPoMo >}}
 
