@@ -1,5 +1,5 @@
 +++
-title = "PSM I certification: How to Prepare for and Pass the Exam"
+title = "PSM I Certification: How to Prepare for and Pass the Exam"
 description = "Professional Scrum Master certification exam tests your understanding of the Scrum framework. How hard is this exam, and how do you pass it successfully?"
 date = "2022-11-04"
 lastmod = "2022-11-04"
@@ -33,7 +33,7 @@ At the time of writing, among 750 000 professional certifications issued, around
 
 {{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
 
-As you can see, only under 5% of PSM I certification holders went on to obtain PSM II. However, PSM 1 isn’t the prerequisite for PSM 2, and maybe you’ll even opt to go straight for the second level of PSM – see below what the differences are.
+As you can see, only under 5% of PSM I certification holders went on to obtain PSM II. However, PSM 1 isn’t the prerequisite for PSM 2, and maybe you’ll even opt to go [straight for the second level of PSM](/articles/psm-2-certification-exam-preparation) – see below what the differences are.
 
 
 ### PSM I exam and preparation cost
@@ -55,7 +55,7 @@ If you have the funds, taking a training course by a Professional Scrum Trainer 
 
 According to the calculations I ran when [comparing PSM I to the first level of CSM](/articles/psm-csm-which-scrum-certification-best), the PSM version is harder since there’s considerably less time per question.
 
-You’ll need to answer 80 questions in 60 minutes and get at least 68 of them correct to achieve a passing score of 85%.
+<p class="paragraph_highlight">You’ll need to answer 80 questions in 60 minutes and get at least 68 of them correct to achieve a passing score of 85%.</p>
 
 However, in and of itself the PSM I test is straightforward – as long as you know the Scrum Guide well. The best way to learn it well is to understand how its elements come together and try to implement its principles in practice.
 
@@ -98,7 +98,7 @@ PSM II is obviously a harder test, and it takes more time to prepare.
 
 But if you know that your aspiration is to deeply dive into Scrum, and you feel you're going to attempt the second level anyway (some people pass PSM 2 just months or even weeks after PSM 1), then you might as well go straight for PSM II, like I did.
 
-Check out the guide on how to pass the PSM II exam and see which certification level resonates more with your experience and aspirations.
+Check out the guide on [how to pass the PSM II exam](/articles/psm-2-certification-exam-preparation) and see which certification level resonates more with your experience and aspirations.
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img2.jpg" alt="You can go directly for the PSM II exam, skipping the PSM. Will you try it?" caption="photo by \@ann-h-45017 on Pexels">}}
 
@@ -109,7 +109,7 @@ There are things described as “easy to learn but hard to master”. Scrum Guid
 
 Akin to ancient spiritual manuscripts, you have the original small book, and then there are volumes upon volumes of comments, interpretations, and examples of practical implementation.
 
-Getting a certification is great, but the main value you get is from the preparation. It’s a wonderful journey, so make the most of it.
+<p class="paragraph_highlight">Getting a certification is great, but the main value you get is from the preparation. It’s a wonderful journey, so make the most of it.</p>
 
 Start with a solid understanding of [why you want to get certified](/articles/are-certifications-worth-it), curious, open-minded, driven by a desire to expand your horizons, and ready to [dive into learning](/articles/online-research-strategy-efficient).
 
@@ -146,7 +146,7 @@ These used to be named “Roles”, but turned into job titles over the years, m
 * **Sprint Goal, Definition of Done, Product Backlog** and its **Refinement**.
 * Scrum Teams are **cross-functional** and **self-managing**. The latter used to be “self-organizing” in the 2017 version of the Guide. Can you tell [what the difference is](https://www.scrum.org/resources/blog/scrum-team-self-managing)?
 
-Practice by explaining each of the highlighted items to a friend. Then to another friend.
+<p class="paragraph_highlight">Practice by explaining each of the highlighted items to a friend. Then to another friend.</p>
 
 You could try [organizing a study group](/articles/start-successful-study-group-online-challenges-tips-guide) with peers who are also going to take the PSM I test or are just interested in Agile and Scrum.
 
@@ -172,7 +172,7 @@ This [PSM I simulator by Volkerdon](https://www.udemy.com/course/scrum-master-ex
 1. _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_ (3rd edition) by Gunther Verheyen. A fundamental book for beginners explaining the Agile principles and the elements, methods, and principles of the Scrum Framework. The third edition, released in 2021, is fully aligned with the newest version of the Scrum Guide. Available on [Amazon](https://www.amazon.com/gp/product/B08XWQ7DG9/) and [Barnes & Noble](https://www.barnesandnoble.com/w/scrum-a-pocket-guide-3rd-edition-gunther-verheyen/1138924732?ean=9789401807364).
 2. _[Scrum Insights for Practitioners: The Scrum Guide Companion](https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion/dp/0692807179)_ by Hiren Doshi. A book about the practical application of the Scrum framework in different situations. It touches on questions like:
 	- How is Scrum empirical?
-	- What are the tactics to do Scrum Events effectively? 
+	- What are the tactics to do Scrum Events effectively?
 	- Are we still practicing Scrum if we have more than nine members on our team?
 
     It was released in 2016, so contains some older terminology like “Development Team” or “Scrum roles”, but the core principles remain topical. Available on [Amazon](https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion/dp/0692807179) and [Barnes & Noble](https://www.barnesandnoble.com/w/scrum-insights-for-practitioners-hiren-doshi/1125252333?ean=9780692807170).
@@ -185,6 +185,6 @@ This [PSM I simulator by Volkerdon](https://www.udemy.com/course/scrum-master-ex
 
 Good luck with your PSM I exam!
 
-Once you pass it, you could gain more experience and get the PSM II certification – or maybe you’ll even decide to get it right away.
+Once you pass it, you could gain more experience and [get the PSM II certification](/articles/psm-2-certification-exam-preparation) – or maybe you’ll even decide to get it right away.
 
 And one day, perhaps you’ll want to attempt the PSM III exam –- only 0.2% of PSM certification holders achieve it. Are you up for a challenge?
