@@ -145,7 +145,7 @@ Consider [organizing a study group](/articles/start-successful-study-group-onlin
 
 ## PSM 2 exam simulator
 
-Remember: exam simulators rapidly lose their efficiency as you do rounds with them and get to remember the questions. Here are my tips on how to [make the most out of test simulators](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+Remember: exam simulators rapidly lose their efficiency as you do rounds with them and get to remember the questions. Here are my tips on how to [make the most out of test simulators](/articles/how-pass-certification-exam-test-first-try-tips-techniques/#using-the-exam-simulators).
 
 Scrum.org has a number of open assessments – Scrum Master, Product Owner, Evidence-Based Management, and a few others. Take all of them to get a fuller picture and aim for high scores in each.
 
