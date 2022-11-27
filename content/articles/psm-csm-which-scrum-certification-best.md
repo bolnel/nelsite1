@@ -33,13 +33,19 @@ Both PSM and CSM have three levels – foundation, advanced and expert.
 
 The PSM I exam is mainly aimed at testing your knowledge and understanding of the Scrum Guide.
 
+**Related**: [a guide to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation).
+
 [PSM II](https://www.scrum.org/assessments/professional-scrum-master-ii-certification). Meant for Scrum Masters with in-depth experience applying the framework in real-world scenarios. A year of work experience is recommended but not required.
 
 The PSM II exam asks you situational questions to test your interpretation of the Scrum Guide and the Scrum Master role in different situations.
 
+**Related**: [PSM II exam study guide](/articles/psm-2-certification-exam-preparation).
+
 [PSM III](https://www.scrum.org/assessments/professional-scrum-master-iii-certification). Validates the understanding of applying Scrum practices and values in complex scenarios. It is recommended to have extensive work experience as a Scrum Master, as you’ll have to draw from your experience to answer the questions. Meant for individuals at a level of mastery sufficient to coach others.
 
 80% of the PSM III exam are open questions you need to write answers for, and the rest have multiple answers.
+
+**Related**: [strategies to pass the PSM III exam](/articles/psm-3-certification-exam-preparation).
 
 To attempt any one of the PSM exams, you buy a non-expiring, single-use access code and apply it whenever you feel ready. The exams aren't proctored.
 
@@ -97,7 +103,7 @@ Professional Scrum Master I [exam details](https://www.scrum.org/assessments/pro
 
 ## Is PSM I more difficult than CSM?
 
-The duration is the same (60 minutes), but PSMI has 60% more questions (80 vs. 50 for CSM), and its passing score is 10% higher.
+The duration is the same (60 minutes), but PSM I has 60% more questions (80 vs. 50 for CSM), and its passing score is 10% higher.
 
 This means that to achieve a passing score of 74% for CSM, you need to answer at least 37 questions correctly in an hour. This gives you over one and a half minutes per question, on average.
 
@@ -107,7 +113,7 @@ To pass the PSM I exam with a score of at least 85%, you’ll need to give 68 co
 
 But things are further complicated with the question types. CSM consists of multiple-choice questions, i.e. questions that have only one correct answer.
 
-PSMI has multiple-answer questions, which are more tricky - you could stop for a good minute, second-guessing yourself. True/false could also misfire if you don’t pay attention or misinterpret the question and answer the opposite of what has been asked.
+PSM I has multiple-answer questions, which are more tricky - you could stop for a good minute, second-guessing yourself. True/false could also misfire if you don’t pay attention or misinterpret the question and answer the opposite of what has been asked.
 
 Taking those into consideration, I estimate PSM I to be at least twice harder than CSM.
 
@@ -148,9 +154,11 @@ Required certification units and recertification costs for the Scrum Master trac
 * A-CSM: 30 SEU, $175 renewal fee.
 * CSP-SM: 40 SEU, $250 renewal fee.
 
-If you have certifications on different levels, you only need to pay to renew the top-level one, the rest renew automatically. But you need to submit at least half of SEUs required for each of the lower-level certifications.
+If you have certifications on different levels, you only need to pay to renew the top-level one, the rest renew automatically. But you need to submit at least half of SEUs required for each of the certifications on a different track.
 
 Attending a higher-level certification course automatically renews all lower-level certifications.
+
+Related: this article goes into detail about [obtaining SEUs to renew your certifications](/articles/how-get-seu-csm-renewal-free) by Scrum Alliance.
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img4.jpg" alt="Scrum master helps the team to implement the Scrum practices" caption="photo by \@fauxels on Pexels">}}
 
