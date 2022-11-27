@@ -187,4 +187,4 @@ Good luck with your PSM I exam!
 
 Once you pass it, you could gain more experience and [get the PSM II certification](/articles/psm-2-certification-exam-preparation) – or maybe you’ll even decide to get it right away.
 
-And one day, perhaps you’ll want to attempt the PSM III exam –- only 0.2% of PSM certification holders achieve it. Are you up for a challenge?
+And one day, perhaps you’ll want to attempt the PSM III exam –- only 0.2% of PSM certification holders achieve it. Are you up for a challenge? Here's the guide on [preparing for the PSM III certification](/articles/psm-3-certification-exam-preparation).

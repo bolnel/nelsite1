@@ -205,4 +205,4 @@ Good luck with your PSM II exam!
 
 Getting ready for the test, and eventually obtaining a certification, is a very rewarding experience.
 
-If you passed with a high score, you have a solid basis for passing the PSM III exam.
+If you passed with a high score, you have a solid basis for [passing the PSM III exam](/articles/psm-3-certification-exam-preparation).

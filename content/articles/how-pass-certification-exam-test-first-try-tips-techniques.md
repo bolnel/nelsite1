@@ -15,7 +15,7 @@ So, you figured out [why you want to get certified](/articles/are-certifications
 
 I'm not giving you a 100% success guarantee (and you should be wary of people who claim they do). But I'll share an approach that would increase your chances greatly.
 
-Using this approach, I passed the PSM II exam, aced my PMP, and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
+Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation), aced my PMP, and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
 
 The main points to successfully pass the exam are:
 
