@@ -51,6 +51,8 @@ But either way, it's important to expand your knowledge and improve your skills.
 
 The following activities would be beneficial for your growth as a Scrum practitioner and an Agile professional.
 
+**Related**: [Should I Renew My Professional Certification or Let It Expire?](/articles/renew-certification-or-let-it-expire)
+
 {{< figure src="/article_images/how-get-seu-csm-renewal-free-img1.jpg" alt="Reading books about Scrum, Agile, and leadership will give you SEUs" caption="photo by \@olly on Pexels">}}
 
 
