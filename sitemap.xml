@@ -2,11 +2,31 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/is-the-scrum-master-role-right-for-me/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/is-the-scrum-master-role-right-for-me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
                 />
   </url>
   
@@ -17,16 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/develop-agile-mindset-guide/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
                 />
   </url>
   
