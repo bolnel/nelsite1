@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready text-sm lg:text-base"
+  style="--bg: #fff"
+  lang="en-us"
+>
+  <head>
+  
+  <style>
+      :where(body, iframe, pre, img, svg, video, canvas, select) {
+          max-width: 100%;
+          overflow: auto;
+          word-break: break-word;
+      }
+  </style>
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-92KTFPL9LQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-92KTFPL9LQ');
+</script>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="robots" content="max-image-preview:large"> 
+  <meta name="p:domain_verify" content="6be5fb8ad56aad327e162f7c2253ab00"/> 
+
+  
+  <link rel="shortcut icon" href="https://ninel.work/favicon.ico" />
+  <link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="https://ninel.work/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://ninel.work/favicon-192-192.png" />
+
+  
+  <title> Cynefin Framework for Decision-Making Explained and Applied</title>
+
+  
+  <meta name="twitter:card" content="summary_large_image"></meta>
+  <meta name="twitter:title" content="Cynefin Framework for Decision-Making Explained and Applied"/>
+  <meta name="twitter:description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it."/>
+  <meta name="twitter:creator" content="@NinelBolotova">
+  <meta name="twitter:image" content="https://bolnel.github.io/nelsite1/article_images/cynefin-framework-decision-making-explained-hero.jpg" />
+
+<meta name="author" content="" />
+<meta name="description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it." />
+<meta itemprop="description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it." />
+<meta property="og:description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it." />
+<meta name="keywords" content="" />
+
+
+  
+  <meta itemprop="image" content="https://ninel.work/article_images/cynefin-framework-decision-making-explained-hero.jpg" />
+  <meta property="og:image" content="https://ninel.work/article_images/cynefin-framework-decision-making-explained-hero.jpg" />
+
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="https://ninel.work/main.min.css" />
+
+  
+  <script
+    defer
+    src="https://ninel.work/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+  <link
+    rel="preload"
+    as="image"
+    href="https://ninel.work/theme.png"
+  />
+
+  
+  
+  
+  
+
+  
+
+  
+  <link rel="icon" href="https://ninel.work/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://ninel.work/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.108.0">
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="Cynefin Framework for Decision-Making Explained and Applied" />
+<meta property="og:description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ninel.work/articles/cynefin-framework-decision-making-explained/" /><meta property="article:section" content="articles" />
+<meta property="article:published_time" content="2022-12-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-12-12T00:00:00+00:00" />
+
+  
+  <meta itemprop="name" content="Cynefin Framework for Decision-Making Explained and Applied">
+<meta itemprop="description" content="Cynefin is a &#34;sense-making&#34; framework that helps with understanding the kind of challenge you&#39;re facing and choosing the most suitable approach to deal with it."><meta itemprop="datePublished" content="2022-12-12T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-12-12T00:00:00+00:00" />
+<meta itemprop="wordCount" content="2411">
+<meta itemprop="keywords" content="" />
+  
+  
+  
+  
+
+  
+  <script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('a72b4488cb8941')
+</script>
+
+
+
+<script type="text/javascript">
+  window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])};
+  heap.load("1992411346");
+</script>
+
+
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="site_header mx-auto flex h-[5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a class="logo_avatar" href="https://ninel.work/about"> <img src="https://ninel.work/ninel_header_avatar.jpg" alt="blog by Ninel Bolotova"> </a>
+    <a class="twitter_icon_header" href="https://twitter.com/NinelBolotova" target=_blank><img src="https://ninel.work/twitter_logo_blue.png" alt="Ninel's Twitter"></a>
+    <a class="" href="https://www.linkedin.com/in/ninel-b/" target=_blank><img src="https://ninel.work/linkedin_logo_blue.png" alt="Ninel's LinkedIn"></a>
+
+  </div>
+
+  <a
+    class="btn-menu relative z-50 -mr-8 flex h-[5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+  ></a>
+
+  
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = `"#fff"`.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    const darkVal = localStorage.getItem('dark');
+    setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+        href="https://ninel.work/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+        href="https://ninel.work/articles/"
+        >Articles</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+        href="https://ninel.work/contact/"
+        >Contact</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal header_nav_button"
+        href="https://ninel.work/work-with-ninel/"
+        >Work with me</a
+      >
+      
+    </nav>
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-10rem)] max-w-3xl px-8 pt-20 pb-16 dark:prose-invert"
+    >
+      
+
+<article>
+  <header>
+    <h1 class="!my-0 article_header">Cynefin Framework for Decision-Making Explained and Applied</h1>
+    <span class="article_header_under"></span>
+
+  </header>
+
+  <section><p>What do I do now?</p>
+<p>Should I swiftly <a href="https://ninel.work/articles/develop-intuition-learning-self-awareness">act on a hunch</a> or gather more information? Should I seek help? Is there an obvious solution that I’m missing?</p>
+<p>Cynefin (spelled “kuh-NEV-in”) is a “sense-making” framework. It aims to help with the understanding of what kind of a situation you’re in and what is the optimal course of action in this situation.</p>
+<p>A solution that works in one context could be worthless or even harmful in another.</p>
+<p>In this article, we will look at what the Cynefin framework is and how its insights could be applied to all areas of life.</p>
+<figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-hero.jpg"
+         alt="What is the Cynefin framework and how can it be applied to various areas in life?"loading="lazy"/><figcaption>
+            <p>photo by @soymeraki on Unsplash</p>
+        </figcaption>
+</figure>
+
+<div class="toc">
+  <label for="show_contents">CONTENTS  &nbsp;&nbsp;&nbsp;&nbsp;  ⇅</label>
+  <input id="show_contents" type="checkbox" name="_toc">
+         <nav id="TableOfContents">
+  <ul>
+    <li><a href="#origins-and-purpose-of-the-cynefin-framework">Origins and purpose of the Cynefin framework</a>
+      <ul>
+        <li><a href="#what-does-cynefin-mean">What does “Cynefin” mean?</a></li>
+        <li><a href="#cynefin-domains-at-a-glance">Cynefin domains at a glance</a></li>
+        <li><a href="#ordered-an-unordered-systems-in-cynefin">Ordered an Unordered systems in Cynefin</a></li>
+      </ul>
+    </li>
+    <li><a href="#where-can-the-cynefin-framework-be-applied">Where can the Cynefin framework be applied?</a></li>
+    <li><a href="#the-clear-obvious-simple-domain">The Clear (Obvious, Simple) domain</a>
+      <ul>
+        <li><a href="#potential-problems-within-the-clear-domain">Potential problems within the Clear domain</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-complicated-domain">The Complicated domain</a>
+      <ul>
+        <li><a href="#potential-issues-within-the-complicated-domain">Potential issues within the Complicated domain</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-complex-domain">The Complex domain</a>
+      <ul>
+        <li><a href="#what-is-an-exaptive-practice">What is an exaptive practice?</a></li>
+        <li><a href="#caution-experts-in-the-complex-domain-in-cynefin">Caution: experts in the Complex domain in Cynefin</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-chaotic-domain">The Chaotic domain</a>
+      <ul>
+        <li><a href="#the-pitfall-of-greatness-in-the-chaotic-domain">The pitfall of greatness in the Chaotic domain</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-disorder-domain">The Disorder domain</a>
+      <ul>
+        <li><a href="#what-is-the-difference-between-chaos-and-disorder-in-cynefin">What is the difference between Chaos and Disorder in Cynefin?</a></li>
+      </ul>
+    </li>
+    <li><a href="#levels-of-constraints-in-the-cynefin-framework">Levels of constraints in the Cynefin framework</a>
+      <ul>
+        <li><a href="#enabling-vs-governing-constraints-whats-the-difference">Enabling vs. Governing constraints: what’s the difference?</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-to-understand-which-cynefin-domain-youre-in">How to understand which Cynefin domain you’re in?</a></li>
+    <li><a href="#cynefin-team-exercise-the-lego-game">Cynefin team exercise: the Lego game</a></li>
+    <li><a href="#further-reading">Further reading</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+</div>
+
+<h2 id="origins-and-purpose-of-the-cynefin-framework">Origins and purpose of the Cynefin framework</h2>
+<p>The Cynefin model was created in 1999 by Dave Snowden, a researcher in the field of knowledge management and the application of complexity science.</p>
+<p>People are prone to falling into a habit and make mistakes in judgment:</p>
+<ul>
+<li>Trying to fit complex problems into simple solutions</li>
+<li>Making things more complicated than they actually are</li>
+<li>Applying the solutions that worked before, even though the context has changed</li>
+</ul>
+<p>The framework was originally <a href="https://thecynefin.co/about-us/about-cynefin-framework/">developed for the leaders</a>, to help them understand the type of challenge they’re facing and the relevant way of dealing with it. But it can be used in a wide variety of contexts.</p>
+<h3 id="what-does-cynefin-mean">What does “Cynefin” mean?</h3>
+<p>In Dave’s native language, Welsh, “Cynefin” means “habitat”, “acquainted”, “familiar”. It describes an environment in which you live, the one you’re accustomed to.</p>
+<h3 id="cynefin-domains-at-a-glance">Cynefin domains at a glance</h3>
+<p>In my interpretation, the domains could be summarized like this:</p>
+<ul>
+<li>The <strong>Clear</strong> domain: I know the target and I know the way</li>
+<li>The <strong>Complicated</strong> domain: I know the target, I need to find the best way</li>
+<li>The <strong>Complex</strong> domain: The target may change as I’m trying different ways to get there</li>
+<li>The <strong>Chaotic</strong> domain: I have to define the target and the way</li>
+<li>The <strong>Disorder</strong> domain: I don’t know where I’m at and I’m not sure what to do</li>
+</ul>
+<figure><img src="https://ninel.work/article_images/Cynefin-framework-infographic-explained.jpg"
+         alt="An infographic explaining the Cynefin domains and actions"loading="lazy"/><figcaption>
+            <p>Cynefin framework domains</p>
+        </figcaption>
+</figure>
+
+<h3 id="ordered-an-unordered-systems-in-cynefin">Ordered an Unordered systems in Cynefin</h3>
+<p>Clear and Complicated are ordered domains. In ordered domains, we can leverage the knowledge from previous experiences. The relationship between cause and effect is linear.</p>
+<p>If the problem hasn’t been experienced before, the system is unordered. Complex and Chaos domains are unordered.</p>
+<p>The Disorder domain is murky waters where you’re not sure which system you’re actually in.</p>
+<h2 id="where-can-the-cynefin-framework-be-applied">Where can the Cynefin framework be applied?</h2>
+<p>The premise in Cynefin is that the solution must fit the problem, so it would be pretty ironic to try using the Cynefin framework to categorize any and all kinds of situations.</p>
+<p>The domains in Cynefin describe <strong>systems</strong> first and foremost, and the advice it gives is on navigating those systems.</p>
+<p>This lends itself well to group and organizational challenges. For example, what kind of methodology to use for a project – Agile or Waterfall.</p>
+<p><strong>Related</strong>: <a href="https://ninel.work/articles/develop-agile-mindset-guide">How to develop an Agile mindset</a>.</p>
+<p>But it gets more confusing on the individual level. Once you read about the domains, try to figure out where each of those scenarios belongs and why:</p>
+<ul>
+<li>You want to exercise regularly but can’t find the time</li>
+<li>There’s a toxic person in your life that you want to get rid of</li>
+<li>You&rsquo;re looking for a new job but your applications get rejected</li>
+</ul>
+<p>But even if the specific situations don&rsquo;t fit quite well into the Cynefin domains, understanding the framework is beneficial. It helps with shaping your thinking to approach any situation in a more deliberate, structured way.</p>
+<ul>
+<li>What is the relationship between my actions and their results? Can I predict the results? Can I control them?</li>
+<li>Is there a good practice of what to do in such a situation?</li>
+<li>Why do I prefer one solution over another?</li>
+<li>Do I have the information necessary to move forward? What information am I lacking and how to obtain it?</li>
+<li>Will gathering new information be worth the delay, or should I just <a href="https://ninel.work/articles/develop-intuition-learning-self-awareness">go with my intuition</a> and move forward based on the results?</li>
+<li>Should I consult or hire an expert?</li>
+<li>Is the situation so dire that I should get out as soon as possible?</li>
+</ul>
+<p class="paragraph_highlight">Do I choose a solution because it's the best fit for the situation at hand or because it's something I'm used to?</p>
+<p>With this in mind, let&rsquo;s take a closer look at the Cynefin framework.</p>
+<p><figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-img1.jpg"
+         alt="The Simple domain in Cynefin deals with ordered, organized systems."loading="lazy"/><figcaption>
+            <p>photo by @lightrisephoto on Unsplash</p>
+        </figcaption>
+</figure>
+ (symmetrical, clear domain)</p>
+<h2 id="the-clear-obvious-simple-domain">The Clear (Obvious, Simple) domain</h2>
+<p>The relationship between cause and effect is <strong>obvious</strong> to everyone.</p>
+<p>In the Clear systems and scenarios, you could:</p>
+<ul>
+<li>Apply tried and true approaches.</li>
+<li>Follow the checklist.</li>
+<li>Automate and perfect the process.</li>
+</ul>
+<p>It’s possible to define a method that is unarguably the most efficient and preferable for a given task. This is the domain of <strong>best practices</strong>.</p>
+<p>In the Obvious domain, the situation is like a train going along the track. But if things go wrong here, it has the same effect as the train going off the rails – the situation drops into an unpredictable, Chaotic domain.</p>
+<p>When it happens, the immediate priority is containment: you need to <strong>act</strong> to quickly rectify the issue.</p>
+<h3 id="potential-problems-within-the-clear-domain">Potential problems within the Clear domain</h3>
+<ol>
+<li><strong>Oversimplification</strong>. Missing or discarding important context when trying to fit the situation into a familiar pattern.</li>
+<li><strong>Entrained thinking</strong>, or “You can&rsquo;t teach an old dog new tricks”. Being blinded to new ways of thinking by past experiences and training.</li>
+<li><strong>Complacency</strong>. When things go smoothly, there’s a risk of becoming less alert and unprepared to deal with sudden challenges and context shifts.</li>
+</ol>
+<figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-img2.jpg"
+         alt="The Complicated domain in Cynefin deals with systems that require expertise"loading="lazy"/><figcaption>
+            <p>photo by @tokeller on Unsplash</p>
+        </figcaption>
+</figure>
+
+<h2 id="the-complicated-domain">The Complicated domain</h2>
+<p>The relationship between cause and effect is linear but <strong>requires analysis</strong>, investigation, or application of expert knowledge.</p>
+<p>For example, building a house. It has been done many times before but calls for various informed choices you need specialized knowledge for.</p>
+<p>This area in Cynefin could also be called “the domain of experts”.</p>
+<p>It&rsquo;s the realm of strategy and multi-level planning. It fits well with the traditional, <strong>Waterfall</strong> project management methodology.</p>
+<p>There are ways of doing things that have worked many times before and might be a good foundation for a solution now. The Complicated domain in Cynefin employs <strong>good practices</strong>.</p>
+<h3 id="potential-issues-within-the-complicated-domain">Potential issues within the Complicated domain</h3>
+<ol>
+<li><strong>Overlooking solutions by non-experts</strong>. In the “domain of experts”, it’s easy to dismiss ideas that have merit but come from a less authoritative source.</li>
+<li><strong>Analysis paralysis</strong>. Coming to a stalemate when each of the experts thinks that their solution is the best way to reach the target.</li>
+</ol>
+<p><strong>Related</strong>: <a href="https://ninel.work/articles/online-research-strategy-efficient">How to do online research efficiently</a>.</p>
+<figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-img3.jpg"
+         alt="The Complex domain in Cynefin deals with systems where the relationship between cause and effect is clear in hindsight"loading="lazy"/><figcaption>
+            <p>photo by @erwanhesry on Unsplash</p>
+        </figcaption>
+</figure>
+
+<h2 id="the-complex-domain">The Complex domain</h2>
+<p>It’s the realm where most modern businesses find themselves.</p>
+<p>The relationship between cause and effect is only clear <strong>in hindsight</strong>.</p>
+<p>“Complex” is Cynefin is understood as:</p>
+<p class="paragraph_highlight">“The evidence supports conflicting hypotheses that can't be resolved within an acceptable time scale”.</p>
+<p>If we see two roads going in different directions and turning the corner, analyzing what we see won’t be enough. The path is obscured, and to get a better idea of where we need to go, we need to experiment and get more evidence.</p>
+<p>Take a few steps down one of the roads, peek around the corner, and see if it looks like this road will take you closer to the destination you seek.</p>
+<p>But in real life, the subject matter isn’t as passive as the road we walk on. Aiming to perform a diagnostic, we need to interact, intervene, and this in itself changes the situation somewhat. What we get in return is feedback on the updated setup.</p>
+<p>The &ldquo;series of quick feedback loops&rdquo; approach aligns this domain with the <strong>Agile</strong> project methodology.</p>
+<p>In the Complex domain, we observe and look for patterns to see the solution when it emerges. This is the domain of <strong>emergent practices</strong>.</p>
+<p>Another word to describe the practices of the Complex domain is “exaptive”.</p>
+<h3 id="what-is-an-exaptive-practice">What is an exaptive practice?</h3>
+<p><a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/exaptation">Exaptation</a> is a term from biology. It means repurposing, an adaptation that performs a function different from its original function.</p>
+<p>How does this concept apply to our practices?</p>
+<p>We constantly perform fits of ingenuity, combining familiar things in new ways and using the existing tools for novel applications. Exaptation would happen If the new usage catches on.</p>
+<h3 id="caution-experts-in-the-complex-domain-in-cynefin">Caution: experts in the Complex domain in Cynefin</h3>
+<p>Experts understand the inner workings that lead from cause to effect in the Complicated domain.</p>
+<p>But in the Complex domain, the relationship isn’t that clear. Relying on the expertise and trusting the authority will likely be misleading. Expertise draws from the past, and in the Complex domain, you cannot come to conclusions based on the past.</p>
+<p>In the Complex domain in Cynefin, experts could use their knowledge to design experiments and interpret the results. But they aren’t supposed to map the whole path to the end goal.</p>
+<figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-img4.jpg"
+         alt="The Chaotic domain in Cynefin calls for strong leadership"loading="lazy"/><figcaption>
+            <p>photo by @andersjilden on Unsplash</p>
+        </figcaption>
+</figure>
+
+<h2 id="the-chaotic-domain">The Chaotic domain</h2>
+<p><strong>No relationship</strong> between cause and effect at the system level.</p>
+<p>All bets are off. It’s a disruptive scenario, a situation that nobody dealt with before or one that wasn’t accounted for. This domain requires quick action and decisiveness.</p>
+<p>It’s the domain of leaders who take initiative and responsibility and make decisions to get everyone out of the chaotic situation and move to a more stable domain of complexity.</p>
+<p>Chaos disrupts the status quo and people get more perceptive to change. It’s easier to introduce and adopt new ways and solutions. Chaotic is the domain of <strong>novel practices</strong>.</p>
+<h3 id="the-pitfall-of-greatness-in-the-chaotic-domain">The pitfall of greatness in the Chaotic domain</h3>
+<p>Efficiently handling a crisis brings praise and recognition. But it might cloud one’s judgment about their leadership and decision-making skills.</p>
+<p>The authoritarian tactics that worked well in an emergency won’t hold up well once the immediate crisis is averted and the situation has moved from Chaos to Complexity.</p>
+<h2 id="the-disorder-domain">The Disorder domain</h2>
+<p>If the other four domains are like islands, the Disorder domain is the deep, dark ocean that surrounds them.</p>
+<p>Disorder domain means disorientation and confusion. It’s the non-matter, the negative space. Disorder is <strong>not knowing</strong> what type of system you’re in.</p>
+<ul>
+<li>Is it Complex or just Complicated?</li>
+<li>Do we really face the urgency and lack of constraints of Chaotic or are tempted to act on an impulse because of our emotions?</li>
+</ul>
+<p>The situation as a whole might not fall into any of the domains because its parts belong to different domains. Then it should be broken down, with each part solved according to how ordered and complex it is.</p>
+<p>Which is, admittedly, easier said than done.</p>
+<p>But breaking any kind of situation you encounter into subdomains is also a good exercise. It helps with making sense of the world around you and understanding where you stand.</p>
+<h3 id="what-is-the-difference-between-chaos-and-disorder-in-cynefin">What is the difference between Chaos and Disorder in Cynefin?</h3>
+<p>Chaos and Disorder are synonyms, they both bring the feeling of anarchy. What’s the distinction, then?</p>
+<p>Actually, a <a href="https://thecynefin.co/about-us/about-cynefin-framework/">more recent name</a> for the Disorder domain is “Confused”. And it is more accurate since the fifth domain is more about not knowing than about wreaking havoc.</p>
+<p>And yet, “Disorder” rings stronger to me and gives a more unsettling feeling. This title also has been around for a while and is used in almost all the articles and illustrations on the subject. So, it’s the one I decided to go with.</p>
+<p>The difference between Chaotic and Disorder domains in Cynefin is:</p>
+<ul>
+<li>Chaos means <strong>emergency</strong> and <strong>disruption</strong>.</li>
+<li>Disorder means <strong>confusion</strong> and <strong>lack of understanding</strong>.</li>
+</ul>
+<figure><img src="https://ninel.work/article_images/cynefin-framework-decision-making-explained-img5.jpg"
+         alt="Disorder in Cynefin means you don&#39;t know which domain you&#39;re in."loading="lazy"/><figcaption>
+            <p>photo by @aznbokchoy on Unsplash</p>
+        </figcaption>
+</figure>
+
+<h2 id="levels-of-constraints-in-the-cynefin-framework">Levels of constraints in the Cynefin framework</h2>
+<p>The domains in the Cynefin framework are also differentiated by what kind of constraints they have.</p>
+<p>The Clear domain has rigid, <strong>fixed constraints</strong>. It’s like following the assembly instructions or a safety procedure.</p>
+<p>There are <strong>no constraints</strong> in the Chaos domain. Nothing to latch on to.</p>
+<p>The Complicated domain has <strong>governing constraints</strong>, and the Complex domain has <strong>enabling constraints</strong>.</p>
+<h3 id="enabling-vs-governing-constraints-whats-the-difference">Enabling vs. Governing constraints: what’s the difference?</h3>
+<p><strong>Governing constraints</strong> are the limits we should operate within, the hard rules. They’re like the walls of the box, but we have some leeway within the box.</p>
+<p><strong>Enabling constraints</strong> are rules of thumb. These are heuristics – the shortcuts learned from observation. They aren’t always reliable, but they help us navigate the situation.</p>
+<h2 id="how-to-understand-which-cynefin-domain-youre-in">How to understand which Cynefin domain you’re in?</h2>
+<p>Ask yourself those questions:</p>
+<ul>
+<li>How clear is the relationship between cause and effect?</li>
+<li>Are there rules, procedures, or common sense advice on how to act in this situation?</li>
+<li>Is there a job title for a person who deals with situations like this?</li>
+<li>Is this situation a drastic deviation from the regular course of events?</li>
+</ul>
+<h2 id="cynefin-team-exercise-the-lego-game">Cynefin team exercise: the Lego game</h2>
+<p>An interesting way to experience and feel the Cynefin domains better is with a <a href="https://www.agile42.com/en/blog/cynefin-lego-game">team game by agile42</a>.</p>
+<p>Played in groups of 3-4 people. Each group starts at the table with around 200 bricks of Lego in 6-10 colors in different sizes. 10% of these should be special bricks, like flowers and wheels.</p>
+<p>The groups are given tasks of varying levels of complexity – from sorting the bricks into colors to building a structure while randomly jumping between teams.</p>
+<p>Read more about the rules and the challenges of the <a href="https://www.agile42.com/en/blog/cynefin-lego-game">Cynefin Lego game</a>.</p>
+<h2 id="further-reading">Further reading</h2>
+<p><a href="http://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf">The new dynamics of strategy: Sense-making in a complex and complicated world</a>. A paper by C. F. Kurtz and D. J. Snowden.</p>
+<p><a href="https://hbr.org/2007/11/a-leaders-framework-for-decision-making">A Leader’s Framework for Decision Making</a>. Dave Snowden and Mary Boone present the Cynefin framework in the Harward Business Review magazine.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The Cynefin Framework is a sense-making tool that could give insights into your current situation, whatever domain it is in.</p>
+<p>Cynefin teaches us to apply critical thinking and choose the most suitable solution for the problem at hand.</p>
+<p>This concept is a good addition to your Agile mindset. It could be useful when answering the situational questions of the advanced certification exams, like <a href="https://ninel.work/articles/psm-2-certification-exam-preparation">PSM II</a> and <a href="https://ninel.work/articles/psm-3-certification-exam-preparation">PSM III</a>.</p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end p-6 pl-3 no-underline"
+      href="https://ninel.work/articles/is-the-scrum-master-role-right-for-me/"
+      ><span>Is the Scrum Master Role Right for Me? 7 Questions to Consider</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+
+  
+  
+</article>
+
+
+    </main>
+
+    <footer class="opaco mx-auto h-[5rem] max-w-3xl items-center px-8 text-[0.9em]">
+  <section><div class="sender-form-field" data-sender-form-id="l7t1p7p7evnqxe61ac7"></div></section><br>
+
+  
+  <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+    
+    <a
+      class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+      href="https://ninel.work/about/"
+      >About</a
+    >
+    
+    <a
+      class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+      href="https://ninel.work/articles/"
+      >Articles</a
+    >
+    
+    <a
+      class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal "
+      href="https://ninel.work/contact/"
+      >Contact</a
+    >
+    
+    <a
+      class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal header_nav_button"
+      href="https://ninel.work/work-with-ninel/"
+      >Work with me</a
+    >
+    
+  </nav>
+  
+
+<section class="footer_credits">
+  <div class="mr-auto">
+    &copy; 2022
+    <a class="link" href="https://ninel.work/">Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank">Powered by Hugo️️.</a>️
+  <a class="link" href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper theme</a>, heavily modified by Ninel.
+  <a class="link mx-6" href="https://ninel.work/privacy-policy">Privacy Policy</a>️
+
+  <br><br>
+  <a href="https://www.ontoplist.com/personal-development-blogs/" target="_blank"><img style= "float: left; margin-right: 10px;" src="https://www.ontoplist.com/images/ontoplist32.png?id=6359c4d7ed9be" alt="Best Self Improvement &amp; Personal Development Blogs - OnToplist.com" border="0" /></a>  <a href="http://www.blogarama.com/fashion-blogs/1351624-blog/" title="Blogarama.com - Follow me on Blogarama">Blogarama</a> 
+</section>
+</footer>
+
+  </body>
+</html>

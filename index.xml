@@ -6,7 +6,19 @@
     <description>Recent content on Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ninel.work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ninel.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cynefin Framework for Decision-Making Explained and Applied</title>
+      <link>https://ninel.work/articles/cynefin-framework-decision-making-explained/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninel.work/articles/cynefin-framework-decision-making-explained/</guid>
+      <description>What do I do now?
+Should I swiftly act on a hunch or gather more information? Should I seek help? Is there an obvious solution that I’m missing?
+Cynefin (spelled “kuh-NEV-in”) is a “sense-making” framework. It aims to help with the understanding of what kind of a situation you’re in and what is the optimal course of action in this situation.
+A solution that works in one context could be worthless or even harmful in another.</description>
+    </item>
+    
     <item>
       <title>Is the Scrum Master Role Right for Me? 7 Questions to Consider</title>
       <link>https://ninel.work/articles/is-the-scrum-master-role-right-for-me/</link>
