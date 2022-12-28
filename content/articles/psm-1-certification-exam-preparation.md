@@ -66,7 +66,7 @@ PSM I, like all other Scrum.org certifications, isn’t proctored. However, with
 
 And of course, the point of getting certified isn’t to get the badge by any means but to improve your skills and get proof of knowledge you possess.
 
-Thought it’s a relief to know that you could attempt the exam without the hassle of identity verification or the pressure of being watched. Just make sure your internet connection is stable.
+Though it’s a relief to know that you could attempt the exam without the hassle of identity verification or the pressure of being watched. Just make sure your internet connection is stable.
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img1.jpg" alt="PSM I certification exam is open-book, but you shouldn't count on it" caption="photo by \@tima-miroshnichenko on Pexels">}}
 
