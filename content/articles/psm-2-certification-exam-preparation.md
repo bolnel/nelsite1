@@ -1,5 +1,5 @@
 +++
-title = "PSM II Certification Exam: How to Prepare and Pass Successfully"
+title = "PSM II Certification: How to Pass the Exam Successfully"
 description = "The second level of PSM is testing your understanding of Scrum in real-life scenarios. This guide will give you practical tips to prepare for the test."
 date = "2022-11-10"
 lastmod = "2022-11-10"

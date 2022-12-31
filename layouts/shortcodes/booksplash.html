@@ -1,0 +1,19 @@
+<booksplash>
+  <div class="book_list_item">
+    <a href="{{ .Get "link" }}">
+      <img
+      src="/book_images/{{ .Get "cover_name" }}"
+      alt="Cover for {{ .Get "title" }}"
+      loading="lazy"
+      {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+      {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+       />
+    </a>
+
+    <div>
+      <a href="{{ .Get "link" }}">
+        <p>{{ .Get "title" }}</p>
+      </a>
+    </div>
+  </div>
+</booksplash>
