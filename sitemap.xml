@@ -41,6 +41,16 @@
   </url>
   
   <url>
+    <loc>https://ninel.work/thanks-for-subscribing/</loc>
+    <lastmod>2022-12-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/thanks-for-subscribing/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/articles/cynefin-framework-decision-making-explained/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
