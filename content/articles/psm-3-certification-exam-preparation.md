@@ -86,6 +86,7 @@ So, here’s the tangible answer on how to succeed at your PSM III exam:
 
 As you might imagine, that would take practice.
 
+{{< ebook-subscribe >}}
 
 ## PSM III exam and preparation cost
 

@@ -50,6 +50,7 @@ If you like the video format, there are Scrum Master preparation courses, like t
 
 If you have the funds, taking a training course by a Professional Scrum Trainer would be very beneficial. PSM I 2-day training sessions on Scrum.org start at around $1000, with a free exam attempt included in the price. Training is available in different languages.
 
+{{< ebook-subscribe >}}
 
 ### How hard is the PSM 1 exam?
 

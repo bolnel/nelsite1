@@ -16,8 +16,6 @@ It's a person responsible for maximizing value by defining the product goal, opt
 
 This requires a combination of business acumen, market awareness, leadership skills, [intuition](/articles/develop-intuition-learning-self-awareness), and other factors.
 
-{{< ebook-subscribe >}}
-
 Will obtaining the Professional Scrum Product Owner certification prove – and improve – those skills? Is getting PSPO [worth it](/articles/are-certifications-worth-it)?
 
 Main topics covered in this article:
@@ -86,6 +84,7 @@ Some more keywords and topics that you should have good familiarity with, especi
 * Evidence-Based Management (EBM). See [Evidence-Based Management Guide](https://www.scrum.org/resources/evidence-based-management-guide).
 * Product Owner stances.
 
+{{< ebook-subscribe >}}
 
 ## Product Owner stances: Preferred and Misunderstood
 

@@ -98,7 +98,7 @@ If you haven’t done so already, go through the full Scrum Master Learning Path
 
 But the Learning Path materials are only the tip of the iceberg. Use [the Mapping the Catacombs](/articles/online-research-strategy-efficient) method to peel the layers. Click the links in the articles. Click the authors of the articles you liked and see what else they have.
 
-
+{{< ebook-subscribe >}}
 
 ### 3. See how Scrum scales across multiple teams
 

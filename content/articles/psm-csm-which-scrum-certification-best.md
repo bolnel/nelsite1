@@ -49,6 +49,7 @@ The PSM II exam asks you situational questions to test your interpretation of th
 
 To attempt any one of the PSM exams, you buy a non-expiring, single-use access code and apply it whenever you feel ready. The exams aren't proctored.
 
+{{< ebook-subscribe >}}
 
 ### Certified Scrum Master levels and pre-requisites
 
