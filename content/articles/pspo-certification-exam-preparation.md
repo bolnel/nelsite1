@@ -16,6 +16,8 @@ It's a person responsible for maximizing value by defining the product goal, opt
 
 This requires a combination of business acumen, market awareness, leadership skills, [intuition](/articles/develop-intuition-learning-self-awareness), and other factors.
 
+{{< ebook-subscribe >}}
+
 Will obtaining the Professional Scrum Product Owner certification prove – and improve – those skills? Is getting PSPO [worth it](/articles/are-certifications-worth-it)?
 
 Main topics covered in this article:
@@ -24,7 +26,7 @@ Main topics covered in this article:
 * Useful materials for Product Owners.
 * Tips for preparing for each of the certification levels.
 
-{{< figure src="/article_images/pspo-certification-exam-preparation-hero.jpg" alt="A guide to preparing for the Professional Scrum Product Owner certification" caption="photo by \@sekaterina-bolovtsova on Pexels">}}
+{{< figure src="/article_images/pspo-certification-exam-preparation-hero.jpg" alt="A guide to preparing for the Professional Scrum Product Owner certification" caption="photo by \@ekaterina-bolovtsova on Pexels">}}
 
 {{< table_of_contents >}}
 
@@ -59,7 +61,6 @@ It seems logical to start with level one, right? But, since the PSPO levels are 
 PSPO I is the second most popular Scrum.org credential after PSM I. There are over 150 000 credential holders worldwide.
 
 The ratio between the first and the second level of PSPO remains the same as for PSM – only around 5% of PSPO I holders went on to obtain PSPO II. And there are less than 500 people across the globe who got the PSPO III credential.
-
 
 ## Key topics of the PSPO exams
 

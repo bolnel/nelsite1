@@ -150,3 +150,33 @@ article h2:after {
   font-weight: 600;
     font-size: 1.25em;
 }
+
+/* Subscription form in the body */
+.subscription_form {
+  background: #ececec;
+  text-align: center;
+  padding: 20px 5px 20px 20px;
+    height: 501px;
+}
+
+.form_image_wrapper {
+  float: left;
+}
+
+.subscription_form h3 {
+  font-size: 2em;
+    line-height: 1.5;
+    margin: 60px 0 0 0;
+}
+
+.subscription_form input {width: 300px;  padding: 5px 10px;}
+.subscription_form button {margin-top: 15px;}
+.subscription_form img {width: 300px;  margin: 0}
+.sub_form_subheader {margin: 5px;  color: gray;}
+
+@media only screen and (max-width: 1024px) {
+  .subscription_form {height: auto; padding: 0 0 20px 0;}
+  .form_image_wrapper {float: none;}
+  .subscription_form img {width: auto; padding: 4vw;}
+  .subscription_form h3 {margin: 0;}
+}
