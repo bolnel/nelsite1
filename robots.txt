@@ -2,5 +2,6 @@ User-agent: *
 
 Disallow: /tags/
 Disallow: /categories/
+Disallow: /thanks-for-subscribing
 
 Sitemap: https://ninel.work/sitemap.xml
