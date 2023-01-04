@@ -4,6 +4,10 @@ description = "Those product management books by industry experts share strategi
 date = "2022-12-27"
 lastmod = "2022-12-27"
 slug = "best-product-management-books"
+relcanonical = "/articles/best-product-management-books"
+aliases = [
+    "product-management-books"
+]
 featured = "/article_images/best-product-management-books-hero.jpg"
 thumbnail = "/article_images/best-product-management-books-thumbnail.jpg"
 tags = []

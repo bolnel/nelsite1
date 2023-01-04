@@ -2,8 +2,12 @@
 title = "How to Get SEU for CSM Renewal: Free and Paid Options"
 description = "Renewing a Scrum Alliance certification requires a renewal fee and a certain number of Scrum Education Units. We'll talk about the ways you could earn them."
 date = "2022-11-23"
-lastmod = "2022-11-23"
-slug = "how-get-seu-csm-renewal-free"
+lastmod = "2022-12-31"
+slug = "how-to-get-seu-for-csm-renewal"
+relcanonical = "/articles/how-to-get-seu-for-csm-renewal"
+aliases = [
+    "how-get-seu-csm-renewal-free"
+]
 featured = "/article_images/how-get-seu-csm-renewal-free-hero.jpg"
 thumbnail = "/article_images/how-get-seu-csm-renewal-free-thumbnail.jpg"
 tags = []
