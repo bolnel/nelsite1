@@ -153,7 +153,7 @@ Here are a few examples, linked to the guides on unit requirements and ways of e
 
 * PDU for PMP and other PMI certifications
 * CEU for Security+ and other CompTIA credentials
-* [SEU for CSM](/articles/how-get-seu-csm-renewal-free) and other certifications by Scrum Alliance
+* [SEU for CSM](/articles/how-to-get-seu-for-csm-renewal) and other certifications by Scrum Alliance
 
 They're meant to give an additional incentive to learn and improve your skills in the areas related to your credential.
 

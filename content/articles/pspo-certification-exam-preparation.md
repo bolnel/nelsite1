@@ -323,7 +323,7 @@ In my [PSM III preparation guide](/articles/psm-3-certification-exam-preparation
 
 Certified Scrum Product Owner is a credential issued by Scrum Alliance. To obtain it, the only requirement is passing a 2-day training course with an average cost of around $500 – [there's no exam to pass](https://support.scrumalliance.org/hc/en-us/articles/360037548392-Is-there-a-test-requirement-for-CSPO-certification-).
 
-To maintain the CSPO certification, you need to [earn Scrum Education Units](/articles/how-get-seu-csm-renewal-free) and pay a recertification fee every 2 years.
+To maintain the CSPO certification, you need to [earn Scrum Education Units](/articles/how-to-get-seu-for-csm-renewal) and pay a recertification fee every 2 years.
 
 Scrum Alliance has three levels on the Product Owner track:
 

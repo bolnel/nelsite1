@@ -159,7 +159,7 @@ If you have certifications on different levels, you only need to pay to renew th
 
 Attending a higher-level certification course automatically renews all lower-level certifications.
 
-Related: this article goes into detail about [obtaining SEUs to renew your certifications](/articles/how-get-seu-csm-renewal-free) by Scrum Alliance.
+Related: this article goes into detail about [obtaining SEUs to renew your certifications](/articles/how-to-get-seu-for-csm-renewal) by Scrum Alliance.
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img4.jpg" alt="Scrum master helps the team to implement the Scrum practices" caption="photo by \@fauxels on Pexels">}}
 
