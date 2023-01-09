@@ -54,7 +54,7 @@ His Majesty’s Cabinet Office publishes PRINCE2 – an updated and more versati
 
 PeopleCert officially becomes the examination institute to [deliver Axelos exams](https://www.peoplecert.org/axelos).
 
-**2021**.PeopleCert [acquires Axelos](https://www.peoplecert.org/news-and-announcements/peoplecert-completes-axelos-acquisition).
+**2021**. PeopleCert [acquires Axelos](https://www.peoplecert.org/news-and-announcements/peoplecert-completes-axelos-acquisition).
 
 
 ### What’s the difference between the 5th and the 6th edition?
@@ -174,7 +174,7 @@ The exams themselves are relatively easy, as far as the certification exams go. 
 
 With the Foundation exam, you need to demonstrate that you recall and understand the material you studied.
 
-**Keywords**: _describe, state, identify, _and _define_.
+**Keywords**: _describe, state, identify,_ and _define_.
 
 If you divide the allotted time by the number of questions, there’s about a minute per question, but you’ll answer most of the questions much faster.
 
