@@ -74,6 +74,8 @@ This lends itself well to group and organizational challenges. For example, what
 
 **Related**: [How to develop an Agile mindset](/articles/develop-agile-mindset-guide).
 
+{{< ebook-subscribe >}}
+
 But it gets more confusing on the individual level. Once you read about the domains, try to figure out where each of those scenarios belongs and why:
 
 * You want to exercise regularly but can’t find the time

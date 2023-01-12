@@ -65,6 +65,8 @@ The rigid structure of the third option lets you plan more specifically how much
 
 Then just gauge if you could potentially allocate enough hours each week (the hours/week approximation the course gives plus 30% of that time to be sure you'll make it). If it seems like too much, opt for a less intense structured course.
 
+{{< ebook-subscribe >}}
+
 But there's an opposite consideration with this type of course. "Keeping pace" with someone usually means "going as fast as someone", but what about "going as slow"? What if you're like me, and once you sit to study a topic or learn a skill, you do it in intense sprints? Once you gain that speed, having to wait for the next week to proceed would be agonizing. Not to mention something might come up as weeks go by and you start lagging behind (having your enthusiasm drained by all those waiting times also contributes to this).
 
 In this case, a fixed final deadline is the optimal option. You can go as fast as you want, and have a date in mind in case you get distracted for a while. And you could still follow the recommended course schedule if you feel like it.

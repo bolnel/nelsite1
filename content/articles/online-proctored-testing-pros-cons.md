@@ -77,6 +77,7 @@ Check the online testing FAQs and the most recent system and equipment requireme
 
 The test center takes care of all the technical details, so you just need to show up on time and sit for the exam.
 
+{{< ebook-subscribe >}}
 
 ### Awkward check-in process
 

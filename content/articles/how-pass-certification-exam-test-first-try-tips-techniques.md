@@ -77,6 +77,7 @@ It doesn't mean you should take the same route, but it'll give you some initial 
 
 If almost no one shares their experiences on the subject of your exam, think about why it is like this. Is it too new? Too niche? Doesn't engage people enough to share? You could start a thread on a platform where people have discussed the other exams by this provider and ask if anyone took the test you're interested in.
 
+{{< ebook-subscribe >}}
 
 ## 4. Figure out your study methods
 

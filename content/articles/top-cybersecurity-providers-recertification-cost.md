@@ -66,6 +66,7 @@ The pricing is on most of the exam pages but written on an image. Could be overl
 
 **Maintenance fees**. ISACA’s [annual fee per certification](https://isaca.force.com/support/s/article/What-are-all-of-the-possible-costs-associated-with-becoming-CISA-CISM-CGEIT-CRISC-certified-1597877239642) is $45 for members and $85 for non-members. Membership: $135/year base fee, plus the chapter dues.
 
+{{< ebook-subscribe >}}
 
 ## ICCP
 

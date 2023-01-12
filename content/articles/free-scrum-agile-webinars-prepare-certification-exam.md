@@ -57,6 +57,7 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 **Related reading**: _When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question_ by Daniel Vakanti. Available on [Amazon](https://www.amazon.com/gp/product/B084WVMKLC/ref=dbs_a_def_rwt_bibl_vppi_i1) and [Barnes & Noble](https://www.barnesandnoble.com/w/when-will-it-be-done-daniel-s-vacanti/1136492825?ean=9780986436376).
 
+{{< ebook-subscribe >}}
 
 ## 3. How to make team communication more open and transparent?
 

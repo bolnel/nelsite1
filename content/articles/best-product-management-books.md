@@ -59,6 +59,8 @@ The book teaches the frameworks that help with avoiding common mistakes and make
 
 It’s a book for beginners full of practical advice on how to kick-start a PM career.
 
+{{< ebook-subscribe >}}
+
 
 ## 2. The Scrum way of product management
 

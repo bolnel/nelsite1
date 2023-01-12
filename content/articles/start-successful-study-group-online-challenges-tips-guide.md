@@ -88,6 +88,7 @@ What are the goals of group meetings? What is the time commitment? Is it implied
 
 Those and other points should be spelled out or documented when the group is formed, and everyone involved should consciously agree to them.
 
+{{< ebook-subscribe >}}
 
 ### Maintaining regular meetings
 

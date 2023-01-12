@@ -41,6 +41,7 @@ No matter how reputable and trustworthy is the one showing you the picture, chec
 
 Double-checking seems obvious enough, but it requires an **inquisitive mindset**. It's a desire to dig deeper, not taking things for granted, learning the reasoning behind the answers, looking from different angles.
 
+{{< ebook-subscribe >}}
 
 ### Knowledge osmosis
 

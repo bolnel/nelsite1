@@ -51,6 +51,7 @@ So, which one is it? Most probably you'll have a combination of those answers, b
 
 You probably don't have a definitive answer now – after all, having things clarified is the point of reading an article like this. But as you read on, keep the points above in mind.
 
+{{< ebook-subscribe >}}
 
 ## Requirements for getting certified
 

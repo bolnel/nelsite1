@@ -76,6 +76,7 @@ It would be especially beneficial if you discuss the findings from the book with
 
 And, if reading a book and implementing your findings lead to some situations and results you can share, you could write an article about them.
 
+{{< ebook-subscribe >}}
 
 ## Writing articles: share the knowledge and gain SEUs
 

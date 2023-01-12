@@ -117,7 +117,7 @@ How does it make you feel?
 
 Guess which perspective would leave you in a better place as a Scrum Master.
 
-
+{{< ebook-subscribe >}}
 
 ## 6. How well do you handle conflict?
 

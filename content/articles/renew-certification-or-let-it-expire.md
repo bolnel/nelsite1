@@ -91,6 +91,7 @@ Or did the potential employer outright say something along these lines?
 
 How much time has passed since then? How much experience and recognition did you gain? If you were to apply to this job with everything else that you have now, but without the certification in question – what do you think the result would’ve been?
 
+{{< ebook-subscribe >}}
 
 ### 3. Did you ever get a job because of your certification?
 

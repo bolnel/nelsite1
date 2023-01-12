@@ -106,6 +106,7 @@ Other similarities between Agile and Lean:
 * Continuous incremental process improvement (“Kaizen” in manufacturing)
 * Looking for the most efficient way to get to the end goal
 
+{{< ebook-subscribe >}}
 
 ### Differences between Agile and Lean
 
