@@ -1,5 +1,5 @@
 +++
-title = "Top 10 Books for Product Managers in 2023"
+title = "Best Product Management Books for Beginners and Professionals"
 description = "Those product management books by industry experts share strategies, actionable advice, and insightful stories."
 date = "2022-12-27"
 lastmod = "2022-12-27"
