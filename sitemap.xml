@@ -2,11 +2,31 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/how-pass-pmp-audit-pmi/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/how-pass-pmp-audit-pmi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
                 />
   </url>
   
@@ -17,16 +37,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/capm-certification-exam-preparation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
                 />
   </url>
   
