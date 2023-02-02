@@ -60,6 +60,8 @@ There are two conditions you need to meet to apply for CAPM:
 * Having a high school diploma.
 * Having completed at least 23 hours of project management education (contact hours).
 
+If you're randomly selected for audit by PMI, you'll have to present proof of your education and contact hours. See more about [passing the PMI audit](/articles/how-pass-pmp-audit-pmi).
+
 
 ### How to get 23 contact hours for CAPM
 
