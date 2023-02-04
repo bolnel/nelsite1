@@ -156,7 +156,7 @@ On average, the audit result comes within a week.
 
 You can proceed with paying for the exam once you successfully passed the audit.
 
-**Related**: [Developing an Agile mindset](https://ninel.work/articles/develop-agile-mindset-guide).
+**Related**: [Developing an Agile mindset](/articles/develop-agile-mindset-guide).
 
 {{< figure src="/article_images/how-pass-pmp-audit-pmi-img3.jpg" alt="What happens if you fail the PMI audit? What are the next steps?" caption="photo by \@nicola-barts on Pexels" >}}
 
@@ -221,6 +221,6 @@ Good luck with your exam!
 More articles you might be interested in:
 
 * PMP exam preparation guide.
-* [How to pass the CAPM exam](https://ninel.work/articles/capm-certification-exam-preparation).
-* [Best Product Management Books](https://ninel.work/articles/best-product-management-books).
-* [Developing intuition with learning](https://ninel.work/articles/develop-intuition-learning-self-awareness).
+* [How to pass the CAPM exam](/articles/capm-certification-exam-preparation).
+* [Best Product Management Books](/articles/best-product-management-books).
+* [Developing intuition with learning](/articles/develop-intuition-learning-self-awareness).
