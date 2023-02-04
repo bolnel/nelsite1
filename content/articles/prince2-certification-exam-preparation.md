@@ -2,7 +2,7 @@
 title = "PRINCE2 Certification: The Ultimate Exam Preparation Guide"
 description = "An in-depth guide to preparing for and passing the PRINCE2 Foundation and Professional project management certification exams."
 date = "2023-01-05"
-lastmod = "2023-01-05"
+lastmod = "2023-01-29"
 slug = "prince2-certification-exam-preparation"
 featured = "/article_images/prince2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/prince2-certification-exam-preparation-thumbnail.jpg"
@@ -11,7 +11,7 @@ draft = false
 +++
 
 
-**Spoiler alert**: the PRINCE2 Foundation and Practitioner exams themselves are relatively easy, as far as the certification exams go. You need to get a little over half of the questions right to pass, versus around 70% for PMP or 85% for [PSM](/articles/psm-1-certification-exam-preparation/).
+**Spoiler alert**: the PRINCE2 Foundation and Practitioner exams themselves are relatively easy, as far as the certification exams go. You need to get a little over half of the questions right to pass, versus around 70% for [PMP](/articles/pmp-certification-exam-preparation/) or 85% for [PSM](/articles/psm-1-certification-exam-preparation/).
 
 But figuring out the exam cost and actually booking it is less than straightforward…
 
@@ -101,6 +101,8 @@ Learning the PRINCE2 methodology is beneficial for expanding your horizons and g
 
 But if you already have PMP, paying for the exam and getting the PRINCE2 Practitioner badge is worth it only if the job you’re aiming to land explicitly requires that credential.
 
+**Related**: [Preparing for the PMP certification exam](/articles/pmp-certification-exam-preparation/).
+
 {{< figure src="/article_images/prince2-certification-exam-preparation-img1.jpg" alt="Guide to preparing for the PRINCE2 exam and getting the exam voucher" caption="photo by \@shvetsa on Pexels">}}
 
 
@@ -138,6 +140,7 @@ Advantages of choosing CAPM:
 * The exam cost is $300 even for non-members ($255 for PMI members), versus a minimum of $500 for PRINCE2 Foundation. You do need 23 contact hours for CAPM, but they could be obtained [via an online course](https://www.udemy.com/course/capm-certification-high-quality-realistic-exam-questions/).
 * You get a certification from another well-recognized institute, PMI, so you expand your credential profile.
 
+**Related**: [How to prepare for the Certified Associate in Project Management exam](/articles/capm-certification-exam-preparation/).
 
 ### Are PRINCE2 exams open book?
 

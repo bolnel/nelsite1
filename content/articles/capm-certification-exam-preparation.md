@@ -2,7 +2,7 @@
 title = "CAPM: Is It Worth It, and How to Prepare for The Exam?"
 description = "What are the benefits of the Certified Associate in Project Management certification? A guide to successfully passing the CAPM exam."
 date = "2023-01-20"
-lastmod = "2023-01-20"
+lastmod = "2023-01-29"
 slug = "capm-certification-exam-preparation"
 featured = "/article_images/capm-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/capm-certification-exam-preparation-thumbnail.jpg"
@@ -240,6 +240,9 @@ There’s [no limit on education PDUs](https://www.pmi.org/certifications/certif
 
 ## Are there alternatives to CAPM? And which certifications should I obtain next?  
 
+The obvious next step after CAPM is PMP, but it might take you a while to gain the work experience required.
+
+**Related**: [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
 
 ### CAPM vs. PMI-ACP: which one to get with some work experience?
 

@@ -2,7 +2,7 @@
 title = "How to Pass the Certification Exam on the First Try – Study Tips"
 description = "Is there a sure-fire way to pass an exam? No. But there are methods you could use to make your success nearly inevitable."
 date = "2022-10-02"
-lastmod = "2022-10-02"
+lastmod = "2023-01-29"
 slug = "how-pass-certification-exam-test-first-try-tips-techniques"
 featured = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-hero.jpg"
 thumbnail = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-thumbnail.jpg"
@@ -15,7 +15,7 @@ So, you figured out [why you want to get certified](/articles/are-certifications
 
 I'm not giving you a 100% success guarantee (and you should be wary of people who claim they do). But I'll share an approach that would increase your chances greatly.
 
-Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation), aced my PMP, and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
+Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation), [aced my PMP](/articles/pmp-certification-exam-preparation), and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
 
 The main points to successfully pass the exam are:
 
@@ -96,7 +96,9 @@ The _tactical_ _level_ is how you process the material itself, and the technique
 
 Here's a breakdown of a few [study techniques you can try out](https://www.usa.edu/blog/study-techniques/) and some helpful study tips from the University of St. Augustine for Health Sciences. Have you ever heard of the PQ4R method? Check them out.
 
-Try out different methods and techniques and see what feels the most fulfilling and helps you progress the most.  
+Try out different methods and techniques and see what feels the most fulfilling and helps you progress the most.
+
+**Related**: [How to do online research efficiently: the strategy guide](/articles/online-research-strategy-efficient).
 
 {{< figure src="/article_images/how-pass-certification-exam-test-first-try-tips-techniques-img2.jpg" alt="A cat researching tips and techniques for passing the certification exam on the first try" caption="photo by \@skysakura on Unsplash">}}
 
@@ -105,7 +107,7 @@ Try out different methods and techniques and see what feels the most fulfilling 
 
 Like with many things in life, consistency is the key. Try to do something related to your studies every day. If you have a free minute, read an article or a few pages from a book, or quiz yourself on the topics.
 
-Of course, you should also have regular dedicated study sessions, but those short tune-ins will go a long way towards helping your brain absorb the material.
+Of course, you should also have regular dedicated study sessions, but those short tune-ins will go a long way toward helping your brain absorb the material.
 
 To measure progress, let’s use some intermediary goals to measure against. Before you start a week or a study session, ask yourself questions like:
 
@@ -115,7 +117,7 @@ To measure progress, let’s use some intermediary goals to measure against. Bef
 
 Then make an assumption about your plans. For example: “I’ll go through two chapters and call it a day. Optionally go further if I feel like it”. Or “I’ll study for two hours and do as much practice as I can during that time”.
 
-Courses help with structuring things but the goal-setting and measuring is still on you, especially with the self-paced courses.
+Courses help with structuring things but the goal-setting and measuring are still on you, especially with the self-paced courses.
 
 At the end of the session or week, check how your progress measures against your assumption. Did you hit your goal? Exceeded it? Fell short on it? Do you feel like you made progress, but it’s hard to tell if the goal was met (“How good am I at this topic, really?”).
 
@@ -123,7 +125,7 @@ At the end of the session or week, check how your progress measures against your
 
 Do you need to allocate more time to your studies? Try another technique? Improve your knowledge of foundational or related topics?
 
-Measurements are relative – you’re comparing your progress to your assumptions, comparing your current self to yourself from the recent past. The goals and milestones aren’t for comparing yourself to other people and their achievements, and aren’t a target in and of themselves. They’re used to help with mapping your way towards your ultimate goal.
+Measurements are relative – you’re comparing your progress to your assumptions, comparing your current self to yourself from the recent past. The goals and milestones aren’t for comparing yourself to other people and their achievements, and aren’t a target in and of themselves. They’re used to help with mapping your way toward your ultimate goal.
 
 {{< figure src="/article_images/how-pass-certification-exam-test-first-try-tips-techniques-img3.jpg" alt="Feel fully calm and confident as you're getting ready to pass your test" caption="photo by \@dimitry_b on Unsplash">}}
 
@@ -134,10 +136,11 @@ Depending on your intensity of studying, return to the outline every 4-7 days an
 
 And try to actually do it. As you struggle with a coherent explanation of the topic that felt so obvious when you read about it, you’ll feel where your limits are and what you should practice further.
 
+**Related**: [How to get your understanding to an intuitive level](/articles/develop-intuition-learning-self-awareness).
 
 ### Using the exam simulators
 
-Remember: your goal isn't to memorize the answers but to have a deep understanding of the topic and the question logic to pick the right answer.
+Remember: your goal isn't to memorize the answers but to have a deep understanding of the topic and the question's logic to pick the right answer.
 
 <p class="paragraph_highlight">Once you start recognizing the questions and the answers, the efficiency of practicing will decrease rapidly.</p>
 
@@ -145,7 +148,7 @@ Even if the simulator has hundreds of questions, they'll start repeating faster 
 
 When you did a round of questions, note how many you got correctly, contemplate why you picked the wrong answers – and then try to forget them. Don't touch the questions as you study and improve your knowledge for a few more days, then try again.
 
-Monitor how your score changes, compare it against the score baseline and your previous attempts. Aim to get to at least 10-15% higher than the passing score. For example, if the passing score for your exam is 70%, try getting at least 80-85% three times in a row.
+Monitor how your score changes, and compare it against the score baseline and your previous attempts. Aim to get to at least 10-15% higher than the passing score. For example, if the passing score for your exam is 70%, try getting at least 80-85% three times in a row.
 
 
 ### Learn to identify the false options
@@ -190,11 +193,11 @@ Your body and mind are fresh and well-prepared to sit for the exam. You feel a s
 
 Go through the questions and answer those you’re confident about. Some questions will be obvious at this point and you know the answer the moment you read the options. Most will require some consideration and weighing different options, but you won’t feel stuck.
 
-However, if stare at a question for a good minute and still not sure what the correct options are, give your best answer and mark it as "needs review" – you'll be able to go back and review your answers before submitting.
+However, if you stare at a question for a good minute and are still not sure what the correct options are, give your best answer and mark it as "needs review" – you'll be able to go back and review your answers before submitting.
 
 * It's quite possible that some of the later questions will give you tips or trigger your memories
 * Re-reading a question after a short break might give you a new perspective.
-* You'll be more calm and pace yourself better knowing exactly how many unanswered questions and exam minutes are left, especially if there’s still plenty of time on a clock.
+* You'll be calmer and pace yourself better knowing exactly how many unanswered questions and exam minutes are left, especially if there’s still plenty of time on a clock.
 
 
 ## Conclusion

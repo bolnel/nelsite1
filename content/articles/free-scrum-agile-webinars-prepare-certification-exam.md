@@ -2,7 +2,7 @@
 title = "12 Free Webinars to Prepare for Scrum Certification Exams"
 description = "Agile and Scrum professionals talk on the subjects of product development, leadership, and other topics related to teamwork and Agile software development."
 date = "2022-10-31"
-lastmod = "2022-10-31"
+lastmod = "2023-01-29"
 slug = "free-scrum-agile-webinars-prepare-certification-exam"
 featured = "/article_images/free-scrum-agile-webinars-prepare-certification-exam-hero.jpg"
 thumbnail = "/article_images/free-scrum-agile-webinars-prepare-certification-exam-thumbnail.jpg"
@@ -223,3 +223,8 @@ Hope some of the materials here stroke a chord with you and contributed to your 
 And regardless of your accountability, each of us grows as a person and a leader when we’re [willing to learn](/articles/online-research-strategy-efficient), inspect and adapt, and improve.
 
 If you consider getting a Scrum Master certification, see [how PSM is different from CSM](/articles/psm-csm-which-scrum-certification-best), and take a look at my guide on how to get PSM certifications of all levels.
+
+More articles you might be interested in:
+
+- [Should I become a Scrum Master?](/articles/is-the-scrum-master-role-right-for-me)
+- [How to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation).

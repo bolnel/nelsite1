@@ -2,7 +2,7 @@
 title = "PSPO I, II and III: How to Prepare for and Pass the Exams"
 description = "Professional Scrum Product Owner certification exams by Scrum.org validate your understanding of the Scrum framework and delivering valuable products."
 date = "2022-12-20"
-lastmod = "2022-12-20"
+lastmod = "2023-01-29"
 slug = "pspo-certification-exam-preparation"
 featured = "/article_images/pspo-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/pspo-certification-exam-preparation-thumbnail.jpg"
@@ -169,7 +169,7 @@ It explains the Agile principles and the elements, methods, and principles of th
 
 If there’s a single book that prepares you for the Professional Scrum Product Owner certification by Scrum.org, this must be it.
 
-
+**Related**: [Top 10 books on Product Management](/articles/best-product-management-books).
 
 ### 5. Cynefin framework for decision-making
 

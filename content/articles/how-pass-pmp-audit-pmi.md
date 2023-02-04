@@ -2,7 +2,7 @@
 title = "PMP Audit Survival Guide: How to Pass the PMP Audit in 2023"
 description = "PMI randomly audits some of the people who apply for PMP, PMI-ACP, CAPM, and other certifications. What does the audit look like today, and how to pass it?"
 date = "2023-01-25"
-lastmod = "2023-01-25"
+lastmod = "2023-01-29"
 slug = "how-pass-pmp-audit-pmi"
 featured = "/article_images/how-pass-pmp-audit-pmi-hero.jpg"
 thumbnail = "/article_images/how-pass-pmp-audit-pmi-thumbnail.jpg"
@@ -43,7 +43,7 @@ The audit is completely random. Your place of residence, work experience, or oth
 
 Anecdotal evidence suggests that applications are randomly picked for an audit right after they’re submitted. So, if you don’t get an audit notification within 10 minutes of your “application received” email, you’re most likely in the clear.
 
-**Related**: How to pass the PMP exam successfully.
+**Related**: [How to pass the PMP exam successfully](/articles/pmp-certification-exam-preparation).
 
 
 ### How many PMP applications are being audited?
@@ -220,7 +220,7 @@ Good luck with your exam!
 
 More articles you might be interested in:
 
-* PMP exam preparation guide.
+* [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
 * [How to pass the CAPM exam](/articles/capm-certification-exam-preparation).
 * [Best Product Management Books](/articles/best-product-management-books).
 * [Developing intuition with learning](/articles/develop-intuition-learning-self-awareness).

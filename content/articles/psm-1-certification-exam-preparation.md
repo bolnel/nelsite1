@@ -2,7 +2,7 @@
 title = "PSM I Certification: How to Prepare for and Pass the Exam"
 description = "Professional Scrum Master certification exam tests your understanding of the Scrum framework. How hard is this exam, and how do you pass it successfully?"
 date = "2022-11-04"
-lastmod = "2022-11-04"
+lastmod = "2023-01-29"
 slug = "psm-1-certification-exam-preparation"
 featured = "/article_images/psm-1-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-1-certification-exam-preparation-thumbnail.jpg"
@@ -30,6 +30,8 @@ Some questions you might need answered before deciding to take the exam:
 The biggest [competitor for PSM is CSM](/articles/psm-csm-which-scrum-certification-best), but Scrum Alliance doesn’t publish the number of their certification holders. Scrum.org does, and Professional Scrum Master certification is in high demand.
 
 At the time of writing, among 750 000 professional certifications issued, around 70% of them were PSM I certifications.
+
+**Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me)
 
 {{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
 

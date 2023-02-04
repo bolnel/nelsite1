@@ -2,7 +2,7 @@
 title = "PSM II Certification: How to Pass the Exam Successfully"
 description = "The second level of PSM is testing your understanding of Scrum in real-life scenarios. This guide will give you practical tips to prepare for the test."
 date = "2022-11-10"
-lastmod = "2022-11-10"
+lastmod = "2023-01-29"
 slug = "psm-2-certification-exam-preparation"
 featured = "/article_images/psm-2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-2-certification-exam-preparation-thumbnail.jpg"
@@ -40,6 +40,8 @@ The following are recommended for the potential PSM 2 test takers:
 However, you don’t need to get or prove any of the above before attempting the test – you could take PSM 2 directly whenever you feel prepared.
 
 It’s the route I took and [passed the exam on the first attempt](/articles/how-pass-certification-exam-test-first-try-tips-techniques) – see my story at the end of the article.
+
+**Related**: [Things to consider before taking the Scrum Master role](/articles/is-the-scrum-master-role-right-for-me).
 
 
 ### How hard is the PSM II exam? Is it open book or proctored?

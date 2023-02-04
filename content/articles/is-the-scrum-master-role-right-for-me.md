@@ -2,7 +2,7 @@
 title = "Is the Scrum Master Role Right for Me? 7 Questions to Consider"
 description = "Scrum Master is a selfless leader who helps the team reach its full potential. What makes one a great Scrum Master? Is this role a good fit for you?"
 date = "2022-12-07"
-lastmod = "2022-12-07"
+lastmod = "2023-01-29"
 slug = "is-the-scrum-master-role-right-for-me"
 featured = "/article_images/is-the-scrum-master-role-right-for-me-hero.jpg"
 thumbnail = "/article_images/is-the-scrum-master-role-right-for-me-thumbnail.jpg"
@@ -34,7 +34,6 @@ An Agile mindset is characterized by:
 * Embracing complexity and challenges
 
 In a related article, we discuss [how an Agile mindset could be developed](/articles/develop-agile-mindset-guide), its similarities and differences from Growth and Lean mindsets, and how to apply the Agile principles beyond the workplace.
-
 
 
 ## 2. Do you enjoy helping others?
@@ -170,6 +169,7 @@ A project manager is responsible for the setup and maintenance of the process an
 
 Scrum Master is responsible for promoting the Scrum values, facilitating Scrum on the team level, and promoting the Agile culture within the organization.
 
+**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me)
 
 ### Do you need to be certified to become a Scrum Master?
 

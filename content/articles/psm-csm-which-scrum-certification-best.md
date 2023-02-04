@@ -2,7 +2,7 @@
 title = "PSM vs. CSM: which Scrum certification is the best choice?"
 description = "Getting certified as a Scrum Master is a good way to understand the popular Agile framework and transition into a new role. But which certification to go with?"
 date = "2022-10-19"
-lastmod = "2022-10-25"
+lastmod = "2023-01-29"
 slug = "psm-csm-which-scrum-certification-best"
 featured = "/article_images/psm-csm-which-scrum-certification-best-hero.jpg"
 thumbnail = "/article_images/psm-csm-which-scrum-certification-best-thumbnail.jpg"
@@ -12,7 +12,7 @@ draft = false
 
 Scrum is a framework for solving complex problems. It’s mainly used for software and product development but could be applied to any project with evolving requirements and short feedback loops.
 
-Obtaining a Scrum certification is a way of transitioning into a new role, developing an Agile mindset, and improving your practical application of the framework.
+Obtaining a Scrum certification is a way of transitioning into a new role, [developing an Agile mindset](/articles/develop-agile-mindset-guide), and improving your practical application of the framework.
 
 Professional Scrum Master by [Scrum.org](https://www.scrum.org/) and Certified Scrum Master by [Scrum Alliance](https://www.scrumalliance.org/) are the most popular certifications for people planning to take on the Scrum Master role or already working in that role and wishing to formalize and improve their knowledge and practices.
 
@@ -33,7 +33,7 @@ Both PSM and CSM have three levels – foundation, advanced and expert.
 
 The PSM I exam is mainly aimed at testing your knowledge and understanding of the Scrum Guide.
 
-**Related**: [a guide to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation).
+**Related**: [A guide to preping for the PSM I exam](/articles/psm-1-certification-exam-preparation).
 
 [PSM II](https://www.scrum.org/assessments/professional-scrum-master-ii-certification). Meant for Scrum Masters with in-depth experience applying the framework in real-world scenarios. A year of work experience is recommended but not required.
 
@@ -45,13 +45,13 @@ The PSM II exam asks you situational questions to test your interpretation of th
 
 80% of the PSM III exam are open questions you need to write answers for, and the rest have multiple answers.
 
-**Related**: [strategies to pass the PSM III exam](/articles/psm-3-certification-exam-preparation).
+**Related**: [Strategies for passing the PSM III exam](/articles/psm-3-certification-exam-preparation).
 
 To attempt any one of the PSM exams, you buy a non-expiring, single-use access code and apply it whenever you feel ready. The exams aren't proctored.
 
 {{< ebook-subscribe >}}
 
-### Certified Scrum Master levels and pre-requisites
+### Certified Scrum Master levels and prerequisites
 
 Certified ScrumMaster ([CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)). An entry-level certification on the ScrumMaster track. No pre-requisites, but you must complete a course by an approved provider. The CSM non-proctored exam is included in the training course.
 
@@ -60,6 +60,8 @@ Advanced Certified ScrumMaster ([A-CSM](https://www.scrumalliance.org/get-certif
 Certified Scrum Professional - ScrumMaster ([CSP-SM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrum-professional-scrummaster)). Requirements: having an active A-CSM certification and validating a minimum of 24 months of Scrum Master work experience within the last five years.
 
 To obtain the A-CSM and CSP-SM certifications, you must enroll in an approved [study course](/articles/how-find-best-online-course) and complete all the assignments. There are no separate exams.
+
+**Related**: [Is the Scrum Master role a great fit for me?](/articles/is-the-scrum-master-role-right-for-me)
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img1.jpg" alt="Scrum Master makes sure the Scrum framework is implemented as intended." caption="photo by \@mimithian on Pexels">}}
 
@@ -118,6 +120,8 @@ PSM I has multiple-answer questions, which are more tricky - you could stop for 
 
 Taking those into consideration, I estimate PSM I to be at least twice harder than CSM.
 
+**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me)
+
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img3.jpg" alt="Scrum master removes impediments the Developers are facing." caption="photo by \@louisemink on Unsplash">}}
 
 
@@ -134,7 +138,7 @@ Once you passed a tough exam, you demonstrated a certain level of understanding 
 
 <p class="paragraph_highlight">If you get it, you get it. You don’t need to confirm it every few years – PSM certifications are valid for a lifetime and don’t have renewal fees.</p>
 
-And I could attest from personal experience passing the PSM test – after all the preparation you went through, Scrum principles and approaches get so ingrained that you’re unlikely to forget them in a few years, if ever.
+And I could attest from [personal experience passing the PSM test](/articles/psm-2-certification-exam-preparation) – after all the preparation you went through, Scrum principles and approaches get so ingrained that you’re unlikely to forget them in a few years, if ever.
 
 Once you have such solid foundations, you could build on Scrum as you see fit in your environment. This is called “Scrum, and…”. As opposed to “[Scrum, but…](https://www.scrum.org/resources/what-scrumbut)” – when people claim they use Scrum but find excuses to omit or change some elements of the framework.
 
@@ -206,6 +210,7 @@ So, it's the same acquisition and maintenance model as CSM, but with a fraction 
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img5.jpg" alt="Do you enjoy the Scrum Master role? Improve your practices by getting certified" caption="photo by \@visual-tag-mx-1321732 on Pexels">}}
 
+**Related**: [CAPM: a certification for project management beginners](/articles/capm-certification-exam-preparation).
 
 ## PSM vs. CSM vs. PMI-ACP: which one is right for you?
 
@@ -233,6 +238,6 @@ The following factors have influenced my decision:
 * The less maintenance, the better.
 * A Credly credential could be integrated with other platforms like Upwork to show your achievements easier (though all digital badges could be integrated with LinkedIn).
 
-Thus I went straight for PSM II, and the understanding of Agile approaches that got ingrained in my head during the preparation was a solid basis for passing my PMP exam.
+Thus I [went straight for PSM II](/articles/psm-2-certification-exam-preparation), and the understanding of Agile approaches that got ingrained in my head during the preparation was a solid basis for [passing my PMP exam](/articles/pmp-certification-exam-preparation).
 
 Here’s my strategy to [pass an exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques).

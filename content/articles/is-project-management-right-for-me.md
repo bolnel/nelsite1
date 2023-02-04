@@ -2,7 +2,7 @@
 title = "Is Project Management Right for Me? 10 Questions to Consider"
 description = "As we talk about the traits that great project managers have, we discuss the responsibilities, struggles and delights that the role entails."
 date = "2023-01-01"
-lastmod = "2023-01-01"
+lastmod = "2023-01-29"
 slug = "is-project-management-right-for-me"
 featured = "/article_images/is-project-management-right-for-me-hero.jpg"
 thumbnail = "/article_images/is-project-management-right-for-me-thumbnail.jpg"
@@ -239,7 +239,7 @@ Certifications help you become more competitive.
 
 CAPM (Certified Associate in Project Management) by PMI is a good choice – it’s issued by the same institute that issues PMP, the golden standard of a project management certification today.
 
-CAPM could also substitute certain prerequisites for other certifications – for example, you could use CAPM instead of PRINCE2 Foundation to obtain the PRINCE2 Professional certification.
+CAPM could also substitute certain prerequisites for other certifications – for example, you could use CAPM instead of PRINCE2 Foundation to [obtain the PRINCE2 Professional certification](](/articles/prince2-certification-exam-preparation)).
 
 Either way, you need to have a solid understanding of the process of both Waterfall and Agile project management. [Getting ready for a certification exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) helps with that a lot.
 
@@ -286,3 +286,8 @@ Those questions will give you an idea of whether being a PM is a good fit for yo
 And even once you’re experienced, it’s important to keep growing as a person and a professional.
 
 Whichever road you take, I wish you to stay curious and resilient on your journey.
+
+Articles you might be interested in:
+
+- [How to earn the PMP certification](/articles/pmp-certification-exam-preparation).
+- [A strategy for researching and learning new things](/articles/online-research-strategy-efficient).

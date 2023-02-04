@@ -2,7 +2,7 @@
 title = "Is PMP Certification Worth It in 2023? Costs vs. Benefits"
 description = "As the world adopts Agile approaches, you might be wondering: is PMP still relevant? Let's break down the benefits and costs of getting PMP-certified."
 date = "2023-01-15"
-lastmod = "2023-01-15"
+lastmod = "2023-01-29"
 slug = "is-pmp-certification-worth-it"
 featured = "/article_images/is-pmp-certification-worth-it-hero.jpg"
 thumbnail = "/article_images/is-pmp-certification-worth-it-thumbnail.jpg"
@@ -18,7 +18,7 @@ As the world adopts Agile approaches more and more, you might be wondering: is P
 
 The short answer is “yes”. The certification issuer, PMI, constantly adapts. With the recent exam modifications and the introduction of a flexible pricing structure, taking the PMP exam is a great option for anyone who fits the eligibility requirements.
 
-If you’re convinced, feel free to move on to the PMP exam preparation guide.
+If you’re convinced, feel free to move on to the [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
 
 Or keep reading to get a detailed breakdown of the benefits and costs of getting PMP-certified and to see how PMP compares to other project management certifications.
 
@@ -163,7 +163,7 @@ Scrum.org has a free [Scrum Master Learning Path](https://www.scrum.org/pathway/
 
 **Related**: [Actionable advice on developing an Agile mindset](/articles/develop-agile-mindset-guide/).
 
-Learn more about the options for exam preparation in my PMP exam preparation guide.
+Learn more about the options for exam preparation in my [guide to preparing for the PMP certification](/articles/pmp-certification-exam-preparation).
 
 
 
@@ -195,6 +195,8 @@ See an article dedicated to [comparing PMP and PRINCE2 certifications](/articles
 Certified Associate in Project Management certification subject areas are similar to PMP, but it doesn’t have the work experience requirements.
 
 If you’re new to project management but want to get all the benefits of preparing for the professional PM exam and obtaining a certification from a well-recognized institute, CAPM is a great choice.
+
+**Related**: [How to prepare for the CAPM certification exam](/articles/capm-certification-exam-preparation).
 
 
 ### PMP vs. PMI-ACP

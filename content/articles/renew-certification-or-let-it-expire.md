@@ -2,7 +2,7 @@
 title = "Should I Renew My Professional Certification or Let It Expire?"
 description = "Once you give yourself honest answers to the questions below, you'll have a good idea of whether you should keep maintaining your credential or let it lapse."
 date = "2022-11-29"
-lastmod = "2022-11-29"
+lastmod = "2023-01-29"
 slug = "renew-certification-or-let-it-expire"
 featured = "/article_images/renew-certification-or-let-it-expire-hero.jpg"
 thumbnail = "/article_images/renew-certification-or-let-it-expire-thumbnail.jpg"
@@ -97,6 +97,7 @@ How much time has passed since then? How much experience and recognition did you
 
 Actually, let’s ask this question as well. Could you attribute any of the jobs you landed to a particular certification you have, especially if it’s not a widely recognized credential like PMP or CISSP?
 
+**Related**: [How to get the PMP certification](/articles/pmp-certification-exam-preparation).
 
 ### 4. Are you planning to apply for a new job or change careers within a year or two?
 
