@@ -1,6 +1,6 @@
 baseURL = 'https://ninel.work/'
 languageCode = 'en-us'
-title = "Remote, Self-Education, No-Burnout & More. Blog by Ninel Bolotova"
+title = "Personal and Professional Development via Life-Long Learning"
 theme = "hugo-paper-main"
 canonifyURLs = "true"
 

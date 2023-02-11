@@ -10,6 +10,11 @@
          {{- with .Get "width" }} width="{{ . }}"{{ end -}}
          {{- with .Get "height" }} height="{{ . }}"{{ end -}}
     /><!-- Closing img tag -->
+    <!-- The Pin button -->
+    <a href="https://www.pinterest.com/pin/create/button/?url={{ .Page.Permalink }}&media=https://ninel.work{{ .Get "src" }}&description=Save%20on%20Pinterest">
+      <img class="pinbutton" src="/Pinterest-Save-Button.png" />
+    </a>
+    <!-- end the Pin button -->
     {{- if .Get "link" }}</a>{{ end -}}
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
         <figcaption>
