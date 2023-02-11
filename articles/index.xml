@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</title>
+    <title>Articles on Personal and Professional Development via Life-Long Learning</title>
     <link>https://ninel.work/articles/</link>
-    <description>Recent content in Articles on Remote, Self-Education, No-Burnout &amp; More. Blog by Ninel Bolotova</description>
+    <description>Recent content in Articles on Personal and Professional Development via Life-Long Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ninel.work/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ninel.work/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interviewing Alexander Hardt, a Professional Scrum Trainer</title>
+      <link>https://ninel.work/articles/interview-hardt-business-analysis-scrum-trainer/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninel.work/articles/interview-hardt-business-analysis-scrum-trainer/</guid>
+      <description>Alexander Hardt is a business agility coach with over 20 years of experience with Scrum.
+As a Professional Scrum Trainer, Alexander gives classes on almost all certifications currently available at Scrum.org.
+We’ll talk about:
+The journey to where he is today What role luck played in Alexander’s success – and how do we define “success”? Advice to the past self and the aspirations for the future. From software developer to an Agile Coach Ninel: I read that you wanted to become a detective in your childhood.</description>
+    </item>
+    
     <item>
       <title>PMP Certification Exam Preparation: the Full Guide</title>
       <link>https://ninel.work/articles/pmp-certification-exam-preparation/</link>
