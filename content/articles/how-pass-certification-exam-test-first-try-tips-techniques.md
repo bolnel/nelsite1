@@ -2,7 +2,7 @@
 title = "How to Pass the Certification Exam on the First Try – Study Tips"
 description = "Is there a sure-fire way to pass an exam? No. But there are methods you could use to make your success nearly inevitable."
 date = "2022-10-02"
-lastmod = "2023-01-29"
+lastmod = "2023-02-12"
 slug = "how-pass-certification-exam-test-first-try-tips-techniques"
 featured = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-hero.jpg"
 thumbnail = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-thumbnail.jpg"
@@ -175,7 +175,7 @@ Most of what I wrote in this chapter was about the questions where you need to p
 
 Depending on your exam, there might be questions where you need to perform a small task, write an answer to an open-ended question, and so on. The obvious advice here is to practice the tasks you'll encounter.
 
-Here's a detailed guide by The Clearinghouse on [how to answer the essay questions](https://wac.colostate.edu/resources/writing/guides/exams/).
+For example, the 3rd level of Professional Scrum Master certification mostly has the essay questions. Here's the guide on [how to manage your time and practice answering essay-type questions](/articles/psm-3-certification-exam-preparation).
 
 
 ## 7. Test the exam setup in advance
