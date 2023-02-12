@@ -4,6 +4,9 @@ description = "A personal growth challenge is a fun way to try new things and fo
 date = "2023-02-07"
 lastmod = "2023-02-07"
 slug = "self-improvement-challenge-personal-growth"
+aliases = [
+    "/challenges"
+]
 featured = "/article_images/30-day-personal-growth-self-improvement-challenge-february-2023.jpg"
 thumbnail = "/article_images/self-improvement-challenge-personal-growth-thumbnail.jpg"
 tags = []
