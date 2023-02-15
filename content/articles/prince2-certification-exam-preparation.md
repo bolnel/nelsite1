@@ -2,7 +2,7 @@
 title = "PRINCE2 Certification: The Ultimate Exam Preparation Guide"
 description = "An in-depth guide to preparing for and passing the PRINCE2 Foundation and Professional project management certification exams."
 date = "2023-01-05"
-lastmod = "2023-01-29"
+lastmod = "2023-02-12"
 slug = "prince2-certification-exam-preparation"
 featured = "/article_images/prince2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/prince2-certification-exam-preparation-thumbnail.jpg"
@@ -339,14 +339,15 @@ Your DIY PRINCE2 Practitioner exam simulator using free Axelos materials:
 5. Open the questions PDF and perform steps 5-8 from the Foundation exam simulator until you finish the test. Treat each question in a 3-question block as a separate question.
 
 
-## PRINCE2 Practitioner recertification methods and costs
+## PRINCE2 credential recertification methods and costs
 
-PRINCE2 Foundation doesn’t have an expiration date, but the Practitioner certification expires in 3 years. There are two ways of renewing it:
+PRINCE2 Foundation used to be good-for-life. But since 2023, all Axelos certifications, including the Foundation-level ones, expire in 3 years. There are a few [ways of renewing it](https://www.peoplecert.org/ways-to-get-certified/Keep-your-certification-valid):
 
 
 
-1. Retaking the PRINCE2 Practitioner exam once the certification expires.
-2. Logging 20 Continuing Professional Development (CPD) points every year and maintaining a digital badge.
+1. Retaking the PRINCE2 Foundation or Practitioner exam once the certification expires.
+2. Taking a higher-level exam within the same product suite. PRINCE2 belongs to the _Project, Programme & Portfolio Management Product_ Suite.
+3. Logging Continuing Professional Development (CPD) points every year and maintaining a digital badge.
 
 
 ### PRINCE2 digital badges
@@ -360,7 +361,7 @@ You could integrate the Credly digital badge with LinkedIn, Upwork, and various 
 **Related**: [Should I renew my professional certification?](/articles/renew-certification-or-let-it-expire/)
 
 
-### Is it better to renew PRINCE2 Practitioner with re-examination or logging CPD?
+### Is it better to renew PRINCE2 certification with re-examination or logging CPD?
 
 The answer seems obvious: with the subscription, the 3-year cost of recertification amounts to 150 GBP, which is comparable to the recertification cost of other project management certifications. You also get a digital badge.
 

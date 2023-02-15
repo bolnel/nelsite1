@@ -2,7 +2,7 @@
 title = "PMP vs. PRINCE2: Which Certification Should You Get in 2023?"
 description = "PMP is recognized worldwide, but PRINCE2 is also a well-known and respected project management certification. Which one is the best for you?"
 date = "2023-01-09"
-lastmod = "2023-01-29"
+lastmod = "2023-02-12"
 slug = "pmp-prince2-certifications-differences"
 featured = "/article_images/pmp-prince2-certifications-differences-hero.jpg"
 thumbnail = "/article_images/pmp-prince2-certifications-differences-thumbnail.jpg"
@@ -171,7 +171,7 @@ But even if the failure rates for both exams were less than a few percent, prepa
 
 ## PRINCE2 vs. PMP renewal requirements and costs
 
-Both PMP and PRINCE2 Practitioner have to be renewed every three years.
+Both PMP and PRINCE2 Practitioner have to be renewed every three years. Since 2023, PRINCE2 Foundation [needs to be renewed as well](https://www.axelos.com/certifications/propath/prince2-project-management/prince2-foundation).
 
 Each certification has a continuing education program. You earn a certain number of  Professional Development Units (PDU) for PMP or Continuing Professional Development (CPD) units for PRINCE2 Practitioner and submit a renewal fee to extend your certification for another three years.
 
