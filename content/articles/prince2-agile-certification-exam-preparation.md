@@ -205,24 +205,17 @@ For an in-depth look into exam-taking strategies, check my [guide to passing a c
 
 There’s a dedicated manual, PRINCE2 Agile Guidebook (available on [Amazon UK](https://www.amazon.co.uk/PRINCE2-Agile-Axelos/dp/0113314671), on [Amazon US](https://www.amazon.com/Prince2-Agile-Stationery-Office/dp/0113314671), and from other vendors).
 
-However, the reviews are mixed, so what I personally suggest is picking up **the core PRINCE2 manual**, _Managing Successful Projects with PRINCE2_ (available on [Amazon UK](https://www.amazon.co.uk/Managing-successful-projects-PRINCE2-Bennett/dp/0113315333) and [Amazon US](https://www.amazon.com/Managing-Successful-Projects-PRINCE2-Stationery/dp/0113315333)), and studying **the Agile concepts separately** using the free Scrum Master Learning Path and other materials.
+However, the reviews are mixed. A recurring theme is that the Agile Guidebook is good for preparing for the exam but isn't the greatest introduction to Agile itself.
 
-Benefits of using the core PRINCE2 manual:
+What I would personally suggest is picking up **the core PRINCE2 manual**, _Managing Successful Projects with PRINCE2_ (available on [Amazon UK](https://www.amazon.co.uk/Managing-successful-projects-PRINCE2-Bennett/dp/0113315333) and [Amazon US](https://www.amazon.com/Managing-Successful-Projects-PRINCE2-Stationery/dp/0113315333)). The latest version is more recent, released two years after the PRINCE2 Agile guide, and contains the most up-to-date overview and explanation of the core PRINCE2 methods and principles.
 
+The Agile approaches could be studied separately using the free Scrum Master Learning Path and other materials. For strategies and tips on learning the Agile approaches, check out my [Professional Scrum Master exam preparation guide](/articles/psm-1-certification-exam-preparation/).
 
+That way, you’ll maximize the learning benefits of preparing for the PRINCE2 Agile exams.
 
-* The latest version is more recent, released two years after the PRINCE2 Agile guide, and contains the most up-to-date overview and explanation of the core PRINCE2 methods and principles.
-* There are more options for purchasing or renting the book, so it’s more cost-efficient.
-* The reviews deem the PRINCE2 Agile Guidebook adequate for exam preparation, but not the greatest introduction to Agile itself.
+I stand behind this suggestion even after attempting to take the PRINCE2 Agile Practitioner test as a part of my [no-preparation PRINCE2 exam experiment](/articles/prince2-agile-exam-taking-experiment/) and failing the Agile Practitioner part.
 
-On the Agile side, analyze the [PRINCE2 Agile practitioner exam syllabus](https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-practitioner) and get thoroughly familiar with the concepts mentioned there.
-
-For materials and tips on learning the Agile approaches, check out my [Professional Scrum Master exam preparation guide](/articles/psm-1-certification-exam-preparation).
-
-I think that this way, you’ll maximize the learning benefits of preparing for the PRINCE2 Agile exams.
-
-A possible drawback is that you most likely won’t be allowed to use the PRINCE2 manual for the PRINCE2 Agile Practitioner exam. But by that time you’d gain such an understanding of the PRINCE2 method and Agile methodologies that I’m confident you’ll solve the scenario questions without having to refer to the manual.
-
+But be sure to analyze the [PRINCE2 Agile practitioner exam syllabus](https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-practitioner) and the answers to the sample exam questions. You need to adjust your mental focus to the angle from which PRINCE2 views Agile.
 
 ## PRINCE2 Agile exam simulators
 
