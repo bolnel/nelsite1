@@ -15,7 +15,7 @@ You need to answer barely over half of the questions to pass the test.
 
 That doesn’t sound like a challenge. Or does it?..
 
-When I first learned that the pass mark for PRINCE2 certifications by Axelos is about 55%, it almost struck me as an unfair advantage. For example, the passing score for the [Professional Scrum Master exam](https://ninel.work/articles/psm-1-certification-exam-preparation/) is 85%. That exam, however, doesn’t have any kind of proctoring.
+When I first learned that the pass mark for PRINCE2 certifications by Axelos is about 55%, it almost struck me as an unfair advantage. For example, the passing score for the [Professional Scrum Master exam](/articles/psm-1-certification-exam-preparation/) is 85%. That exam, however, doesn’t have any kind of proctoring.
 
 PRINCE2 is proctored, but on the Practitioner level, you’re allowed to use the official manual. At 55%, is it even possible to fail?
 
@@ -57,7 +57,7 @@ Those materials are another reason for my impression that PRINCE2 exams are impo
 
 The syllabus and the answer rationales provided are detailed and give a very clear idea of what the test will be asking and what the logic of the answers is.
 
-**Related**: [A strategy to passing a professional certification exam on the first try](https://ninel.work/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
+**Related**: [A strategy to passing a professional certification exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 
 ## Subject characteristics and test conditions
@@ -66,8 +66,8 @@ Here are a few points going into the experiment – what I already had, what I d
 
 
 
-* I had a deep dive into Scrum and Agile during my [preparation for the Professional Scrum Master level II exam](https://ninel.work/articles/psm-2-certification-exam-preparation/).
-* While [preparing for the PMP exam](https://ninel.work/articles/pmp-certification-exam-preparation/), I obtained a solid understanding of Waterfall project management according to PMBOK.
+* I had a deep dive into Scrum and Agile during my [preparation for the Professional Scrum Master level II exam](/articles/psm-2-certification-exam-preparation/).
+* While [preparing for the PMP exam](/articles/pmp-certification-exam-preparation/), I obtained a solid understanding of Waterfall project management according to PMBOK.
 * I enjoy learning and have experience quickly digesting and using various kinds of new information.
 
 I took PRINCE2 Foundation and Practitioner back-to-back and took PRINCE2 Agile Foundation and Practitioner the next day.
@@ -87,7 +87,7 @@ But overall, I didn’t try to dive into PRINCE2 Agile as much as I did into the
 
 **Note**: PRINCE2 and PRINCE2 Agile wikis are created by an Accredited Training Provider, Management Plaza, so it's no coincidence that all links to courses and exams lead there. P3.express, a project management framework created by the authors of the wiki, is also promoted there.
 
-**Related**: [PRINCE2 vs. PMP certification comparison](https://ninel.work/articles/pmp-prince2-certifications-differences/).
+**Related**: [PRINCE2 vs. PMP certification comparison](/articles/pmp-prince2-certifications-differences/).
 
 
 ## Assumptions of the PRINCE2 exam experiment
@@ -183,9 +183,9 @@ However, the PRINCE2 Agile Practitioner score was the lowest and didn’t hit th
 
 **<span style="color:red">False</span>**.
 
-Before taking the tests, I actually checked and answered a few questions from the PRINCE2 Practitioner exam paper when writing the article about [PRINCE2 exam preparation](https://ninel.work/articles/prince2-certification-exam-preparation/).
+Before taking the tests, I actually checked and answered a few questions from the PRINCE2 Practitioner exam paper when writing the article about [PRINCE2 exam preparation](/articles/prince2-certification-exam-preparation/).
 
-But by the time I wrote the [guide to pass the PRINCE2 Agile exam](https://ninel.work/articles/prince2-agile-certification-exam-preparation/), I was committed to the experiment, so I didn’t look at the sample paper beforehand.
+But by the time I wrote the [guide to pass the PRINCE2 Agile exam](/articles/prince2-agile-certification-exam-preparation/), I was committed to the experiment, so I didn’t look at the sample paper beforehand.
 
 The current assumption was based on an idealistic view of a scenario-based exam. However, while there was a scenario to give context, the questions themselves mostly weren’t the “what’s the best course of action in this situation” type – rather, the test asked “how is this action interpreted through the lens of a specific concept of PRINCE2 Agile”.
 
@@ -200,7 +200,7 @@ It felt like looking into the source code of elaborate software that is very spe
 
 ## Conclusions and lessons learned
 
-Professional certification exams aren't just about scoring on a test and getting a badge. What’s important is the [information and insights you obtained](https://ninel.work/articles/are-certifications-worth-it/).
+Professional certification exams aren't just about scoring on a test and getting a badge. What’s important is the [information and insights you obtained](/articles/are-certifications-worth-it/).
 
 Enhancing your resume with a credential is a bonus.
 
@@ -208,14 +208,13 @@ Challenging myself to take some of the most prestigious project management profe
 
 Here are a few notes and suggestions for those who are considering the PRINCE2 or PRINCE2 Agile certifications:
 
-
-
 1. If you have a relevant textbook, it’s guaranteed that you pass the exam at any level.
 2. To get more questions right, analyze the right and wrong answers from the exam papers and understand their angle.
-3. PRINCE2 Agile Foundation has more to do [with the Agile spirit](https://ninel.work/articles/develop-agile-mindset-guide/) than PRINCE2 Agile Professional.
+3. PRINCE2 Agile Foundation has more to do [with the Agile spirit](/articles/develop-agile-mindset-guide/) than PRINCE2 Agile Professional.
 
 Keep in mind that since 2023, the Foundation-level certifications by Axelos also need to be renewed every three years.
 
+**Related**: [Is my professional certifications worth renewing?](/articles/renew-certification-or-let-it-expire/)
 
 ## The biggest mystery of PRINCE2 exams: “use a pencil, NOT pen”
 
