@@ -275,7 +275,7 @@ Usually “life success” is perceived as a mix of those and other accomplishme
 
 Issues might arise when you’re pressured into achieving someone else’s desired goals. If you do get there, it doesn’t feel like victory. Or, worse, you might feel miserable about failing to hit someone else’s target.
 
-It’s important to understand what fulfills you, what inspires you. When you look back at your life years from now, what would put a satisfied smile on your face?
+It’s important to understand what fulfills you, what inspires you. When you look back at your life years from now, what would put a satisfied smile on your face? 
 
 
 ## Conclusion
