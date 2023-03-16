@@ -67,7 +67,7 @@ However, as you practice something and repeat it in various forms through exerci
 
 With time and practice, you develop an intuitive understanding, so the ideas, answers, and actions come much easier.
 
-**Related**: [How to develop intuition with learning and self-awareness](https://ninel.work/articles/develop-intuition-learning-self-awareness/).
+**Related**: [How to develop intuition with learning and self-awareness](/articles/develop-intuition-learning-self-awareness/).
 
 There are people who started doing yoga in their forties and developed flexibility over time. They might not get to the level of someone who did gymnastics since their childhood, but they’re way more flexible than their former selves – and even some people much younger than them.
 
@@ -161,7 +161,7 @@ But there are a couple of things that are true in any scenario:
 1. The following elements of the success formula, Consistency and Mindset, could also be viewed as tools. Working on them will bring up your overall score.
 2. The opposites of tools are ballasts. Even partially removing them will help.
 
-**Related**: [A strategy to learn new skills from the very beginning](https://ninel.work/articles/online-research-strategy-efficient/).
+**Related**: [A strategy to learn new skills from the very beginning](/articles/online-research-strategy-efficient/).
 
 
 ## Ballasts: the impediments to success
@@ -224,9 +224,9 @@ But our mirror is fluid. Changing its shape won't break it, so we could mold the
 
 Some types of mindset are better for personal and professional growth.
 
-For example, [an Agile mindset](https://ninel.work/articles/develop-agile-mindset-guide/): it's geared toward learning small lessons at every step and quickly implementing them to reach success incrementally.
+For example, [an Agile mindset](/articles/develop-agile-mindset-guide/): it's geared toward learning small lessons at every step and quickly implementing them to reach success incrementally.
 
-Here's the [guide to developing an Agile mindset](https://ninel.work/articles/develop-agile-mindset-guide/).
+Here's the [guide to developing an Agile mindset](/articles/develop-agile-mindset-guide/).
 
 {{< figure src="/article_images/how-life-success-factors-img3.jpg" alt="The mindset is what defines your personal success or failure" caption="photo by \@chermitove on Pexels">}}
 
@@ -275,7 +275,7 @@ Usually “life success” is perceived as a mix of those and other accomplishme
 
 Issues might arise when you’re pressured into achieving someone else’s desired goals. If you do get there, it doesn’t feel like victory. Or, worse, you might feel miserable about failing to hit someone else’s target.
 
-It’s important to understand what fulfills you, what inspires you. When you look back at your life years from now, what would put a satisfied smile on your face? 
+It’s important to understand what fulfills you, what inspires you. When you look back at your life years from now, what would put a satisfied smile on your face?
 
 
 ## Conclusion
