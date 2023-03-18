@@ -30,8 +30,8 @@ unsafe= true
     url = '/contact/'
     weight = 30
   [[menu.main]]
-    name = 'Work with me'
-    url = '/work-with-ninel/'
+    name = 'Coaching'
+    url = '/personal-professional-development-coaching/'
     weight = 40
     [menu.main.params]
     class = "header_nav_button"
