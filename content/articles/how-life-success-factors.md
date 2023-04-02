@@ -200,6 +200,8 @@ A few points related to consistency:
 * Since you're in for a marathon, it's important to pick a pace you could maintain.
 * You need to have realistic expectations about the results.
 
+**Related**: [A full guide to staying consistent in life](/articles/how-improve-consistency-tips-guide/).
+
 
 ## 5. Mindset. Success or failure begins in your mind
 
@@ -284,4 +286,4 @@ It’s important to understand what fulfills you, what inspires you. When you lo
 
 There are definitely tools you could learn or improve to greatly increase your chances of success. How do you know which ones to go for? Start with getting rid of the ballasts, try out different things, improve your consistency, and be honest with yourself.
 
-If you could use some help to progress faster or need a responsibility coach, you could try my coaching services.
+If you could use some help to progress faster or need a responsibility coach, you could [try my personal development coaching services](/personal-professional-development-coaching/).
