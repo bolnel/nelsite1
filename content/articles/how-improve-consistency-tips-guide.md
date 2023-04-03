@@ -203,7 +203,7 @@ But remove the obvious temptations and distractions and make it convenient to ac
 * Declutter your desk.
 * Turn off all but the most important popup notifications on your phone.
 * Turn off the sound and vibration for **all** phone notifications.
-* Set boundaries with people in your household.
+* [Set boundaries](/articles/how-set-maintain-develop-boundaries-strong-healthy/) with people in your household.
 * If some level of noise is inevitable and it keeps breaking your concentration, invest in noise-canceling headphones.
 
 
