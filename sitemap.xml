@@ -1,6 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ninel.work/articles/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/burnout-mental-exhaustion-how-to-overcome/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/burnout-mental-exhaustion-how-to-overcome/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/</loc>
+    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/personal-professional-development-coaching/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -11,32 +41,12 @@
   </url>
   
   <url>
-    <loc>https://ninel.work/articles/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/articles/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ninel.work/articles/how-set-maintain-develop-boundaries-strong-healthy/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/how-set-maintain-develop-boundaries-strong-healthy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/"
                 />
   </url>
   
