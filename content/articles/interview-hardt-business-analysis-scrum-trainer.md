@@ -29,7 +29,7 @@ We’ll talk about:
 
 **_Ninel: I read that you wanted to become a detective in your childhood. How did you become a software developer, and, eventually, an Scrum Trainer?_**
 
-**Alexander**: I graduated from the department of mathematics and computer sciences and worked in software development since the mid-90s.
+**Alexander**: I studied at the Department of Mathematics and Computer Sciences but didn't graduate: in 1995, the internet fascinated me and I started working as a web developer.
 
 I came to Agile and Scrum in the early 2000s. I wanted to improve the process as a whole – not only in the small programming niche I worked in. We started with eXtreme Programming and Agile practices.
 
@@ -40,7 +40,7 @@ In the following years, Scrum was getting more popular. In 2008, I took my first
 
 The most important advice to my past self would be to **start working independently** earlier.
 
-I waited for too long to start working for myself and missed several opportunities in my life that I could’ve taken earlier.
+I waited for too long to start working for myself and missed several opportunities in my life that I could’ve taken earlier. Embracing uncertainty was difficult for me.
 
 On the other hand, it helped me get more professional before I launched my independent career.
 
@@ -53,7 +53,7 @@ With the rise of Scrum and Agile, I found something I’m passionate about.
 
 I didn’t do any special research to find those waves. I just saw them and realized that, yes, that’s a big thing, and I want to be a part of that. Keep your eyes open for opportunities.
 
-What will the next wave be? We’ll see what happens. But when the next wave is coming, I want to be prepared to ride this wave better and in a more efficient way.
+What will the next wave be? We’ll see what happens. But when the next wave is coming, I want to be prepared to ride this wave better and in a more efficient way. AI is on the rise now, it's probably the next game changer.
 
 
 {{< figure class="pinnable imgnarrow" src="/article_images/interview-hardt-inspirational-quote-advice-to-myself.jpg" alt="Inspirational quote by a business coach: advice to my past self, what I wish I did." >}}
@@ -102,11 +102,11 @@ If you’re asking about my main takeaway from those books, it’s “live your 
 
 I want to grow my training business to the point where I don’t need to take part in everyday operations and be more of a shareholder.
 
-How could you scale training? If there’s a training method you created, you could have coaches on your team who use the method. This way, it’s easier to find clients – in particular, smaller companies.
+How could you scale training? If there’s a signature method you created, you could have coaches on your team who use the method. This way, it’s easier to find your dream clients.
 
-When you’re hired as a coach, you could help individuals to get better at what they’re doing, but you can’t change the company culture. I did facilitate change in some situations. But in general, the bigger the company, the more difficult it gets.
+Typically, from my experience, when you’re hired as a coach, you could help individuals to get better at what they’re doing, but you can’t change the company culture. I did facilitate change in some situations. But in general, the bigger the company, the more difficult it gets.
 
-Even as an individual, it’s difficult to change your behavior. You could imagine what it’s like on the organizational level.
+Even as an individual, it’s difficult to change your behavior. You can imagine what it’s like on the organizational level.
 
 I’m going to niche down and specialize in working with smaller and medium-sized organizations.
 
