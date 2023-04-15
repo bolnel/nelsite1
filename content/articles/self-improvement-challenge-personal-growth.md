@@ -7,7 +7,7 @@ slug = "self-improvement-challenge-personal-growth"
 aliases = [
     "/challenges"
 ]
-featured = "/article_images/30-day-personal-growth-self-improvement-challenge-february-2023.jpg"
+featured = "/article_images/30-day-personal-growth-self-improvement-development-challenge.jpg"
 thumbnail = "/article_images/self-improvement-challenge-personal-growth-thumbnail.jpg"
 tags = []
 draft = false
@@ -18,7 +18,7 @@ Here’s the personal growth challenge for this month. What were your favorite a
 
 [Get in touch](/contact/) and let me know!
 
-{{< figure class="pinnable" src="/article_images/30-day-personal-growth-self-improvement-challenge-february-2023.jpg" alt="A 30-day self-growth challenge for this month" >}}
+{{< figure class="pinnable" src="/article_images/30-day-personal-growth-self-improvement-development-challenge.jpg" alt="A 30-day self-growth challenge for this month" >}}
 
 ## 1. Don’t use your phone for 1 hour before going to bed
 

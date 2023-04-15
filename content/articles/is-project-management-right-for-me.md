@@ -126,7 +126,7 @@ Even to someone you like? To your superior? To someone who pays you? Who could f
 
 Would you still look them in the eye and calmly say “no”?
 
-It will be your responsibility as a project manager to manage stakeholder expectations and prevent [scope creep](https://www.pmi.org/learning/library/top-five-causes-scope-creep-6675).
+It will be your responsibility as a project manager to manage stakeholder expectations and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
 
 <p class="paragraph_highlight">Firm boundaries are based on open, respectful communication and on being consistent.</p>
 
@@ -144,9 +144,7 @@ Is it your natural inclination to keep things documented?
 
 ## 7. Are you a “cat herder”?
 
-“Herding cats” is the term that used to be applied in the context of managing the project team.
-
-This paper published by Project Management Institute (PMI) more than a decade ago dives in-depth into [what “cat herding” is](https://www.pmi.org/learning/library/leading-project-teams-through-chaos-6278) in people management – and how to get rid of this practice in favor of self-managing teams.
+“Herding cats” is the term that [used to be applied](https://www.linkedin.com/pulse/herding-cats-project-managers-catchphrase-joanne-haskins/) in the context of managing the project team. This attitude goes away as the Agile mentality spreads and the focus shifts towards self-managing teams.
 
 However, the term stroke a chord with me. In any case, you’ll be dealing with people facing different directions: different characters, agendas, and expectations. Not everyone will be eager to cooperate.
 
