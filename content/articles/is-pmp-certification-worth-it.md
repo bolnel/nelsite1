@@ -8,6 +8,7 @@ featured = "/article_images/is-pmp-certification-worth-it-hero.jpg"
 thumbnail = "/article_images/is-pmp-certification-worth-it-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Project Management Professional certification is the most recognized PM credential worldwide.

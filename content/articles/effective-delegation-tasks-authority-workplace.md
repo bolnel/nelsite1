@@ -8,6 +8,7 @@ featured = "/article_images/effective-delegation-tasks-authority-workplace-hero.
 thumbnail = "/article_images/effective-delegation-tasks-authority-workplace-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 

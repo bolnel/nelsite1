@@ -8,6 +8,7 @@ featured = "/article_images/how-life-success-factors-hero.jpg"
 thumbnail = "/article_images/how-life-success-factors-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 

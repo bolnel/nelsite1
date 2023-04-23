@@ -9,7 +9,7 @@ canonifyURLs = "true"
   color = 'light'
   author = "Ninel Bolotova"
   description = "Personal growth, skills improvement, professional certifications, good habits."
-  taxonomiesExcludedFromSitemap = ["tags", "categories"]
+  taxonomiesExcludedFromSitemap = ["tags"]
 
 [markup.goldmark.renderer]
 unsafe= true

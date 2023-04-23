@@ -8,6 +8,7 @@ featured = "/article_images/burnout-mental-exhaustion-how-to-overcome-hero.jpg"
 thumbnail = "/article_images/burnout-mental-exhaustion-how-to-overcome-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 You’re depleted. You’ve had enough.
