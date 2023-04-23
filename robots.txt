@@ -1,8 +1,7 @@
 User-agent: *
 
 Disallow: /tags/
-Disallow: /categories/
-Disallow: /thanks-for-subscribing
+Disallow: /thanks-for-subscribing/
 Disallow: /porpoisean/
 Disallow: /detroitchicago/
 

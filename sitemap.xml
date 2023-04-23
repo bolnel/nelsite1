@@ -1,18 +1,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ninel.work/articles/effective-delegation-tasks-authority-workplace/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/articles/effective-delegation-tasks-authority-workplace/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -21,12 +11,52 @@
   </url>
   
   <url>
+    <loc>https://ninel.work/categories/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/personal-growth/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/personal-growth/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/find-maintain-work-life-balance-home/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/find-maintain-work-life-balance-home/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/effective-delegation-tasks-authority-workplace/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/effective-delegation-tasks-authority-workplace/"
                 />
   </url>
   
@@ -157,6 +187,16 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/is-pmp-certification-worth-it/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/professional-growth/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/professional-growth/"
                 />
   </url>
   
@@ -361,12 +401,32 @@
   </url>
   
   <url>
+    <loc>https://ninel.work/categories/certifications/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/certifications/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/articles/how-pass-certification-exam-test-first-try-tips-techniques/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/how-pass-certification-exam-test-first-try-tips-techniques/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/self-education/</loc>
+    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/self-education/"
                 />
   </url>
   
