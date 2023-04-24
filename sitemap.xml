@@ -111,6 +111,16 @@
   </url>
   
   <url>
+    <loc>https://ninel.work/categories/professional-growth/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/professional-growth/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ninel.work/articles/prince2-agile-exam-taking-experiment/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -187,16 +197,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/is-pmp-certification-worth-it/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/professional-growth/</loc>
-    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/professional-growth/"
                 />
   </url>
   
@@ -401,32 +401,12 @@
   </url>
   
   <url>
-    <loc>https://ninel.work/categories/certifications/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/certifications/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ninel.work/articles/how-pass-certification-exam-test-first-try-tips-techniques/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/how-pass-certification-exam-test-first-try-tips-techniques/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/self-education/</loc>
-    <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/self-education/"
                 />
   </url>
   
