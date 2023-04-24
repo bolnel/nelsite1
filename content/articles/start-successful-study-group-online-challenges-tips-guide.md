@@ -8,6 +8,7 @@ featured = "/article_images/start-successful-study-group-online-challenges-tips-
 thumbnail = "/article_images/start-successful-study-group-online-challenges-tips-guide-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 To absorb and retain the knowledge better, you need to actively use it. One of the ways to do it is by interacting with your peers, explaining things to them and hearing their perspectives. A study group could be a fun and efficient way of [preparing for an exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques) or achieving another learning goal.

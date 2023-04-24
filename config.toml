@@ -18,20 +18,32 @@ unsafe= true
   [menu]
   [[menu.main]]
     identifier = '/'
-    name = 'About'
-    url = '/about/'
+    name = 'Home'
+    url = '/'
     weight = 10
   [[menu.main]]
-    name = 'Articles'
-    url = '/articles/'
+    name = 'Professional Growth'
+    url = '/categories/professional-growth/'
     weight = 20
+  [[menu.main]]
+      name = 'Personal Growth'
+      url = '/categories/personal-growth/'
+      weight = 30
+  [[menu.main]]
+      name = 'About'
+      url = '/about/'
+      weight = 40
   [[menu.main]]
     name = 'Contact'
     url = '/contact/'
-    weight = 30
+    weight = 50
+  [[menu.main]]
+    name = 'Privacy Policy'
+    url = '/privacy-policy/'
+    weight = 60
   [[menu.main]]
     name = 'Coaching'
     url = '/personal-professional-development-coaching/'
-    weight = 40
+    weight = 70
     [menu.main.params]
     class = "header_nav_button"

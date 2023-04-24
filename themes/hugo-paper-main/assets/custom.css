@@ -9,6 +9,7 @@
 
 .site_header {
     border-bottom: 1px solid lightgray;
+    max-width: 67rem; /* to fit all menu items on desktop */
 }
 
 .twitter_icon_header {
@@ -16,6 +17,9 @@
     position: relative;
     bottom: -8px;
 }
+
+nav a {font-weight: 500!important;}
+nav a:hover {color:purple;}
 
 /* Article title styling */
 .article_header:after, article h2:after {

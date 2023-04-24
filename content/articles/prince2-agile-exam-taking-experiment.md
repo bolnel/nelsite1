@@ -8,6 +8,7 @@ featured = "/article_images/prince2-agile-exam-taking-experiment-hero.jpg"
 thumbnail = "/article_images/prince2-agile-exam-taking-experiment-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

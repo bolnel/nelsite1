@@ -8,6 +8,7 @@ featured = "/article_images/pspo-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/pspo-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Product Owner isn't a job title but an accountability in Scrum.

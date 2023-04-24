@@ -8,6 +8,7 @@ featured = "/article_images/psm-3-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-3-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 PSM III certification exam is the ultimate challenge for Scrum practitioners. Out of all people who passed the PSM I test, only 0.2% went all the way up to level three.

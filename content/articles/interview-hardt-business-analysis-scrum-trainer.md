@@ -8,6 +8,7 @@ featured = "/article_images/interview-hardt-business-analysis-scrum-trainer-hero
 thumbnail = "/article_images/interview-hardt-business-analysis-scrum-trainer-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

@@ -8,6 +8,7 @@ featured = "/article_images/how-set-maintain-develop-boundaries-strong-healthy-h
 thumbnail = "/article_images/how-set-maintain-develop-boundaries-strong-healthy-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 

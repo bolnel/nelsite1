@@ -8,6 +8,7 @@ featured = "/article_images/pmp-prince2-certifications-differences-hero.jpg"
 thumbnail = "/article_images/pmp-prince2-certifications-differences-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

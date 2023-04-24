@@ -8,6 +8,7 @@ featured = "/article_images/develop-intuition-learning-self-awareness-hero.jpg"
 thumbnail = "/article_images/develop-intuition-learning-self-awareness-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 Does your "gut feeling" ever lie to you?

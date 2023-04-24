@@ -12,6 +12,7 @@ featured = "/article_images/how-get-seu-csm-renewal-free-hero.jpg"
 thumbnail = "/article_images/how-get-seu-csm-renewal-free-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Certified Scrum Master credential by Scrum Alliance has to be renewed every 2 years.

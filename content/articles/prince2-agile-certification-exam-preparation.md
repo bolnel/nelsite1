@@ -8,6 +8,7 @@ featured = "/article_images/prince2-agile-certification-exam-preparation-hero.jp
 thumbnail = "/article_images/prince2-agile-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

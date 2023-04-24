@@ -8,6 +8,7 @@ featured = "/article_images/how-improve-consistency-tips-guide-hero.jpg"
 thumbnail = "/article_images/how-improve-consistency-tips-guide-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 

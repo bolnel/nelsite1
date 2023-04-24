@@ -8,6 +8,7 @@ featured = "/article_images/free-scrum-agile-webinars-prepare-certification-exam
 thumbnail = "/article_images/free-scrum-agile-webinars-prepare-certification-exam-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 During my PSM exam preparation, I went through nearly all the materials on Scrum.org learning paths – Scrum Master, Product Owner, Software Developer, and Agile Leader.

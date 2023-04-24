@@ -8,6 +8,7 @@ featured = "/article_images/psm-csm-which-scrum-certification-best-hero.jpg"
 thumbnail = "/article_images/psm-csm-which-scrum-certification-best-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Scrum is a framework for solving complex problems. It’s mainly used for software and product development but could be applied to any project with evolving requirements and short feedback loops.

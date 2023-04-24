@@ -8,6 +8,7 @@ featured = "/article_images/are-certifications-worth-it-hero.jpg"
 thumbnail = "/article_images/are-certifications-worth-it-thumbnail.jpg"
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
+categories = ["Professional growth"]
 +++
 
 If the job you seek requires a license, then making a decision is easy – you don't really have a choice. Licensure and certification are both means of verifying your skills and expertise, but they have some [distinct differences](http://www.differencebetween.net/language/words-language/difference-between-certification-and-licensure/).

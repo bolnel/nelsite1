@@ -8,6 +8,7 @@ featured = "/article_images/psm-1-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-1-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 The PSM I exam tests your knowledge of the Scrum framework and the Scrum Master accountability in particular, as defined in the Scrum Guide.

@@ -8,6 +8,7 @@ featured = "/article_images/psm-2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-2-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 PSM II is the advanced Scrum Master certification exam by Scrum.org. While [PSM I is validating your knowledge](/articles/psm-1-certification-exam-preparation) of the Scrum framework elements, PSM II tests your understanding and interpretation of the Scrum Guide principles.

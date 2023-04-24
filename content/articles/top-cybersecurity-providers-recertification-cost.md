@@ -6,9 +6,9 @@ lastmod = "2022-09-24"
 slug = "top-cybersecurity-providers-recertification-cost"
 featured = "/article_images/top-cybersecurity-providers-recertification-cost-hero.jpg"
 thumbnail = "/article_images/top-cybersecurity-providers-recertification-cost-thumbnail.jpg"
-categories = ['certifications', 'self-education']
 tags = ['certifications', 'courses']
 draft = false
+categories = ["Professional growth"]
 +++
 
 So, you [decided that it's a good idea](/articles/are-certifications-worth-it) to get a cybersecurity certification. But which one should you go for?

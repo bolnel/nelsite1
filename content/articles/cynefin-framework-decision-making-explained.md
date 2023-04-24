@@ -8,6 +8,7 @@ featured = "/article_images/cynefin-framework-decision-making-explained-hero.jpg
 thumbnail = "/article_images/cynefin-framework-decision-making-explained-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 What do I do now?

@@ -8,6 +8,7 @@ featured = "/article_images/renew-certification-or-let-it-expire-hero.jpg"
 thumbnail = "/article_images/renew-certification-or-let-it-expire-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

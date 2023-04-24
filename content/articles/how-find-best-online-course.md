@@ -8,6 +8,7 @@ featured = "/article_images/how-find-best-online-course-hero.jpg"
 thumbnail = "/article_images/how-find-best-online-course-thumbnail.jpg"
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
+categories = ["Professional growth"]
 +++
 
 There are so many courses out there: free and paid, instructor-led and self-paced, lasting from a few hours to a few weeks or months.

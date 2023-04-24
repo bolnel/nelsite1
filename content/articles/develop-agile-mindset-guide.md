@@ -8,6 +8,7 @@ featured = "/article_images/develop-agile-mindset-guide-hero.jpg"
 thumbnail = "/article_images/develop-agile-mindset-guide-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 Agile methodologies are successful when people involved share certain values and principles.

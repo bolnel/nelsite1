@@ -8,6 +8,7 @@ featured = "/article_images/how-pass-pmp-audit-pmi-hero.jpg"
 thumbnail = "/article_images/how-pass-pmp-audit-pmi-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 To maintain the standards and enhance the credibility of its certifications, PMI randomly audits a  number of applicants.

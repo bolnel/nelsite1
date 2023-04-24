@@ -8,6 +8,7 @@ featured = "/article_images/capm-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/capm-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

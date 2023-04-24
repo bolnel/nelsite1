@@ -8,6 +8,7 @@ featured = "/article_images/prince2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/prince2-certification-exam-preparation-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 

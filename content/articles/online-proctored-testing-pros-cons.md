@@ -6,9 +6,9 @@ lastmod = "2022-09-28"
 slug = "online-proctored-testing-pros-cons"
 featured = "/article_images/online-proctored-testing-pros-cons-hero.jpg"
 thumbnail = "/article_images/online-proctored-testing-pros-cons-thumbnail.jpg"
-categories = ['certifications', 'self-education']
 tags = ['certifications']
 draft = false
+categories = ["Professional growth"]
 +++
 
 One of the silver linings to the 2020 COVID pandemic was that the [certification providers](/articles/are-certifications-worth-it) became much more open to online testing. Now everyone offers this option, so you could take a test from the comfort of your own home.

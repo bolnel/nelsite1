@@ -6,9 +6,9 @@ lastmod = "2023-02-12"
 slug = "how-pass-certification-exam-test-first-try-tips-techniques"
 featured = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-hero.jpg"
 thumbnail = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-thumbnail.jpg"
-categories = ['certifications', 'self-education']
 tags = ['pmp', 'psm', 'certifications', 'courses']
 draft = false
+categories = ["Professional growth"]
 +++
 
 So, you figured out [why you want to get certified](/articles/are-certifications-worth-it/), checked and compared the options, and chose a credential you want to pursue. It would be great to pass the test the first time you attempt it. Is there a way to prepare that would guarantee such success?

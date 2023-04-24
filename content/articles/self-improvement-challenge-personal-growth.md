@@ -11,6 +11,7 @@ featured = "/article_images/30-day-personal-growth-self-improvement-development-
 thumbnail = "/article_images/self-improvement-challenge-personal-growth-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Personal growth"]
 +++
 
 

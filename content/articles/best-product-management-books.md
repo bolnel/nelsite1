@@ -12,6 +12,7 @@ featured = "/article_images/best-product-management-books-hero.jpg"
 thumbnail = "/article_images/best-product-management-books-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Here’s the reference list of practical and insightful books on product management to read this year:

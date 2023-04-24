@@ -8,6 +8,7 @@ featured = "/article_images/online-research-strategy-efficient-hero.jpg"
 thumbnail = "/article_images/online-research-strategy-efficient-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Where do I even start?

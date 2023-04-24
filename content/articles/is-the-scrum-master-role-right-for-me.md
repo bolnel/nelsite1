@@ -8,6 +8,7 @@ featured = "/article_images/is-the-scrum-master-role-right-for-me-hero.jpg"
 thumbnail = "/article_images/is-the-scrum-master-role-right-for-me-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 Scrum Master is a lucrative role. It has good earning potential. Obtaining a Scrum Master certification, [PSM or CSM](/articles/psm-csm-which-scrum-certification-best), is achievable within a short period of time.

@@ -8,6 +8,7 @@ featured = "/article_images/is-project-management-right-for-me-hero.jpg"
 thumbnail = "/article_images/is-project-management-right-for-me-thumbnail.jpg"
 tags = []
 draft = false
+categories = ["Professional growth"]
 +++
 
 
