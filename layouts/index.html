@@ -1,25 +1,12 @@
 {{ define "main" }}
 
-<!-- Tag Title -->
-{{ if and .Title (eq .Type "tags") }}
-<h1 class="mb-24">Articles tagged with "{{ .Title }}"</h1>
-{{ end }}
+<!-- Home page content defined in content/_index.md -->
 
-<!-- Category Title -->
-{{ if and .Title (eq .Type "categories") }}
-<h1 class="mb-20 article_header">Articles on {{ .Title }}</h1>
-{{ end }}
-
-<!-- Home page content -->
-{{ if $.IsHome }}
 {{ .Content }}
-{{ end }}
 
 <!-- $pages -->
 {{ $pages := union .RegularPages .Sections }}<!---->
-{{ if .IsHome }}<!---->
-{{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
-{{ end }}
+{{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections | first 5 }}<!---->
 
 <!-- Articles -->
 {{ $paginator := .Paginate $pages }} {{ range $index, $page := $paginator.Pages }}<!---->
@@ -79,5 +66,7 @@
   {{ end }}
 </nav>
 {{ end }}<!---->
+
+<p style="clear:both;">See more articles on <a href="/categories/personal-growth/">personal growth</a>, on <a href="/categories/professional-growth/">professional development</a>, or browse the <a href="/articles/">full list of articles in all categories</a>.</p>
 
 {{ end }}
