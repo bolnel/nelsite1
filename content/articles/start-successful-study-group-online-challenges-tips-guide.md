@@ -11,7 +11,7 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-To absorb and retain the knowledge better, you need to actively use it. One of the ways to do it is by interacting with your peers, explaining things to them and hearing their perspectives. A study group could be a fun and efficient way of [preparing for an exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques) or achieving another learning goal.
+To absorb and retain the knowledge better, you need to actively use it. One of the ways to do it is by interacting with your peers, explaining things to them and hearing their perspectives. A study group could be a fun and efficient way of [preparing for an exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) or achieving another learning goal.
 
 Joining or starting an online study group is easy – there are millions of peers around the world you could connect with, and many of them have their goals and interests aligned with yours.
 

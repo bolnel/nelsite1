@@ -15,7 +15,7 @@ So, you figured out [why you want to get certified](/articles/are-certifications
 
 I'm not giving you a 100% success guarantee (and you should be wary of people who claim they do). But I'll share an approach that would increase your chances greatly.
 
-Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation), [aced my PMP](/articles/pmp-certification-exam-preparation), and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
+Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation/), [aced my PMP](/articles/pmp-certification-exam-preparation/), and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
 
 The main points to successfully pass the exam are:
 
@@ -86,7 +86,7 @@ There are two levels to your way of studying. Let's call them "strategy" and "ta
 _Strategic_ _level_ is your general preference for how you study, based on how much guidance you receive and how many interactions you have with others:
 
 * Study groups
-* [Enrolling in a course](/articles/how-find-best-online-course)
+* [Enrolling in a course](/articles/how-find-best-online-course/)
 * Individual lessons
 * Self-education
 
@@ -98,7 +98,7 @@ Here's a breakdown of a few [study techniques you can try out](https://www.usa.e
 
 Try out different methods and techniques and see what feels the most fulfilling and helps you progress the most.
 
-**Related**: [How to do online research efficiently: the strategy guide](/articles/online-research-strategy-efficient).
+**Related**: [How to do online research efficiently: the strategy guide](/articles/online-research-strategy-efficient/).
 
 {{< figure src="/article_images/how-pass-certification-exam-test-first-try-tips-techniques-img2.jpg" alt="A cat researching tips and techniques for passing the certification exam on the first try" caption="photo by \@skysakura on Unsplash">}}
 
@@ -136,7 +136,7 @@ Depending on your intensity of studying, return to the outline every 4-7 days an
 
 And try to actually do it. As you struggle with a coherent explanation of the topic that felt so obvious when you read about it, you’ll feel where your limits are and what you should practice further.
 
-**Related**: [How to get your understanding to an intuitive level](/articles/develop-intuition-learning-self-awareness).
+**Related**: [How to get your understanding to an intuitive level](/articles/develop-intuition-learning-self-awareness/).
 
 ### Using the exam simulators
 
@@ -175,7 +175,7 @@ Most of what I wrote in this chapter was about the questions where you need to p
 
 Depending on your exam, there might be questions where you need to perform a small task, write an answer to an open-ended question, and so on. The obvious advice here is to practice the tasks you'll encounter.
 
-For example, the 3rd level of Professional Scrum Master certification mostly has the essay questions. Here's the guide on [how to manage your time and practice answering essay-type questions](/articles/psm-3-certification-exam-preparation).
+For example, the 3rd level of Professional Scrum Master certification mostly has the essay questions. Here's the guide on [how to manage your time and practice answering essay-type questions](/articles/psm-3-certification-exam-preparation/).
 
 
 ## 7. Test the exam setup in advance

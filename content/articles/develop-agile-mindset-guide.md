@@ -304,10 +304,10 @@ If there was a misunderstanding, make sure you’re on the same page. If somethi
 
 ## Where do you need the Agile mindset?
 
-Besides being beneficial at work and in daily life, the Agile mindset is necessary to successfully pass some of the [top certification exams](/articles/how-pass-certification-exam-test-first-try-tips-techniques):
+Besides being beneficial at work and in daily life, the Agile mindset is necessary to successfully pass some of the [top certification exams](/articles/how-pass-certification-exam-test-first-try-tips-techniques/):
 
 * The PSM certification exams test your understanding of the Scrum Guide, the values and approaches described there. \
-**Related**: preparing for [PSM I](/articles/psm-1-certification-exam-preparation), [PSM II](/articles/psm-2-certification-exam-preparation), and [PSM III](/articles/psm-3-certification-exam-preparation) certifications.
+**Related**: preparing for [PSM I](/articles/psm-1-certification-exam-preparation/), [PSM II](/articles/psm-2-certification-exam-preparation/), and [PSM III](/articles/psm-3-certification-exam-preparation/) certifications.
 * The newer versions of the PMP certification focus on the Agile approach to management
 * Agile Analysis Certification by the Institute of Business Analysis (IIBA-AAC) verifies your capability to use the Agile approach in the context of Business Analysis.
 

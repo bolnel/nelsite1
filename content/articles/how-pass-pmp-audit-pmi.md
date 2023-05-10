@@ -44,7 +44,7 @@ The audit is completely random. Your place of residence, work experience, or oth
 
 Anecdotal evidence suggests that applications are randomly picked for an audit right after they’re submitted. So, if you don’t get an audit notification within 10 minutes of your “application received” email, you’re most likely in the clear.
 
-**Related**: [How to pass the PMP exam successfully](/articles/pmp-certification-exam-preparation).
+**Related**: [How to pass the PMP exam successfully](/articles/pmp-certification-exam-preparation/).
 
 
 ### How many PMP applications are being audited?
@@ -157,7 +157,7 @@ On average, the audit result comes within a week.
 
 You can proceed with paying for the exam once you successfully passed the audit.
 
-**Related**: [Developing an Agile mindset](/articles/develop-agile-mindset-guide).
+**Related**: [Developing an Agile mindset](/articles/develop-agile-mindset-guide/).
 
 {{< figure src="/article_images/how-pass-pmp-audit-pmi-img3.jpg" alt="What happens if you fail the PMI audit? What are the next steps?" caption="photo by \@nicola-barts on Pexels" >}}
 
@@ -221,7 +221,7 @@ Good luck with your exam!
 
 More articles you might be interested in:
 
-* [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
-* [How to pass the CAPM exam](/articles/capm-certification-exam-preparation).
-* [Best Product Management Books](/articles/best-product-management-books).
-* [Developing intuition with learning](/articles/develop-intuition-learning-self-awareness).
+* [PMP exam preparation guide](/articles/pmp-certification-exam-preparation/).
+* [How to pass the CAPM exam](/articles/capm-certification-exam-preparation/).
+* [Best Product Management Books](/articles/best-product-management-books/).
+* [Developing intuition with learning](/articles/develop-intuition-learning-self-awareness/).

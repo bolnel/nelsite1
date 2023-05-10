@@ -221,11 +221,11 @@ Radio operators were paid by passengers to relay messages, and weren't paid to r
 
 Hope some of the materials here stroke a chord with you and contributed to your journey as a Scrum Master, Product Owner, or Agile Developer.
 
-And regardless of your accountability, each of us grows as a person and a leader when we’re [willing to learn](/articles/online-research-strategy-efficient), inspect and adapt, and improve.
+And regardless of your accountability, each of us grows as a person and a leader when we’re [willing to learn](/articles/online-research-strategy-efficient/), inspect and adapt, and improve.
 
-If you consider getting a Scrum Master certification, see [how PSM is different from CSM](/articles/psm-csm-which-scrum-certification-best), and take a look at my guide on how to get PSM certifications of all levels.
+If you consider getting a Scrum Master certification, see [how PSM is different from CSM](/articles/psm-csm-which-scrum-certification-best/), and take a look at my guide on how to get PSM certifications of all levels.
 
 More articles you might be interested in:
 
-- [Should I become a Scrum Master?](/articles/is-the-scrum-master-role-right-for-me)
-- [How to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation).
+- [Should I become a Scrum Master?](/articles/is-the-scrum-master-role-right-for-me/)
+- [How to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation/).

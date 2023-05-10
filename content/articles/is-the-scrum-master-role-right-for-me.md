@@ -11,7 +11,7 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-Scrum Master is a lucrative role. It has good earning potential. Obtaining a Scrum Master certification, [PSM or CSM](/articles/psm-csm-which-scrum-certification-best), is achievable within a short period of time.
+Scrum Master is a lucrative role. It has good earning potential. Obtaining a Scrum Master certification, [PSM or CSM](/articles/psm-csm-which-scrum-certification-best/), is achievable within a short period of time.
 
 However, while anyone could take the role, not everyone will be happy or successful performing it.
 
@@ -34,7 +34,7 @@ An Agile mindset is characterized by:
 * Desire to deliver value
 * Embracing complexity and challenges
 
-In a related article, we discuss [how an Agile mindset could be developed](/articles/develop-agile-mindset-guide), its similarities and differences from Growth and Lean mindsets, and how to apply the Agile principles beyond the workplace.
+In a related article, we discuss [how an Agile mindset could be developed](/articles/develop-agile-mindset-guide/), its similarities and differences from Growth and Lean mindsets, and how to apply the Agile principles beyond the workplace.
 
 
 ## 2. Do you enjoy helping others?
@@ -154,7 +154,7 @@ Then you could definitely pursue the Scrum Master role.
 
 Are you ready to learn from your team and learn with your team?
 
-Are you willing to [deepen your understanding](/articles/develop-intuition-learning-self-awareness) of Scrum and Agile and enhance your mastery, no matter what level you are on?
+Are you willing to [deepen your understanding](/articles/develop-intuition-learning-self-awareness/) of Scrum and Agile and enhance your mastery, no matter what level you are on?
 
 
 ## More questions related to the Scrum Master role
@@ -170,7 +170,7 @@ A project manager is responsible for the setup and maintenance of the process an
 
 Scrum Master is responsible for promoting the Scrum values, facilitating Scrum on the team level, and promoting the Agile culture within the organization.
 
-**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me)
+**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me/)
 
 ### Do you need to be certified to become a Scrum Master?
 
@@ -178,13 +178,13 @@ Certification isn't necessary to take up the Scrum Master role, especially if yo
 
 But if you look at the job postings, nearly all of them mention that certification is preferred.
 
-**Related**: [CSM vs. PSM: Which Scrum Certification is Right for You?](/articles/psm-csm-which-scrum-certification-best)
+**Related**: [CSM vs. PSM: Which Scrum Certification is Right for You?](/articles/psm-csm-which-scrum-certification-best/)
 
-Most importantly, though, is that getting ready for and [successfully passing the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques) will enhance your understanding of Scrum and help you be a more successful Agile practitioner.
+Most importantly, though, is that getting ready for and [successfully passing the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) will enhance your understanding of Scrum and help you be a more successful Agile practitioner.
 
 In particular, the second level of the Professional Scrum Master certification (PSM II) by Scrum.org is a good challenge – with active learning, you could take it even if you're relatively new to Scrum, and get a great head start.
 
-Here's my guide to [preparing for the PSM II exam](/articles/psm-2-certification-exam-preparation).
+Here's my guide to [preparing for the PSM II exam](/articles/psm-2-certification-exam-preparation/).
 
 {{< figure src="/article_images/is-the-scrum-master-role-right-for-me-img4.jpg" alt="You don't need to be technical to become a Scrum Master but you need to be willing to learn from the team" caption="photo by \@cottonbro on Pexels">}}
 

@@ -108,7 +108,7 @@ What's so particular about the Rapid Saturation method, then?
 
 It’s about the intensity. You consciously and methodically expose yourself to a large number of examples, feeding a ton of data to the brain until you feel it’s overflowing – and keep going after that.
 
-This method is a part of the _[Mapping the Catacombs](/articles/online-research-strategy-efficient)_ approach to self-education. The latter is the strategy of painting the whole picture of the subject you're studying, and rapid saturation is one of the ways I accomplish it. Read more in the article on how to [learn from zero with the right questions](/articles/online-research-strategy-efficient).
+This method is a part of the _[Mapping the Catacombs](/articles/online-research-strategy-efficient/)_ approach to self-education. The latter is the strategy of painting the whole picture of the subject you're studying, and rapid saturation is one of the ways I accomplish it. Read more in the article on how to [learn from zero with the right questions](/articles/online-research-strategy-efficient/).
 
 {{< ebook-subscribe >}}
 
@@ -136,7 +136,7 @@ You could look at individual stories and experiences of other people – checkin
 
 Taking notes would help you recall some points better. But when I dive in with Rapid Saturation, the main purpose is immersion.
 
-Sometimes I take notes if I'm going to act on the information – like a checklist of things to implement on the website, or what materials to use to [prepare for an exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques). But mostly, I just take a mental note and move on.  
+Sometimes I take notes if I'm going to act on the information – like a checklist of things to implement on the website, or what materials to use to [prepare for an exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). But mostly, I just take a mental note and move on.  
 
 I know I'll forget. But I also know that if I need the information again, it'll be easier to retrace my steps to get there. And if it’s something I need to refer to regularly, it’ll settle in because I’ll be encountering and practicing it more often.
 

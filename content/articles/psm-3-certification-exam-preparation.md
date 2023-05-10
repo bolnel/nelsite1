@@ -19,7 +19,7 @@ There are just over 1000 people in the entire world who obtained the PSM III cer
 
 But that statistic doesn't show an untold number of people who attempted the PSM 3 exam, failed, and were discouraged from ever trying again. I won't let this happen to you.
 
-In this article, we'll talk about the mindset and the strategies to prepare for your PSM III exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+In this article, we'll talk about the mindset and the strategies to prepare for your PSM III exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 {{< figure src="/article_images/psm-3-certification-exam-preparation-hero.jpg" alt="How to prepare for the PSM 3 certification exam and successfully pass it on the first try?" caption="photo by \@tirachard-kumtanom on Pexels">}}
 
@@ -28,7 +28,7 @@ In this article, we'll talk about the mindset and the strategies to prepare for 
 
 ## What is the key to succeeding at PSM III?
 
-If you [passed the second level of PSM](/articles/psm-2-certification-exam-preparation), you should have the understanding necessary for the third level.
+If you [passed the second level of PSM](/articles/psm-2-certification-exam-preparation/), you should have the understanding necessary for the third level.
 
 As far as knowledge goes, there are no special tricks to prepare for PSM III. The advice from Professional Scrum Trainers and PSM III test takers alike boils down to this:
 
@@ -95,7 +95,7 @@ Attempting the PSM III exam costs $500.
 
 PSM II training [comes with a 40% discount](https://www.scrum.org/courses/professional-scrum-master-ii-training) on the PSM III password – so, if you previously completed a class, the PSM III attempt would cost you $300.
 
-Cost-wise, the preparation is the same as what you would do when [getting ready for PSM II](/articles/psm-2-certification-exam-preparation).
+Cost-wise, the preparation is the same as what you would do when [getting ready for PSM II](/articles/psm-2-certification-exam-preparation/).
 
 Most likely you already own the books like _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_ (3rd edition) and _[Mastering Professional Scrum](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522)_, and you took a course or a training class by a Professional Scrum Trainer. Revisit the books and course materials to refresh your knowledge.
 
@@ -113,7 +113,7 @@ However, there are ways to practice the skill of quickly and concisely answering
 
 ### Explaining the importance of each Scrum keyword
 
-First of all, take the Scrum Guide keywords listed in the [PSM I exam preparation guide](/articles/psm-1-certification-exam-preparation) and the additional keywords from the [PSM II preparation guide](/articles/psm-2-certification-exam-preparation). Picking the keywords in random order, answer the following:
+First of all, take the Scrum Guide keywords listed in the [PSM I exam preparation guide](/articles/psm-1-certification-exam-preparation/) and the additional keywords from the [PSM II preparation guide](/articles/psm-2-certification-exam-preparation/). Picking the keywords in random order, answer the following:
 
 What is **{{ a keyword }}** and why is it important? How does it play into empiricism? What would happen if it’s omitted?
 
@@ -127,7 +127,7 @@ If you want an extra challenge, write what is the empirical importance of each o
 1. Take a question from the [PSM II exam simulator](https://www.udemy.com/course/scrum-master-2-6-practice-tests-scrum-guide-2021/)
 2. Set a timer and answer the question in under 3 minutes and 45 seconds.
 3. Check the correct answer and see how your answer relates to it.
-4. Discuss the answer in your [study group](/articles/start-successful-study-group-online-challenges-tips-guide) or on a forum.
+4. Discuss the answer in your [study group](/articles/start-successful-study-group-online-challenges-tips-guide/) or on a forum.
 
 You could add short practical examples from your experience. Some questions might ask about your experience specifically.
 
@@ -160,7 +160,7 @@ PSM III certification takers are people very invested in Scrum and its aspects. 
 2. **Not being sure what the answer is, and trying to cover more bases**. \
 In this case, a longer answer is an attempt to prove that you know what you’re talking about, to have more of a chance to say what the examiners want to hear, and get something right.
 3. **Not keeping an eye on the timer** \
-    Writing just a few sentences doesn’t _feel_ that long. 2.5 hours _seems_ like a lot of time to answer 30 questions. That’s why it’s so important to practice with a timer: writing concise, to-the-point answers should become so natural to you that you [intuitively feel](/articles/develop-intuition-learning-self-awareness) how much time has passed and don’t even need a timer anymore.
+    Writing just a few sentences doesn’t _feel_ that long. 2.5 hours _seems_ like a lot of time to answer 30 questions. That’s why it’s so important to practice with a timer: writing concise, to-the-point answers should become so natural to you that you [intuitively feel](/articles/develop-intuition-learning-self-awareness/) how much time has passed and don’t even need a timer anymore.
 
 
 At the exam, the first thing to do is to quickly go through the questions and plan your answering strategy. You’ll see which questions are more straightforward and could be answered first, to get them out of the way and do a mental warmup before the questions that seem tougher or require longer answers.
@@ -188,7 +188,7 @@ But overall, it’s better not to rely on abbreviations to save time but to prac
 
 ## Mindset for the PSM 3 certification exam
 
-At this point in your journey, you have a pretty good idea of [why professional certification is worth it](/articles/are-certifications-worth-it) for you.
+At this point in your journey, you have a pretty good idea of [why professional certification is worth it](/articles/are-certifications-worth-it/) for you.
 
 * You want to become a Scrum trainer
 * You want to level up your profile as an Agile coach
@@ -199,7 +199,7 @@ Whatever your reason is, you’re very determined at this point. You’re ready 
 
 <p class="paragraph_highlight">You should be mentally ready to pay another $500 and attempt the exam the second time.</p>
 
-I know I said in the beginning that I won’t let you fail your [first attempt](/articles/how-pass-certification-exam-test-first-try-tips-techniques). And yet, this is the mental space you need to be in.
+I know I said in the beginning that I won’t let you fail your [first attempt](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). And yet, this is the mental space you need to be in.
 
 This is especially true for people who aim to be Professional Scrum Trainers. While the PSM III passing score is 85%, the score to be eligible for PST is 95%. With 30 questions, this means there could only be one mistake. Theoretically, it is possible to get such a flawless result on the first try, but the margin for error is slim.
 

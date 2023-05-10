@@ -14,7 +14,7 @@ categories = ["Professional growth"]
 
 So, here we are at last.
 
-You’re sure that [project management is the right career for you](/articles/is-project-management-right-for-me).
+You’re sure that [project management is the right career for you](/articles/is-project-management-right-for-me/).
 
 You feel that you acquired enough professional experience to apply for the most famous project management certification in the world.
 
@@ -26,7 +26,7 @@ And it’s a great time to do it! Today, the PMP certification is more accessibl
 * An option to take a proctored test remotely.
 * Since early 2023, the pricing is region-based, so the exam got more affordable for many potential applicants.
 
-You’re going to get ready for the PMP exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques). Let’s do this.
+You’re going to get ready for the PMP exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). Let’s do this.
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-hero.jpg" alt="The ultimate guide to prepare for the project management professional (PMP) certification exam." caption="photo by \@jessbaileydesign on Pexels" >}}
 
@@ -57,7 +57,7 @@ Preparation is the key. **Before submitting** your application:
 
 Don’t let the audit notification catch you off-guard. Have your diploma ready at hand, and have the blessing of your current and former employers or other people who could vouch for you.
 
-If you have questions about the audit and what happens if you fail it, read a dedicated article: [How to pass the PMP audit](/articles/how-pass-pmp-audit-pmi).
+If you have questions about the audit and what happens if you fail it, read a dedicated article: [How to pass the PMP audit](/articles/how-pass-pmp-audit-pmi/).
 
 
 ### How to get 35 contact hours for PMP
@@ -70,7 +70,7 @@ The go-to option for most people is the [PMP exam prep course](https://www.udemy
 
 If you have an active CAPM certification, it satisfies the requirement, so you don’t have to submit additional 35 contact hours.
 
-**Related**: [Preparing for the CAPM certification exam](/articles/capm-certification-exam-preparation).
+**Related**: [Preparing for the CAPM certification exam](/articles/capm-certification-exam-preparation/).
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img1.jpg" alt="To be eligible for PMP, you need meet the academic and experience requirements." caption="photo by \@mart-production on Pexels" >}}
 
@@ -85,7 +85,7 @@ The exam price for non-members equals the exam price for members plus a year of 
 
 Besides the exam fee, you need to count in the exam preparation and certification renewal costs. They could run from a few dozen to a few hundred dollars.
 
-**Related**: [Is PMP worth it: costs vs benefits breakdown](/articles/is-pmp-certification-worth-it).
+**Related**: [Is PMP worth it: costs vs benefits breakdown](/articles/is-pmp-certification-worth-it/).
 
 
 ## Is the PMP exam hard? How did the exam change?
@@ -136,14 +136,14 @@ You could take the exam online via Pearson VUE if you have a quiet room with a g
 
 But in an authorized testing center, you don’t have to worry about the technical setup and possible distractions.
 
-**Related**: [Pros and cons of online proctored testing](/articles/online-proctored-testing-pros-cons).
+**Related**: [Pros and cons of online proctored testing](/articles/online-proctored-testing-pros-cons/).
 
 
 ## How to successfully pass the PMP certification exam
 
 First of all, check out the article dedicated to general exam preparation tips, techniques, and mindset:
 
-[How to pass a certification exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+[How to pass a certification exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 In the following sections, we’ll concentrate on the PMP domains and the specific materials for learning and practicing.
 
@@ -173,11 +173,11 @@ The People domain is focusing on subjects like:
 
 There’s a big overlap with the Scrum Master role.
 
-The [preparation I had for the PSM II exam](/articles/psm-2-certification-exam-preparation) helped tremendously with internalizing the approach needed to answer the people-related questions. I recommend reading that article for tips and free materials from Scrum Learning Paths.
+The [preparation I had for the PSM II exam](/articles/psm-2-certification-exam-preparation/) helped tremendously with internalizing the approach needed to answer the people-related questions. I recommend reading that article for tips and free materials from Scrum Learning Paths.
 
-Once you [get into an Agile mindset](/articles/develop-agile-mindset-guide), you’ll never be confused by the situational questions that seem to have more than one right answer.
+Once you [get into an Agile mindset](/articles/develop-agile-mindset-guide/), you’ll never be confused by the situational questions that seem to have more than one right answer.
 
-**Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me)
+**Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me/)
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img3.jpg" alt="Reviewing the three domains of the PMP exam - People, Process, and Business Environment" caption="photo by \@ivan-samkov on Pexels" >}}
 
@@ -239,11 +239,11 @@ Those topics are addressed in the materials of the second, Process domain.
 
 ## PMP exam simulators
 
-Exam simulators are a great way of training your brain to process the questions, learn patterns, and [bring your knowledge to an intuitive level](/articles/develop-intuition-learning-self-awareness).
+Exam simulators are a great way of training your brain to process the questions, learn patterns, and [bring your knowledge to an intuitive level](/articles/develop-intuition-learning-self-awareness/).
 
 PMP is a popular exam, so there’s no shortage of exam simulators from various providers. I’ll focus on just two options: the official one and a free one.
 
-**Remember**: No matter how many questions the exam simulator pool has, it is limited. To make the most out of the questions available, check out the Simulators section in the [certification exam preparation guide](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+**Remember**: No matter how many questions the exam simulator pool has, it is limited. To make the most out of the questions available, check out the Simulators section in the [certification exam preparation guide](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 If you're confused or wrong about a few questions in a row, it means you should study the related material for a few days and then come back to the simulator.
 
@@ -299,7 +299,7 @@ Of course, you shouldn't passively watch seven hours of video. Iterate on a 3-st
     Then unpause the video for this question, read and listen to the explanation given. What’s the logic behind discarding the other options and choosing this particular one?
 
 
-The questions are relatively easy, but they’re a nice bonus for [practicing your Agile mindset](/articles/develop-agile-mindset-guide).
+The questions are relatively easy, but they’re a nice bonus for [practicing your Agile mindset](/articles/develop-agile-mindset-guide/).
 
 David also has videos related to PMBOK and Waterfall questions – check them out as well.
 
@@ -317,7 +317,7 @@ Once you obtain your PMP certification, you need to renew it every three years. 
 
 You don’t have to wait for three years to renew your PMP. Whenever you submit all PDUs, the renewal option becomes active.
 
-**Related**: [Is my professional certification worth renewing?](/articles/renew-certification-or-let-it-expire)
+**Related**: [Is my professional certification worth renewing?](/articles/renew-certification-or-let-it-expire/)
 
 Most people get one year of PMI membership when they apply for the exam. If you do some intense studying and submit your PDUs while your membership is still active, you could renew within your first year and pay a reduced fee.
 
@@ -336,7 +336,7 @@ You could earn PDUs by reading articles and books, volunteering, participating i
 
 Currently, there’s no cap on the “Learning” section, so, theoretically, you could earn all your 60 PDUs by reading and watching free materials on the PMI’s website.
 
-**Related**: [How to earn SEU for CSM renewal](/articles/how-get-seu-csm-renewal-free).
+**Related**: [How to earn SEU for CSM renewal](/articles/how-get-seu-csm-renewal-free/).
 
 
 ## Which certification should I get after PMP?
@@ -348,9 +348,9 @@ Here are some more certifications you could look into:
 1. Program Management certifications by PMI. \
 That might be a logical next step if you work in a large organization.
 2. Professional Scrum Master certifications \
-[Getting a PSM III certification](/articles/psm-3-certification-exam-preparation) would be an interesting challenge.
+[Getting a PSM III certification](/articles/psm-3-certification-exam-preparation/) would be an interesting challenge.
 3. PRINCE2 Practitioner certification \
-You might consider it if you work in a Waterfall environment. Here’s how to [prepare for the PRINCE2 Practitioner exam](/articles/prince2-certification-exam-preparation).
+You might consider it if you work in a Waterfall environment. Here’s how to [prepare for the PRINCE2 Practitioner exam](/articles/prince2-certification-exam-preparation/).
 4. Certifications in Business Analysis
 
     It could be PMI’s own [PMI-PBA cert](https://www.pmi.org/certifications/business-analysis-pba) or certifications provided by International Institute for Business Analysis.

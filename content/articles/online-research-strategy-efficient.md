@@ -13,7 +13,7 @@ categories = ["Professional growth"]
 
 Where do I even start?
 
-It's a question you're asking yourself when you want to venture into something you have little prior experience with. Learning a language? [Getting a professional certification](/articles/are-certifications-worth-it)? Starting a blog? Becoming a successful lawyer? You name it.
+It's a question you're asking yourself when you want to venture into something you have little prior experience with. Learning a language? [Getting a professional certification](/articles/are-certifications-worth-it/)? Starting a blog? Becoming a successful lawyer? You name it.
 
 So many options, possible paths, opportunities, pitfalls, and dead ends.
 
@@ -105,7 +105,7 @@ Standing in a queue, taking a bus ride, or any situation where you have a few mi
 
 There are listicles, review and comparison articles that give an overview and suggest different solutions to your query. You could gather more information about the options you found interesting.
 
-**Examples**: "Book Name Here" reviews. Data Scientist average salary. [Pros and cons of online study groups](/articles/start-successful-study-group-online-challenges-tips-guide).
+**Examples**: "Book Name Here" reviews. Data Scientist average salary. [Pros and cons of online study groups](/articles/start-successful-study-group-online-challenges-tips-guide/).
 
 By the way, if you see a numbered list of options, be especially aware that the author might be biased. Check the domain name – does it match the #1 option on the list? Hover over the link – does it have some URL parameters that mean it's a part of a marketing campaign, or maybe even an unmarked affiliate link?
 
@@ -132,7 +132,7 @@ Quoted from memory from the seminal book on coding by Steve McConnell, ["Code Co
 
 You can feel it. The small details you're fuzzy on, those blurry spots in your mental field of vision that make recognizable shapes, but you never look directly at them. Of course, it's unfeasible to have a high-resolution rendering of every single detail in the world around you. But if it's a recurring point, or something that might have an impact on your actions and decisions, stop and honestly ask yourself:
 
-* Can I [explain this term](/articles/how-pass-certification-exam-test-first-try-tips-techniques) to a person unfamiliar with the subject?
+* Can I [explain this term](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) to a person unfamiliar with the subject?
 * Do I understand every link of the logic chain that leads to this solution?
 * Can I tell why exactly I'm taking this step and not an alternative?
 

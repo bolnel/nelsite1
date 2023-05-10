@@ -15,9 +15,9 @@ Product Owner isn't a job title but an accountability in Scrum.
 
 It's a person responsible for maximizing value by defining the product goal, optimizing the product backlog, turning feedback into actionable items, and guiding the team toward the product vision.
 
-This requires a combination of business acumen, market awareness, leadership skills, [intuition](/articles/develop-intuition-learning-self-awareness), and other factors.
+This requires a combination of business acumen, market awareness, leadership skills, [intuition](/articles/develop-intuition-learning-self-awareness/), and other factors.
 
-Will obtaining the Professional Scrum Product Owner certification prove – and improve – those skills? Is getting PSPO [worth it](/articles/are-certifications-worth-it)?
+Will obtaining the Professional Scrum Product Owner certification prove – and improve – those skills? Is getting PSPO [worth it](/articles/are-certifications-worth-it/)?
 
 Main topics covered in this article:
 
@@ -31,13 +31,13 @@ Main topics covered in this article:
 
 ## Why get the Professional Scrum Product Owner certification?
 
-Before we get to the “what” and “how”, [we should be clear on the “why”](/articles/are-certifications-worth-it).
+Before we get to the “what” and “how”, [we should be clear on the “why”](/articles/are-certifications-worth-it/).
 
 What is the reason to obtain the PSPO certification? Will the credential give you more career opportunities, improve your salary, distinguish you as a professional, or provide another kind of value?
 
 Getting a credential confirms the level of your understanding of the subject and your dedication, it advances your professional profile.
 
-But the best thing about the certification is [getting ready for the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+But the best thing about the certification is [getting ready for the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 It’s an opportunity to revise and improve your practices, learn new things and gain insights, and have a great mental exercise.
 
@@ -71,7 +71,7 @@ You should be able to define and explain the key elements from the Scrum Guide: 
 
 Commitments were introduced in the 2020 version of the Scrum Guide. Most of the books and articles you’ll be reading will probably be based on the earlier, 2017 version of the guide. Be aware that there are differences and re-read the latest version carefully before your exam.
 
-I list the keywords and highlight some differences between the Scrum Guide versions in my [guide to preparing for the PSM I exam](/articles/psm-1-certification-exam-preparation).
+I list the keywords and highlight some differences between the Scrum Guide versions in my [guide to preparing for the PSM I exam](/articles/psm-1-certification-exam-preparation/).
 
 Some more keywords and topics that you should have good familiarity with, especially at the second level of the PSPO exam:
 
@@ -152,7 +152,7 @@ To process the information better, practice explaining the concepts from those g
 
 Free [Product Owner Learning Path](https://www.scrum.org/pathway/product-owner-learning-path) by Scrum.org is the main source of materials for exam preparation. It contains many insightful articles and videos.
 
-**Related**: [List of full-length webinars from Scrum.org learning paths](/articles/free-scrum-agile-webinars-prepare-certification-exam).
+**Related**: [List of full-length webinars from Scrum.org learning paths](/articles/free-scrum-agile-webinars-prepare-certification-exam/).
 
 
 
@@ -170,7 +170,7 @@ It explains the Agile principles and the elements, methods, and principles of th
 
 If there’s a single book that prepares you for the Professional Scrum Product Owner certification by Scrum.org, this must be it.
 
-**Related**: [Top 10 books on Product Management](/articles/best-product-management-books).
+**Related**: [Top 10 books on Product Management](/articles/best-product-management-books/).
 
 ### 5. Cynefin framework for decision-making
 
@@ -178,7 +178,7 @@ Cynefin is a "sense-making" framework that was conceived as a tool for leaders t
 
 The framework differentiates systems based on the relationship between cause and effect and the type of constraints that govern it. What works well in one system might be impractical or even detrimental in another.
 
-There's a dedicated article that [goes into detail about the Cynefin framework domains](/articles/cynefin-framework-decision-making-explained), the approaches that work best for each, and how the framework could be applied.
+There's a dedicated article that [goes into detail about the Cynefin framework domains](/articles/cynefin-framework-decision-making-explained/), the approaches that work best for each, and how the framework could be applied.
 
 
 
@@ -230,7 +230,7 @@ It depends on:
 * How much experience you already have with the Scrum framework and product management
 * How fast you could read and process a few dozen articles and a couple of books worth of material
 
-With PSM II, it took me around three weeks of intense studying. See the [PSM II preparation guide](/articles/psm-2-certification-exam-preparation) for more information, tips and considerations.
+With PSM II, it took me around three weeks of intense studying. See the [PSM II preparation guide](/articles/psm-2-certification-exam-preparation/) for more information, tips and considerations.
 
 
 ### Do you have to renew the PSPO certifications?
@@ -239,7 +239,7 @@ Credentials by Scrum.org don’t expire. Once you pass the exam and prove your u
 
 Scrum.org doesn’t have its own continuing education program and recertification requirements, but, of course, you should continue improving your skills and growing as a professional.
 
-**Related**: [Should I renew my certification or let it expire?](/articles/renew-certification-or-let-it-expire)
+**Related**: [Should I renew my certification or let it expire?](/articles/renew-certification-or-let-it-expire/)
 
 
 ## PSPO I certification exam preparation
@@ -253,9 +253,9 @@ You would need to answer 80 multiple-choice, multiple-answer, and true/false que
 
 [PSPO I preparation course](https://www.udemy.com/course/agile-scrum-product-owner-certification-preparation/) on Udemy with 2 practice tests.
 
-To practice, you could [organize a study group](/articles/start-successful-study-group-online-challenges-tips-guide) with other people who are preparing to pass the exam or just to deepen their understanding of the Product Owner practices.
+To practice, you could [organize a study group](/articles/start-successful-study-group-online-challenges-tips-guide/) with other people who are preparing to pass the exam or just to deepen their understanding of the Product Owner practices.
 
-**Related**: [How to choose an online course](/articles/how-find-best-online-course).
+**Related**: [How to choose an online course](/articles/how-find-best-online-course/).
 
 
 ### PSPO I exam simulators
@@ -268,7 +268,7 @@ Tests by Mikhail Lapshin is a popular option for free Scrum exam simulators. But
 
 One such option is a [PSPO I exam simulator](https://www.udemy.com/course/product-owner-exam-simulator/) with exam-like questions, updated for the 2020 version of the Scrum Guide.
 
-In the article about [preparing for the PSM I certification exam](/articles/psm-1-certification-exam-preparation), I share more tips on how to make the most out of the exam simulators.
+In the article about [preparing for the PSM I certification exam](/articles/psm-1-certification-exam-preparation/), I share more tips on how to make the most out of the exam simulators.
 
 {{< figure src="/article_images/pspo-certification-exam-preparation-img3.jpg" alt="How to make the most out of PSPO exam simulators and pass the test successfully" caption="photo by \@olly on Pexels">}}
 
@@ -284,14 +284,14 @@ You’ll have 60 minutes to answer 40 multiple-answer questions. The questions w
 
 [PSPO II exam simulator](https://www.udemy.com/course/professional-scrum-product-owner-ii-pspo-ii-practice-exams/) with 240 questions. Multiple reviewers pointed out that the simulator questions are harder than the questions on the actual PSPO II exam. I think it’s a good thing: the questions have explanations, so once you understand the logic behind the answers in more complex scenarios, the real certification test will come easier.
 
-**Related**: [How to pass the PSM II exam successfully](/articles/psm-2-certification-exam-preparation).
+**Related**: [How to pass the PSM II exam successfully](/articles/psm-2-certification-exam-preparation/).
 
 
 ## PSPO III certification preparation guide
 
 Attempting the third level of the PSPO exam costs $500.
 
-The reasons for getting PSPO 3 are the same as for the [PSM 3 certification](/articles/psm-3-certification-exam-preparation) – most likely, you want to become a Professional Scrum Trainer and give classes, or you just enjoy tough challenges.
+The reasons for getting PSPO 3 are the same as for the [PSM 3 certification](/articles/psm-3-certification-exam-preparation/) – most likely, you want to become a Professional Scrum Trainer and give classes, or you just enjoy tough challenges.
 
 
 ### How hard is the PSPO 3 exam?
@@ -312,7 +312,7 @@ However, while it’s **relatively** easier, PSPO 3 is still a very hard test, a
 
 ### Simulating the PSPO III exam experience
 
-In my [PSM III preparation guide](/articles/psm-3-certification-exam-preparation), I explain how to use the second-level exam simulator (that would be the [PSPO II simulator](https://www.udemy.com/course/professional-scrum-product-owner-ii-pspo-ii-practice-exams/), in this case) to practice answering the essay questions under the time limit.
+In my [PSM III preparation guide](/articles/psm-3-certification-exam-preparation/), I explain how to use the second-level exam simulator (that would be the [PSPO II simulator](https://www.udemy.com/course/professional-scrum-product-owner-ii-pspo-ii-practice-exams/), in this case) to practice answering the essay questions under the time limit.
 
 {{< figure src="/article_images/pspo-certification-exam-preparation-img4.jpg" alt="Answering more questions related to the Product Owner role and the PSPO exam" caption="photo by \@leeloothefirst on Pexels">}}
 
@@ -324,7 +324,7 @@ In my [PSM III preparation guide](/articles/psm-3-certification-exam-preparation
 
 Certified Scrum Product Owner is a credential issued by Scrum Alliance. To obtain it, the only requirement is passing a 2-day training course with an average cost of around $500 – [there's no exam to pass](https://support.scrumalliance.org/hc/en-us/articles/360037548392-Is-there-a-test-requirement-for-CSPO-certification-).
 
-To maintain the CSPO certification, you need to [earn Scrum Education Units](/articles/how-to-get-seu-for-csm-renewal) and pay a recertification fee every 2 years.
+To maintain the CSPO certification, you need to [earn Scrum Education Units](/articles/how-to-get-seu-for-csm-renewal/) and pay a recertification fee every 2 years.
 
 Scrum Alliance has three levels on the Product Owner track:
 

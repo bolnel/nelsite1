@@ -13,7 +13,7 @@ categories = ["Professional growth"]
 
 The PSM I exam tests your knowledge of the Scrum framework and the Scrum Master accountability in particular, as defined in the Scrum Guide.
 
-Should you go for this certification? And what preparation techniques to use to [pass your exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques)?
+Should you go for this certification? And what preparation techniques to use to [pass your exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/)?
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-hero.jpg" alt="How to prepare for the PSM I certification exam and successfully pass it on the first try?" caption="photo by \@ekaterina-bolovtsova on Pexels">}}
 
@@ -21,29 +21,29 @@ Should you go for this certification? And what preparation techniques to use to 
 
 ## Is PSM I certification worth it?
 
-[Getting certified is worth it](/articles/are-certifications-worth-it), first and foremost, because of the knowledge, insights and skills you’ll gain during the preparation.You will become a better Scrum Master and a more well-rounded professional.
+[Getting certified is worth it](/articles/are-certifications-worth-it/), first and foremost, because of the knowledge, insights and skills you’ll gain during the preparation.You will become a better Scrum Master and a more well-rounded professional.
 
 Some questions you might need answered before deciding to take the exam:
 
 ### How popular is the PSM I certification?
 
 
-The biggest [competitor for PSM is CSM](/articles/psm-csm-which-scrum-certification-best), but Scrum Alliance doesn’t publish the number of their certification holders. Scrum.org does, and Professional Scrum Master certification is in high demand.
+The biggest [competitor for PSM is CSM](/articles/psm-csm-which-scrum-certification-best/), but Scrum Alliance doesn’t publish the number of their certification holders. Scrum.org does, and Professional Scrum Master certification is in high demand.
 
 At the time of writing, among 750 000 professional certifications issued, around 70% of them were PSM I certifications.
 
-**Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me)
+**Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me/)
 
 {{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
 
-As you can see, only under 5% of PSM I certification holders went on to obtain PSM II. However, PSM 1 isn’t the prerequisite for PSM 2, and maybe you’ll even opt to go [straight for the second level of PSM](/articles/psm-2-certification-exam-preparation) – see below what the differences are.
+As you can see, only under 5% of PSM I certification holders went on to obtain PSM II. However, PSM 1 isn’t the prerequisite for PSM 2, and maybe you’ll even opt to go [straight for the second level of PSM](/articles/psm-2-certification-exam-preparation/) – see below what the differences are.
 
 
 ### PSM I exam and preparation cost
 
 PSM 1 exam fee is $150 per attempt.
 
-Scrum.org has a Scrum Master Learning Path full of **free** articles and webinars. You’ll gain a tremendous amount of insight if you complete it. Here’s a [list of full-length webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam) from Scrum.org learning paths.
+Scrum.org has a Scrum Master Learning Path full of **free** articles and webinars. You’ll gain a tremendous amount of insight if you complete it. Here’s a [list of full-length webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam/) from Scrum.org learning paths.
 
 To be introduced to the nuances of the Scrum Framework with a structured narrative, read _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_. The paperback and Kindle versions cost around $16 on Amazon. There are more book recommendations at the end of the article.
 
@@ -57,7 +57,7 @@ If you have the funds, taking a training course by a Professional Scrum Trainer 
 
 ### How hard is the PSM 1 exam?
 
-According to the calculations I ran when [comparing PSM I to the first level of CSM](/articles/psm-csm-which-scrum-certification-best), the PSM version is harder since there’s considerably less time per question.
+According to the calculations I ran when [comparing PSM I to the first level of CSM](/articles/psm-csm-which-scrum-certification-best/), the PSM version is harder since there’s considerably less time per question.
 
 <p class="paragraph_highlight">You’ll need to answer 80 questions in 60 minutes and get at least 68 of them correct to achieve a passing score of 85%.</p>
 
@@ -96,13 +96,13 @@ Job postings mentioning Scrum Master certifications rarely talk about PSM II spe
 
 ### Can I skip PSM I and take PSM II directly?
 
-As you probably know, [unlike CSM](/articles/psm-csm-which-scrum-certification-best), PSM levels are independent. You can take any of the Scrum.org tests without obtaining any of their other certifications or taking their courses. Just buy the access code for the exam of your choice and launch it whenever you feel ready.
+As you probably know, [unlike CSM](/articles/psm-csm-which-scrum-certification-best/), PSM levels are independent. You can take any of the Scrum.org tests without obtaining any of their other certifications or taking their courses. Just buy the access code for the exam of your choice and launch it whenever you feel ready.
 
 PSM II is obviously a harder test, and it takes more time to prepare.
 
 But if you know that your aspiration is to deeply dive into Scrum, and you feel you're going to attempt the second level anyway (some people pass PSM 2 just months or even weeks after PSM 1), then you might as well go straight for PSM II, like I did.
 
-Check out the guide on [how to pass the PSM II exam](/articles/psm-2-certification-exam-preparation) and see which certification level resonates more with your experience and aspirations.
+Check out the guide on [how to pass the PSM II exam](/articles/psm-2-certification-exam-preparation/) and see which certification level resonates more with your experience and aspirations.
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img2.jpg" alt="You can go directly for the PSM II exam, skipping the PSM. Will you try it?" caption="photo by \@ann-h-45017 on Pexels">}}
 
@@ -115,7 +115,7 @@ Akin to ancient spiritual manuscripts, you have the original small book, and the
 
 <p class="paragraph_highlight">Getting a certification is great, but the main value you get is from the preparation. It’s a wonderful journey, so make the most of it.</p>
 
-Start with a solid understanding of [why you want to get certified](/articles/are-certifications-worth-it), curious, open-minded, driven by a desire to expand your horizons, and ready to [dive into learning](/articles/online-research-strategy-efficient).
+Start with a solid understanding of [why you want to get certified](/articles/are-certifications-worth-it/), curious, open-minded, driven by a desire to expand your horizons, and ready to [dive into learning](/articles/online-research-strategy-efficient/).
 
 
 ## Caution: old versions of the Scrum Guide vs. the 2020 version
@@ -152,13 +152,13 @@ These used to be named “Roles”, but turned into job titles over the years, m
 
 <p class="paragraph_highlight">Practice by explaining each of the highlighted items to a friend. Then to another friend.</p>
 
-You could try [organizing a study group](/articles/start-successful-study-group-online-challenges-tips-guide) with peers who are also going to take the PSM I test or are just interested in Agile and Scrum.
+You could try [organizing a study group](/articles/start-successful-study-group-online-challenges-tips-guide/) with peers who are also going to take the PSM I test or are just interested in Agile and Scrum.
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img3.jpg" alt="Discussions are a good way to prepare for an exam" caption="photo by \@theo-decker on Pexels">}}
 
 ## PSM I preparation courses and exam simulators
 
-There are various courses that would explain the Scrum framework, its nuances and related practices. For example, this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy. But you might opt for another course, or a course from another provider – see [how to choose the online course](/articles/how-find-best-online-course) that is right for you.
+There are various courses that would explain the Scrum framework, its nuances and related practices. For example, this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy. But you might opt for another course, or a course from another provider – see [how to choose the online course](/articles/how-find-best-online-course/) that is right for you.
 
 Scrum.org offers [free open assessment](https://www.scrum.org/open-assessments) tests. It is recommended to attempt the PSM I test if you pass the Scrum Open simulator at 100% a few times.
 
@@ -189,6 +189,6 @@ This [PSM I simulator by Volkerdon](https://www.udemy.com/course/scrum-master-ex
 
 Good luck with your PSM I exam!
 
-Once you pass it, you could gain more experience and [get the PSM II certification](/articles/psm-2-certification-exam-preparation) – or maybe you’ll even decide to get it right away.
+Once you pass it, you could gain more experience and [get the PSM II certification](/articles/psm-2-certification-exam-preparation/) – or maybe you’ll even decide to get it right away.
 
-And one day, perhaps you’ll want to attempt the PSM III exam –- only 0.2% of PSM certification holders achieve it. Are you up for a challenge? Here's the guide on [preparing for the PSM III certification](/articles/psm-3-certification-exam-preparation).
+And one day, perhaps you’ll want to attempt the PSM III exam –- only 0.2% of PSM certification holders achieve it. Are you up for a challenge? Here's the guide on [preparing for the PSM III certification](/articles/psm-3-certification-exam-preparation/).

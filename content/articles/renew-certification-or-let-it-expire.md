@@ -34,9 +34,9 @@ However, when CompTIA changed their certifications from Good-for-life to renewab
 
 In this day and age, refreshing your knowledge and paying every few years to renew your credential is pretty much expected.
 
-Once you’re in, you’re in for the long haul – that’s why it’s so important to weigh the options not only from the perspective of the [exam preparation](/articles/how-pass-certification-exam-test-first-try-tips-techniques) time and costs, but also consider the time and money investment of the long-term maintenance.
+Once you’re in, you’re in for the long haul – that’s why it’s so important to weigh the options not only from the perspective of the [exam preparation](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) time and costs, but also consider the time and money investment of the long-term maintenance.
 
-**Related**: [Top 6 Cybersecurity Providers' Recertification Costs](/articles/top-cybersecurity-providers-recertification-cost).
+**Related**: [Top 6 Cybersecurity Providers' Recertification Costs](/articles/top-cybersecurity-providers-recertification-cost/).
 
 
 ### Are there IT and Agile certifications that don't expire?
@@ -49,7 +49,7 @@ Certifications might be life-long if they’re tied to a specific product. The c
 
 For the **Atlassian **products (Jira), certifications are [prolonged by earning skill badges](https://university.atlassian.com/student/activity/836788-maintain-your-certifications) via taking a free course and paying a small fee to pass the graded assignment.
 
-On the Agile side, there's Scrum.org. Their most famous credential is [Professional Scrum Master](/articles/psm-1-certification-exam-preparation) (**PSM**). Scrum.org certifications are about the understanding and masterful implementation of the Scrum Guide principles, and the Guide only had minor changes over the years.
+On the Agile side, there's Scrum.org. Their most famous credential is [Professional Scrum Master](/articles/psm-1-certification-exam-preparation/) (**PSM**). Scrum.org certifications are about the understanding and masterful implementation of the Scrum Guide principles, and the Guide only had minor changes over the years.
 
 However, for most of the products, like [AWS](https://aws.amazon.com/certification/recertification/), you still need to get recertified every three years on average.
 
@@ -65,7 +65,7 @@ Some questions will resonate with you more than others.
 
 ### 1. Why did you obtain that credential?
 
-If you contemplate ending things, let's recall where it all began. What was [your reason to get certified](/articles/are-certifications-worth-it) in the first place? And if it’s no longer topical – why?
+If you contemplate ending things, let's recall where it all began. What was [your reason to get certified](/articles/are-certifications-worth-it/) in the first place? And if it’s no longer topical – why?
 
 * Did you earn the credential to get a job that you already landed and outgrown?
 * Did your employer prompt you to get certified and paid the costs, but you didn't have much personal motivation?
@@ -98,7 +98,7 @@ How much time has passed since then? How much experience and recognition did you
 
 Actually, let’s ask this question as well. Could you attribute any of the jobs you landed to a particular certification you have, especially if it’s not a widely recognized credential like PMP or CISSP?
 
-**Related**: [How to get the PMP certification](/articles/pmp-certification-exam-preparation).
+**Related**: [How to get the PMP certification](/articles/pmp-certification-exam-preparation/).
 
 ### 4. Are you planning to apply for a new job or change careers within a year or two?
 
@@ -156,7 +156,7 @@ Here are a few examples, linked to the guides on unit requirements and ways of e
 
 * PDU for PMP and other PMI certifications
 * CEU for Security+ and other CompTIA credentials
-* [SEU for CSM](/articles/how-to-get-seu-for-csm-renewal) and other certifications by Scrum Alliance
+* [SEU for CSM](/articles/how-to-get-seu-for-csm-renewal/) and other certifications by Scrum Alliance
 
 They're meant to give an additional incentive to learn and improve your skills in the areas related to your credential.
 
@@ -189,7 +189,7 @@ Do you still you’d have any less access to resources, connections, opportuniti
 
 Having a credential gives you a competitive edge with varying degrees of tangibility.
 
-But in my opinion, the biggest benefit of achieving a professional certification is the knowledge and insights you obtain while [preparing for and passing the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+But in my opinion, the biggest benefit of achieving a professional certification is the knowledge and insights you obtain while [preparing for and passing the exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 Does maintaining a credential still push you forward, does it help you hone your skills and stay in tune with the developments in the area you're invested in? Do the benefits outweigh the costs?
 

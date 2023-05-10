@@ -67,7 +67,7 @@ Email and instant messaging apps pass here, but you could also remove them for a
 
 Focus on one of your long-term goals. Do the research on the steps needed to achieve it and which actions it could take to complete each of those steps.
 
-If you’re not sure where to even start, here’s an article about [efficient online research strategies](/articles/online-research-strategy-efficient).
+If you’re not sure where to even start, here’s an article about [efficient online research strategies](/articles/online-research-strategy-efficient/).
 
 
 

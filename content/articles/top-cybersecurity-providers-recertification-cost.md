@@ -11,7 +11,7 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-So, you [decided that it's a good idea](/articles/are-certifications-worth-it) to get a cybersecurity certification. But which one should you go for?
+So, you [decided that it's a good idea](/articles/are-certifications-worth-it/) to get a cybersecurity certification. But which one should you go for?
 
 While obtaining a certification is quite an endeavor, that’s only the first step. To keep it active, you'll have to pay annual fees and submit continuous education units based on the issuers’ requirements. Otherwise, your hard-earned credential will expire, and it will be forbidden and unethical to introduce yourself as a certification holder by listing it in your CV or profile headline.
 
@@ -173,4 +173,4 @@ Obtaining a credential isn’t easy, but it’s a sprint. You get fully ready an
 
 Maintaining is a marathon that requires consistent time, energy, and often money investments. And it doesn’t give you extra rewards besides preventing your credential from falling into the void. But that’s the point. Maintaining certification is a testament to your resolve, the proof of your staying invested in the related areas.
 
-Remember [why you’re getting certified](/articles/are-certifications-worth-it), think ahead, and make a conscious choice.
+Remember [why you’re getting certified](/articles/are-certifications-worth-it/), think ahead, and make a conscious choice.

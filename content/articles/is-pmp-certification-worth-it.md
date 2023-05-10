@@ -164,7 +164,7 @@ Scrum.org has a free [Scrum Master Learning Path](https://www.scrum.org/pathway/
 
 **Related**: [Actionable advice on developing an Agile mindset](/articles/develop-agile-mindset-guide/).
 
-Learn more about the options for exam preparation in my [guide to preparing for the PMP certification](/articles/pmp-certification-exam-preparation).
+Learn more about the options for exam preparation in my [guide to preparing for the PMP certification](/articles/pmp-certification-exam-preparation/).
 
 
 
@@ -197,7 +197,7 @@ Certified Associate in Project Management certification subject areas are simila
 
 If you’re new to project management but want to get all the benefits of preparing for the professional PM exam and obtaining a certification from a well-recognized institute, CAPM is a great choice.
 
-**Related**: [How to prepare for the CAPM certification exam](/articles/capm-certification-exam-preparation).
+**Related**: [How to prepare for the CAPM certification exam](/articles/capm-certification-exam-preparation/).
 
 
 ### PMP vs. PMI-ACP

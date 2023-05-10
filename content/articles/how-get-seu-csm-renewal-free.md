@@ -44,11 +44,11 @@ Or you might consider another option to remain certified…
 
 If having to pay $100 or more every couple of years and keeping track of your SEUs feels like a hassle, consider getting another well-known Scrum certification, PSM.
 
-Here's the article where I [compare the levels of CSM and PSM](/articles/psm-csm-which-scrum-certification-best) and weigh their pros and cons.
+Here's the article where I [compare the levels of CSM and PSM](/articles/psm-csm-which-scrum-certification-best/) and weigh their pros and cons.
 
-Beware that even the first level of PSM is a much more stringent test than CSM, requiring a solid understanding of the Scrum Guide. Read more on [how to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation)
+Beware that even the first level of PSM is a much more stringent test than CSM, requiring a solid understanding of the Scrum Guide. Read more on [how to prepare for the PSM I exam](/articles/psm-1-certification-exam-preparation/)
 
-If you consider getting the next level of certification to improve your skills and professional profile, take a look at my [PSM II exam preparation guide](/articles/psm-2-certification-exam-preparation).
+If you consider getting the next level of certification to improve your skills and professional profile, take a look at my [PSM II exam preparation guide](/articles/psm-2-certification-exam-preparation/).
 
 (The next level of CSM, A-CSM, doesn't have a test – you only need to pay for the training course.)
 
@@ -56,7 +56,7 @@ But either way, it's important to expand your knowledge and improve your skills.
 
 The following activities would be beneficial for your growth as a Scrum practitioner and an Agile professional.
 
-**Related**: [Should I Renew My Professional Certification or Let It Expire?](/articles/renew-certification-or-let-it-expire)
+**Related**: [Should I Renew My Professional Certification or Let It Expire?](/articles/renew-certification-or-let-it-expire/)
 
 {{< figure src="/article_images/how-get-seu-csm-renewal-free-img1.jpg" alt="Reading books about Scrum, Agile, and leadership will give you SEUs" caption="photo by \@olly on Pexels">}}
 
@@ -73,7 +73,7 @@ Here are a few book recommendations:
 4. _[Agile Conversations](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture-ebook/dp/B07YZP8LC9): Transform Your Conversations, Transform Your Culture_ by Douglas Squirrel and Jeffrey Fredrick. The book shares stories and provides techniques to handle different conversations and improve communication within the team and the company. Available on [Amazon](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture-ebook/dp/B07YZP8LC9) and [Barnes & Noble](https://www.barnesandnoble.com/w/agile-conversations-dougals-squirrel/1134041206?ean=9781942788973).
 5. _[The Professional Agile Leader:](https://www.amazon.com/Professional-Agile-Leader-Growing-Organizations/dp/0137591519) Growing Mature Agile Teams and Organizations_ by Ron Eringa, Kurt Bittner, and Laurens Bonnema. The book talks about obstacles to agility, changing the organizational culture, creating self-managing and empowered teams, patterns and anti-patterns of effective leadership.  Available on [Amazon](https://www.amazon.com/Professional-Agile-Leader-Growing-Organizations/dp/0137591519) and [Barnes & Noble](https://www.barnesandnoble.com/w/professional-agile-leader-the-ron-eringa/1141785998?ean=9780137591510).
 
-It would be especially beneficial if you discuss the findings from the book with [peers in your study group](/articles/start-successful-study-group-online-challenges-tips-guide), to enrich your understanding and get deeper insights.
+It would be especially beneficial if you discuss the findings from the book with [peers in your study group](/articles/start-successful-study-group-online-challenges-tips-guide/), to enrich your understanding and get deeper insights.
 
 And, if reading a book and implementing your findings lead to some situations and results you can share, you could write an article about them.
 
@@ -108,7 +108,7 @@ You could publish your articles at no cost on blogging platforms like Medium. Or
 
 Watching webinars is an easy way to earn SEUs. An additional bonus is that you could combine watching webinars or listening to podcasts with other activities, like an exercise session.
 
-There are many great webinars on the web. You could start with the [list of 12 free Agile webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam) that I picked from the Learning Paths on Scrum.org.
+There are many great webinars on the web. You could start with the [list of 12 free Agile webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam/) that I picked from the Learning Paths on Scrum.org.
 
 Another great resource is the [Scrum Pulse series](https://youtube.com/playlist?list=PLgDaZD8y4z0CWkbyWiuLi0tdbbJ3HQDWM). It is regularly updated, and currently contains over 100 1-hour webinars – so you have 10 years' worth of SEU in a single playlist.
 

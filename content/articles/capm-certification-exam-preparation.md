@@ -38,7 +38,7 @@ Getting a PMI credential enhances your professional profile. If you’re startin
 
 <p class="paragraph_highlight">But, most importantly, the knowledge and skills you obtain during your studies have great value and will help you on the job.</p>
 
-I have a dedicated article on [why obtaining the PMP certification is worth it](/articles/is-pmp-certification-worth-it). Many of the points also apply to CAPM.
+I have a dedicated article on [why obtaining the PMP certification is worth it](/articles/is-pmp-certification-worth-it/). Many of the points also apply to CAPM.
 
 
 ### PMP vs. CAPM: what are the main differences?
@@ -61,7 +61,7 @@ There are two conditions you need to meet to apply for CAPM:
 * Having a high school diploma.
 * Having completed at least 23 hours of project management education (contact hours).
 
-If you're randomly selected for audit by PMI, you'll have to present proof of your education and contact hours. See more about [passing the PMI audit](/articles/how-pass-pmp-audit-pmi).
+If you're randomly selected for audit by PMI, you'll have to present proof of your education and contact hours. See more about [passing the PMI audit](/articles/how-pass-pmp-audit-pmi/).
 
 
 ### How to get 23 contact hours for CAPM
@@ -135,7 +135,7 @@ But official sample questions might not give the full picture, as I learned the 
 
 The exam is proctored. You could pass it online via Pearson VUE or in person at a local test center.
 
-**Related**: [Should I take my certification exam online or in a testing center?](/articles/online-proctored-testing-pros-cons)
+**Related**: [Should I take my certification exam online or in a testing center?](/articles/online-proctored-testing-pros-cons/)
 
 
 ## How did the CAPM exam change?
@@ -175,17 +175,17 @@ PMBOK 7 shifts from process-based project management that focuses on outputs to 
 
 PMBOK is still a very valuable resource for preparing for the CAPM exam. But now, it’s not enough to memorize the concepts. As a modern project manager, you need to get into an Agile mindset of a strategist and a leader.
 
-Read my [guide to developing an Agile mindset](/articles/develop-agile-mindset-guide) for tips.
+Read my [guide to developing an Agile mindset](/articles/develop-agile-mindset-guide/) for tips.
 
 {{< figure src="/article_images/capm-certification-exam-preparation-img2.jpg" alt="Which materials can I use to study for the CAPM exam?" caption="photo by \@divinetechygirl on Pexels" >}}
 
 ## How to successfully pass the CAPM certification exam
 
-First of all, review the [general principles of efficient exam preparation](/articles/how-pass-certification-exam-test-first-try-tips-techniques). You’ll need to apply those principles as you work through the materials listed below.
+First of all, review the [general principles of efficient exam preparation](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). You’ll need to apply those principles as you work through the materials listed below.
 
 Joining or organizing a study group might also help with keeping pace and processing new information.
 
-**Related**: [How to start an online study group](/articles/start-successful-study-group-online-challenges-tips-guide).
+**Related**: [How to start an online study group](/articles/start-successful-study-group-online-challenges-tips-guide/).
 
 
 ### CAPM study courses: get the 23 contact hours and prepare for the exam
@@ -198,7 +198,7 @@ Besides an in-depth explanation of traditional PM processes, techniques, and for
 
 The full price of the course is $95 but Udemy runs regular promotions, so the course would cost under $25 with a discount.
 
-**Related**: [How to choose the best online course for you](/articles/how-find-best-online-course).
+**Related**: [How to choose the best online course for you](/articles/how-find-best-online-course/).
 
 
 ### CAPM exam simulators
@@ -207,7 +207,7 @@ PMI doesn’t have an official CAPM exam simulator, but there are offers from va
 
 This [CAPM exam simulator](https://www.udemy.com/course/2023-capm-mock-practice-tests/) on Udemy is based on PMBOK 7 and the Agile Practice Guide and is updated for the 2023 version of the exam.
 
-In my [exam preparation tips](/articles/how-pass-certification-exam-test-first-try-tips-techniques), there’s a section on how to make the most out of exam simulators.
+In my [exam preparation tips](/articles/how-pass-certification-exam-test-first-try-tips-techniques/), there’s a section on how to make the most out of exam simulators.
 
 {{< figure src="/article_images/capm-certification-exam-preparation-img3.jpg" alt="How to prepare for the CAPM exam to pass it on the first try?" caption="photo by \@mikhail-nilov on Pexels" >}}
 
@@ -219,7 +219,7 @@ While reading this book isn’t strictly necessary for CAPM exam preparation, it
 
 The book also contains exam-like questions that would be a great challenge.
 
-**Related**: [Best Product Management books for beginners](/articles/best-product-management-books).
+**Related**: [Best Product Management books for beginners](/articles/best-product-management-books/).
 
 
 ## Renewing CAPM: costs and requirements
@@ -235,7 +235,7 @@ You could earn PDUs by taking study courses, participating in events, volunteeri
 
 There’s [no limit on education PDUs](https://www.pmi.org/certifications/certification-resources/maintain/requirements) and self-paced studying is allowed. So, theoretically, you could earn all 15 PDUs for free by watching webinars and reading articles provided by PMI.
 
-**Related**: [12 free Agile and Leadership webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam).
+**Related**: [12 free Agile and Leadership webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam/).
 
 {{< figure src="/article_images/capm-certification-exam-preparation-img4.jpg" alt="CAPM certification will boost your resume and help with your project management career" caption="photo by \@fauxels on Pexels" >}}
 
@@ -243,7 +243,7 @@ There’s [no limit on education PDUs](https://www.pmi.org/certifications/certif
 
 The obvious next step after CAPM is PMP, but it might take you a while to gain the work experience required.
 
-**Related**: [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
+**Related**: [PMP exam preparation guide](/articles/pmp-certification-exam-preparation/).
 
 ### CAPM vs. PMI-ACP: which one to get with some work experience?
 
@@ -270,11 +270,11 @@ Advantages of PSM and PSPO:
 
 1. **Affordable pricing**: the first level costs $150, the second-level exam is $250, and you could go straight for the second level if you're up for it.
 2. **Scrum.org credentials are good for life**, so you don't have to worry about expiration and maintenance.
-3. As you prepare for PSM or PSPO, **the things you learn will also help tremendously** with [developing an Agile mindset](/articles/develop-agile-mindset-guide) and earning other professional certifications in project management and business analysis – including CAPM.
+3. As you prepare for PSM or PSPO, **the things you learn will also help tremendously** with [developing an Agile mindset](/articles/develop-agile-mindset-guide/) and earning other professional certifications in project management and business analysis – including CAPM.
 
 So, you might opt for getting PSM or PSPO first and then confidently going after CAPM or PMI-ACP.
 
-Check out my [PSM I preparation guide](/articles/psm-1-certification-exam-preparation) and [PSPO exam prep guide](/articles/pspo-certification-exam-preparation) for more details.
+Check out my [PSM I preparation guide](/articles/psm-1-certification-exam-preparation/) and [PSPO exam prep guide](/articles/pspo-certification-exam-preparation/) for more details.
 
 
 ### PRINCE2 Practitioner certification: next step after CAPM?
@@ -285,6 +285,6 @@ It doesn’t have work experience prerequisites, but to apply for the advanced P
 
 Besides PRINCE2 Foundation, there are a few certifications that satisfy the requirement, and CAPM is one of them.
 
-If you work or plan to work in an organization that applies Waterfall methodologies, earning PRINCE2 Practitioner would give a nice boost to your professional profile. Read more about [PRINCE2 exam preparation](/articles/prince2-certification-exam-preparation).
+If you work or plan to work in an organization that applies Waterfall methodologies, earning PRINCE2 Practitioner would give a nice boost to your professional profile. Read more about [PRINCE2 exam preparation](/articles/prince2-certification-exam-preparation/).
 
-**Related**: [PMP vs. PRINCE2 certifications comparison](/articles/pmp-prince2-certifications-differences).
+**Related**: [PMP vs. PRINCE2 certifications comparison](/articles/pmp-prince2-certifications-differences/).

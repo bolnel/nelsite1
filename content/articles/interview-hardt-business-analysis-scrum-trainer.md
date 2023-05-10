@@ -117,7 +117,7 @@ Articles you might be interested in:
 
 
 
-* [Top 10 product management books](/articles/best-product-management-books)
-* [Strategies for efficient online research](/articles/online-research-strategy-efficient)
-* [How to improve your intuition](/articles/develop-intuition-learning-self-awareness)
-* [Developing an Agile mindset](/articles/develop-agile-mindset-guide)
+* [Top 10 product management books](/articles/best-product-management-books/)
+* [Strategies for efficient online research](/articles/online-research-strategy-efficient/)
+* [How to improve your intuition](/articles/develop-intuition-learning-self-awareness/)
+* [Developing an Agile mindset](/articles/develop-agile-mindset-guide/)

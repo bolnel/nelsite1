@@ -13,7 +13,7 @@ categories = ["Professional growth"]
 
 What do I do now?
 
-Should I swiftly [act on a hunch](/articles/develop-intuition-learning-self-awareness) or gather more information? Should I seek help? Is there an obvious solution that I’m missing?
+Should I swiftly [act on a hunch](/articles/develop-intuition-learning-self-awareness/) or gather more information? Should I seek help? Is there an obvious solution that I’m missing?
 
 Cynefin (spelled “kuh-NEV-in”) is a “sense-making” framework. It aims to help with the understanding of what kind of a situation you’re in and what is the optimal course of action in this situation.
 
@@ -73,7 +73,7 @@ The domains in Cynefin describe **systems** first and foremost, and the advice i
 
 This lends itself well to group and organizational challenges. For example, what kind of methodology to use for a project – Agile or Waterfall.
 
-**Related**: [How to develop an Agile mindset](/articles/develop-agile-mindset-guide).
+**Related**: [How to develop an Agile mindset](/articles/develop-agile-mindset-guide/).
 
 {{< ebook-subscribe >}}
 
@@ -89,7 +89,7 @@ But even if the specific situations don't fit quite well into the Cynefin domain
 * Is there a good practice of what to do in such a situation?
 * Why do I prefer one solution over another?
 * Do I have the information necessary to move forward? What information am I lacking and how to obtain it?
-* Will gathering new information be worth the delay, or should I just [go with my intuition](/articles/develop-intuition-learning-self-awareness) and move forward based on the results?
+* Will gathering new information be worth the delay, or should I just [go with my intuition](/articles/develop-intuition-learning-self-awareness/) and move forward based on the results?
 * Should I consult or hire an expert?
 * Is the situation so dire that I should get out as soon as possible?
 
@@ -145,7 +145,7 @@ There are ways of doing things that have worked many times before and might be a
 1. **Overlooking solutions by non-experts**. In the “domain of experts”, it’s easy to dismiss ideas that have merit but come from a less authoritative source.
 2. **Analysis paralysis**. Coming to a stalemate when each of the experts thinks that their solution is the best way to reach the target.
 
-**Related**: [How to do online research efficiently](/articles/online-research-strategy-efficient).
+**Related**: [How to do online research efficiently](/articles/online-research-strategy-efficient/).
 
 {{< figure src="/article_images/cynefin-framework-decision-making-explained-img3.jpg" alt="The Complex domain in Cynefin deals with systems where the relationship between cause and effect is clear in hindsight" caption="photo by \@erwanhesry on Unsplash">}}
 
@@ -300,4 +300,4 @@ The Cynefin Framework is a sense-making tool that could give insights into your 
 
 Cynefin teaches us to apply critical thinking and choose the most suitable solution for the problem at hand.
 
-This concept is a good addition to your Agile mindset. It could be useful when answering the situational questions of the advanced certification exams, like [PSM II](/articles/psm-2-certification-exam-preparation) and [PSM III](/articles/psm-3-certification-exam-preparation).
+This concept is a good addition to your Agile mindset. It could be useful when answering the situational questions of the advanced certification exams, like [PSM II](/articles/psm-2-certification-exam-preparation/) and [PSM III](/articles/psm-3-certification-exam-preparation/).

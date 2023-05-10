@@ -11,7 +11,7 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-One of the silver linings to the 2020 COVID pandemic was that the [certification providers](/articles/are-certifications-worth-it) became much more open to online testing. Now everyone offers this option, so you could take a test from the comfort of your own home.
+One of the silver linings to the 2020 COVID pandemic was that the [certification providers](/articles/are-certifications-worth-it/) became much more open to online testing. Now everyone offers this option, so you could take a test from the comfort of your own home.
 
 There are a few caveats, though. I took my certification tests online, and I'll likely continue to do so in the future. But every time at a certain point I wished I were in a test center instead.
 
@@ -128,4 +128,4 @@ If there was a test center with high availability a short subway ride away, I'd 
 
 But in most cases, online proctored testing is the preferred - and often the only - option. While it has its small drawbacks, it's great that we have it.
 
-Before you choose which certification to get, make sure to check [what the recertification costs are](/articles/top-cybersecurity-providers-recertification-cost).
+Before you choose which certification to get, make sure to check [what the recertification costs are](/articles/top-cybersecurity-providers-recertification-cost/).

@@ -13,7 +13,7 @@ categories = ["Professional growth"]
 
 Scrum is a framework for solving complex problems. It’s mainly used for software and product development but could be applied to any project with evolving requirements and short feedback loops.
 
-Obtaining a Scrum certification is a way of transitioning into a new role, [developing an Agile mindset](/articles/develop-agile-mindset-guide), and improving your practical application of the framework.
+Obtaining a Scrum certification is a way of transitioning into a new role, [developing an Agile mindset](/articles/develop-agile-mindset-guide/), and improving your practical application of the framework.
 
 Professional Scrum Master by [Scrum.org](https://www.scrum.org/) and Certified Scrum Master by [Scrum Alliance](https://www.scrumalliance.org/) are the most popular certifications for people planning to take on the Scrum Master role or already working in that role and wishing to formalize and improve their knowledge and practices.
 
@@ -34,19 +34,19 @@ Both PSM and CSM have three levels – foundation, advanced and expert.
 
 The PSM I exam is mainly aimed at testing your knowledge and understanding of the Scrum Guide.
 
-**Related**: [A guide to preping for the PSM I exam](/articles/psm-1-certification-exam-preparation).
+**Related**: [A guide to preping for the PSM I exam](/articles/psm-1-certification-exam-preparation/).
 
 [PSM II](https://www.scrum.org/assessments/professional-scrum-master-ii-certification). Meant for Scrum Masters with in-depth experience applying the framework in real-world scenarios. A year of work experience is recommended but not required.
 
 The PSM II exam asks you situational questions to test your interpretation of the Scrum Guide and the Scrum Master role in different situations.
 
-**Related**: [PSM II exam study guide](/articles/psm-2-certification-exam-preparation).
+**Related**: [PSM II exam study guide](/articles/psm-2-certification-exam-preparation/).
 
-[PSM III](https://www.scrum.org/assessments/professional-scrum-master-iii-certification). Validates the understanding of applying Scrum practices and values in complex scenarios. It is recommended to have extensive work experience as a Scrum Master, as you’ll have to draw from your experience to answer the questions. Meant for individuals at a level of mastery sufficient to coach others.
+[PSM III](https://www.scrum.org/assessments/professional-scrum-master-iii-certification/). Validates the understanding of applying Scrum practices and values in complex scenarios. It is recommended to have extensive work experience as a Scrum Master, as you’ll have to draw from your experience to answer the questions. Meant for individuals at a level of mastery sufficient to coach others.
 
 80% of the PSM III exam are open questions you need to write answers for, and the rest have multiple answers.
 
-**Related**: [Strategies for passing the PSM III exam](/articles/psm-3-certification-exam-preparation).
+**Related**: [Strategies for passing the PSM III exam](/articles/psm-3-certification-exam-preparation/).
 
 To attempt any one of the PSM exams, you buy a non-expiring, single-use access code and apply it whenever you feel ready. The exams aren't proctored.
 
@@ -60,9 +60,9 @@ Advanced Certified ScrumMaster ([A-CSM](https://www.scrumalliance.org/get-certif
 
 Certified Scrum Professional - ScrumMaster ([CSP-SM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrum-professional-scrummaster)). Requirements: having an active A-CSM certification and validating a minimum of 24 months of Scrum Master work experience within the last five years.
 
-To obtain the A-CSM and CSP-SM certifications, you must enroll in an approved [study course](/articles/how-find-best-online-course) and complete all the assignments. There are no separate exams.
+To obtain the A-CSM and CSP-SM certifications, you must enroll in an approved [study course](/articles/how-find-best-online-course/) and complete all the assignments. There are no separate exams.
 
-**Related**: [Is the Scrum Master role a great fit for me?](/articles/is-the-scrum-master-role-right-for-me)
+**Related**: [Is the Scrum Master role a great fit for me?](/articles/is-the-scrum-master-role-right-for-me/)
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img1.jpg" alt="Scrum Master makes sure the Scrum framework is implemented as intended." caption="photo by \@mimithian on Pexels">}}
 
@@ -121,14 +121,14 @@ PSM I has multiple-answer questions, which are more tricky - you could stop for 
 
 Taking those into consideration, I estimate PSM I to be at least twice harder than CSM.
 
-**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me)
+**Related**: [Should I become a project manager?](/articles/is-project-management-right-for-me/)
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img3.jpg" alt="Scrum master removes impediments the Developers are facing." caption="photo by \@louisemink on Unsplash">}}
 
 
 ## PSM and CSM recertification costs
 
-When you’re about to purchase something, you should also consider the maintenance costs. Let’s see how much you need to invest once you [successfully passed the CSM or PSM exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+When you’re about to purchase something, you should also consider the maintenance costs. Let’s see how much you need to invest once you [successfully passed the CSM or PSM exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
 
 
 ### Do you need to renew your PSM certification?
@@ -139,7 +139,7 @@ Once you passed a tough exam, you demonstrated a certain level of understanding 
 
 <p class="paragraph_highlight">If you get it, you get it. You don’t need to confirm it every few years – PSM certifications are valid for a lifetime and don’t have renewal fees.</p>
 
-And I could attest from [personal experience passing the PSM test](/articles/psm-2-certification-exam-preparation) – after all the preparation you went through, Scrum principles and approaches get so ingrained that you’re unlikely to forget them in a few years, if ever.
+And I could attest from [personal experience passing the PSM test](/articles/psm-2-certification-exam-preparation/) – after all the preparation you went through, Scrum principles and approaches get so ingrained that you’re unlikely to forget them in a few years, if ever.
 
 Once you have such solid foundations, you could build on Scrum as you see fit in your environment. This is called “Scrum, and…”. As opposed to “[Scrum, but…](https://www.scrum.org/resources/what-scrumbut)” – when people claim they use Scrum but find excuses to omit or change some elements of the framework.
 
@@ -164,7 +164,7 @@ If you have certifications on different levels, you only need to pay to renew th
 
 Attending a higher-level certification course automatically renews all lower-level certifications.
 
-Related: this article goes into detail about [obtaining SEUs to renew your certifications](/articles/how-to-get-seu-for-csm-renewal) by Scrum Alliance.
+Related: this article goes into detail about [obtaining SEUs to renew your certifications](/articles/how-to-get-seu-for-csm-renewal/) by Scrum Alliance.
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img4.jpg" alt="Scrum master helps the team to implement the Scrum practices" caption="photo by \@fauxels on Pexels">}}
 
@@ -211,11 +211,11 @@ So, it's the same acquisition and maintenance model as CSM, but with a fraction 
 
 {{< figure src="/article_images/psm-csm-which-scrum-certification-best-img5.jpg" alt="Do you enjoy the Scrum Master role? Improve your practices by getting certified" caption="photo by \@visual-tag-mx-1321732 on Pexels">}}
 
-**Related**: [CAPM: a certification for project management beginners](/articles/capm-certification-exam-preparation).
+**Related**: [CAPM: a certification for project management beginners](/articles/capm-certification-exam-preparation/).
 
 ## PSM vs. CSM vs. PMI-ACP: which one is right for you?
 
-There’s a combination of factors that could influence the decision. [Ask yourself a few questions](/articles/online-research-strategy-efficient):
+There’s a combination of factors that could influence the decision. [Ask yourself a few questions](/articles/online-research-strategy-efficient/):
 
 * Do I have experience?
 * Do I want to be a Scrum Master or an Agile Project Manager?
@@ -239,6 +239,6 @@ The following factors have influenced my decision:
 * The less maintenance, the better.
 * A Credly credential could be integrated with other platforms like Upwork to show your achievements easier (though all digital badges could be integrated with LinkedIn).
 
-Thus I [went straight for PSM II](/articles/psm-2-certification-exam-preparation), and the understanding of Agile approaches that got ingrained in my head during the preparation was a solid basis for [passing my PMP exam](/articles/pmp-certification-exam-preparation).
+Thus I [went straight for PSM II](/articles/psm-2-certification-exam-preparation/), and the understanding of Agile approaches that got ingrained in my head during the preparation was a solid basis for [passing my PMP exam](/articles/pmp-certification-exam-preparation/).
 
-Here’s my strategy to [pass an exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques).
+Here’s my strategy to [pass an exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).

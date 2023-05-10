@@ -207,7 +207,7 @@ We want to find out the customers’ real needs and get honest feedback on what 
 
 As a Product Manager, you’ll have to validate your ideas and figure out the customers’ pains and preferences throughout the product development. The art of customer conversation will help along the way.
 
-**Related**: [Learn from zero with the right questions: online research strategy](/articles/online-research-strategy-efficient).
+**Related**: [Learn from zero with the right questions: online research strategy](/articles/online-research-strategy-efficient/).
 
 
 
