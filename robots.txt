@@ -2,7 +2,10 @@ User-agent: *
 
 Disallow: /tags/
 Disallow: /thanks-for-subscribing/
-Disallow: /porpoisean/
+Disallow: /porpoiseant/
 Disallow: /detroitchicago/
+Disallow: /ezais/
+Disallow: /tardisrocinante/
+Disallow: /21732118914,22902328803/
 
 Sitemap: https://ninel.work/sitemap.xml
