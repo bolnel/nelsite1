@@ -1,5 +1,4 @@
 User-agent: *
-
 Disallow: /tags/
 Disallow: /thanks-for-subscribing/
 Disallow: /porpoiseant/
@@ -7,5 +6,8 @@ Disallow: /detroitchicago/
 Disallow: /ezais/
 Disallow: /tardisrocinante/
 Disallow: /21732118914,22902328803/
+
+User-agent: Bytespider
+Disallow: /
 
 Sitemap: https://ninel.work/sitemap.xml
