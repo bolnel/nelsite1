@@ -2,7 +2,7 @@
   
   <url>
     <loc>https://ninel.work/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -12,7 +12,7 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -22,11 +22,31 @@
   
   <url>
     <loc>https://ninel.work/categories/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/how-handle-deal-with-criticism-work-family/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/how-handle-deal-with-criticism-work-family/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/personal-growth/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/personal-growth/"
                 />
   </url>
   
@@ -57,16 +77,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/explain-job-online-remote-family-friends/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/personal-growth/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/personal-growth/"
                 />
   </url>
   
