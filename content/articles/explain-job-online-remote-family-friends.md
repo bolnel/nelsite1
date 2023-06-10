@@ -85,7 +85,7 @@ Whoever you talk to, remember: you don’t _owe_ an explanation to anyone.
 
 You don’t need to prove that your job is “worthy” or “real”.
 
-If their questions tap into your own insecurities, instead of justifying things to them, focus on getting rid of the impostor syndrome or coming up with a strategy to change your work situation.
+If their questions tap into your own insecurities, instead of justifying things to them, focus on [getting rid of impostor syndrome](/articles/impostor-syndrome-how-overcome/) or coming up with a strategy to change your work situation.
 
 {{< figure src="/article_images/explain-job-online-remote-family-friends-img1.jpg" alt="Friends and family might not understand what you're doing working online" caption="photo by \@rdne on Pexels">}}
 

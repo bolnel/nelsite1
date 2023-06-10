@@ -90,7 +90,7 @@ The more you push, the better the results, right?
 
 While it’s true that putting in no effort will bring zero results, putting in maximum effort only takes you so far.
 
-The amount of effort you could put in is not infinite – eventually, you’ll reach your full capacity. And if you always go at maximum capacity, you’ll burn out soon enough.
+The amount of effort you could put in is not infinite – eventually, you’ll reach your full capacity. And if you always go at maximum capacity, [you’ll burn out soon enough](/articles/burnout-mental-exhaustion-how-to-overcome/).
 
 Effort needs modifiers.
 
@@ -110,7 +110,7 @@ Some symptoms that could indicate the “grind mentality”:
 * Just don’t give up, keep going, and you’ll make it. (Without stipulating that assessment and improvements have to be made with each small iteration).
 * Not feeling like you did a great job unless you’re exhausted.
 * “A bird in the hand is worth two in the bush”. Sticking to familiar and well-practiced routines.
-* Feeling like an impostor if the result comes without a substantial effort.
+* [Feeling like an impostor](/articles/impostor-syndrome-how-overcome/) if the result comes without a substantial effort.
 * A related sentiment is that everything, including love and appreciation, needs to be “earned”.
 
 Working smart is increasing efficiency, so the same effort brings more results.
@@ -138,7 +138,7 @@ I define “tools” in a broad sense here. They are skills or anything you coul
 
 
 
-* How to learn efficient task **delegation**
+* How to learn [efficient task **delegation**](/articles/effective-delegation-tasks-authority-workplace/)
 * Getting better with **prioritization**
 * Learning a **programming language**
 * Most important video editing **techniques**

@@ -231,7 +231,7 @@ A major reason for developing strong boundaries is **not taking up the tasks** y
 
 Most likely, you could delegate some tasks and authority at work and get some help from your friends and family at home.
 
-You might be wondering if it contradicts the previous point. Are you crossing other people’s boundaries by giving them tasks that you’re “supposed” to do? Let’s discuss the nuances in a dedicated article on how to delegate to everyone’s benefit.
+You might be wondering if it contradicts the previous point. Are you crossing other people’s boundaries by giving them tasks that you’re “supposed” to do? Let’s discuss the nuances in a dedicated article on [how to delegate to everyone’s benefit](/articles/effective-delegation-tasks-authority-workplace/).
 
 **How to delegate as a parent**. The best way is to [make your child more autonomous](https://selfsufficientkids.com/independent-child/). Openly tell them about the challenges of adulthood, teach them how to use the internet, how to set themselves tasks and be responsible for completing them.
 
@@ -249,7 +249,7 @@ You’ll always face trade-offs between working to earn money, spending time stu
 
  “Finding” life-work balance isn’t enough – it’s a constant balancing act of evaluating priorities and managing time.
 
-Read more about the [considerations that go into improving life-work balance](https://www.businessnewsdaily.com/5244-improve-work-life-balance-today.html).
+Read more about the [considerations that go into improving life-work balance](/articles/find-maintain-work-life-balance-home/).
 
 
 

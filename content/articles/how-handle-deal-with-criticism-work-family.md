@@ -242,7 +242,7 @@ Love is precious, and it’s great when people want to help with resolving your 
 
 There could be times when the remarks are rational and delivered in a friendly way but they trigger negative emotions.
 
-If the criticism plays into your fears or issues you can barely admit to yourself, it may evoke stress rather than constructive action.
+If the criticism [plays into your fears](/articles/impostor-syndrome-how-overcome/) or issues you can barely admit to yourself, it may evoke stress rather than constructive action.
 
 Most likely, they’re stating the issues that are obvious to you, and you know that something should be done about it. But you don’t see a viable way to change the situation, so the criticism only puts salt in your wounds.
 

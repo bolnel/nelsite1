@@ -239,6 +239,8 @@ You don't have to justify your reaction or prove anything.
 
 But if the relationship had any meaning to you, you could provide feedback and inform them why things went the way they did. Maybe it’ll give them some insights and help them avoid similar situations in the future.
 
+**Related**: [How to handle criticism and negative feedback](https://ninel.work/articles/how-handle-deal-with-criticism-work-family/)
+
 {{< figure src="/article_images/how-set-maintain-develop-boundaries-strong-healthy-img3.jpg" alt="What are the red flags to spot people who would break boundaries?" caption="photo by \@shvets-production on Pexels">}}
 
 

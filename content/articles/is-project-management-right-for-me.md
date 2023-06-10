@@ -131,6 +131,7 @@ It will be your responsibility as a project manager to manage stakeholder expect
 
 <p class="paragraph_highlight">Firm boundaries are based on open, respectful communication and on being consistent.</p>
 
+**Related**: [How to maintain healthy boundaries](/articles/how-set-maintain-develop-boundaries-strong-healthy/).
 
 
 ## 6. How do you feel about documenting things?
@@ -161,7 +162,7 @@ As you might imagine, with all the responsibility, keeping plates in the air, an
 
 And that’s even before things start going askew. If – or, rather, when – they do, as things can’t go smoothly all the time, and you’ll be the one held accountable.
 
-This doesn’t mean that a PM should be under constant stress. Keeping stress levels down has a lot to do with prioritizing, maintaining boundaries, and a healthy work-life balance.
+This doesn’t mean that a PM should be under constant stress. [Keeping stress levels down](/articles/burnout-mental-exhaustion-how-to-overcome/) has a lot to do with prioritizing, maintaining boundaries, and a healthy work-life balance.
 
 But if you’re prone to anxiety, weigh your choices carefully.
 

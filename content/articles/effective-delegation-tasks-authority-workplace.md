@@ -16,7 +16,7 @@ Are you the best guy or gal for the job?
 
 I’m sure you’re qualified. But for the overall outcome, would it be best if _you’re_ the one doing a  certain task?
 
-Successful delegation allows for more work to be done better, empowers others, and helps you maintain a healthy work-life balance.
+Successful delegation allows for more work to be done better, empowers others, and helps you [maintain a healthy work-life balance](/articles/find-maintain-work-life-balance-home/).
 
 Unsuccessful delegation leads to lots of rework, broken trust, and losses.
 

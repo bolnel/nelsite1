@@ -123,7 +123,7 @@ Consistency is a long game.
 
 When you're excited to gain those first wins, it's tempting to jump right into it and get the results quickly.
 
-And you'll most likely get them initially. But if you pick a pace you can't consistently sustain, this will probably lead to burnout.
+And you'll most likely get them initially. But if you pick a pace you can't consistently sustain, this will probably [lead to burnout](/articles/burnout-mental-exhaustion-how-to-overcome/).
 
 You might need to build up some muscle first.
 
