@@ -109,7 +109,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="apple-touch-icon" href="https://ninel.work/apple-touch-icon.png" />
 
   
-  <meta name="generator" content="Hugo 0.113.0">
+  <meta name="generator" content="Hugo 0.115.2">
 
   
   
@@ -167,7 +167,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     class="btn-menu relative z-50 -mr-8 flex h-[5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
   ></a>
 
-  
   <script>
     
     const htmlClass = document.documentElement.classList;
@@ -180,15 +179,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     btnMenu.addEventListener('click', () => {
       htmlClass.toggle('open');
     });
-
-    
-    const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = `"#fff"`.replace(/"/g, '');
-    const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
-      htmlClass[isDark ? 'add' : 'remove']('dark');
-      localStorage.setItem('dark', isDark);
-    };
 
     
     const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
@@ -534,6 +524,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
   
   <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a class="flex w-1/2 items-center p-6 pr-3 no-underline" href="https://ninel.work/articles/disciplined-agile-certifications-dassm/"
+      ><span class="mr-1.5">←</span><span>Disciplined Agile Certifications - Is DASSM Worth It?</span></a
+    >
     
     
     <a
