@@ -164,7 +164,7 @@ The site notifies you that your transaction fails; the final result is in the co
 
 ### Does our brain really record everything?
 
-Our brain has to cope with a staggering amount of signals. It processes streams of raw data our senses send its way – and there are over 20 senses, including hunger and proprioception, the sense of where the body parts are in relation to each other.
+Our brain must cope with a staggering amount of signals. It processes streams of raw data our senses send its way – and there are over 20 senses, including hunger and proprioception, the sense of where the body parts are in relation to each other.
 
 All of this information is parsed and rendered into what we perceive as "reality".
 
