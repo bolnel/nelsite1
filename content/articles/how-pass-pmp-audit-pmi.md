@@ -1,8 +1,8 @@
 +++
-title = "PMP Audit Survival Guide: How to Pass the PMP Audit in 2023"
+title = "PMP Audit Survival Guide: How to Pass the PMP Audit in 2024"
 description = "PMI randomly audits some of the people who apply for PMP, PMI-ACP, CAPM, and other certifications. What does the audit look like today, and how to pass it?"
 date = "2023-01-25"
-lastmod = "2023-01-29"
+lastmod = "2024-01-02"
 slug = "how-pass-pmp-audit-pmi"
 featured = "/article_images/how-pass-pmp-audit-pmi-hero.jpg"
 thumbnail = "/article_images/how-pass-pmp-audit-pmi-thumbnail.jpg"
