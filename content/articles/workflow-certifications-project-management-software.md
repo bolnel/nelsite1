@@ -126,15 +126,17 @@ If you just want to learn without obtaining the certification, you could check t
 
 ## How can I become a Notion Certified Consultant?
 
-Notion offers [a great deal with its certifications](https://certifications.notion.site/certifications/Notion-Certified-1680111eddf54cd4be14d8f3fa16efd6). You can pass the Notion exams for free and get a Credly badge, which can be easily shared and integrated with various platforms.
+Notion offers [a great deal with its certifications](https://www.notion.so/lp/certifications). You can pass the Notion exams for free and get a Credly badge, which can be easily shared and integrated with various platforms.
 
 Notion has three certifications:
 
 
 
-* [Notion Essentials](https://certifications.notion.site/Notion-Essentials-Badge-3dc79ca1aae24f9a81e7a1e2ab74f5de). An all-around exam, testing everything starting from the basics to databases and formulas.
-* [Notion Settings & Sharing](https://certifications.notion.site/Notion-Settings-Sharing-Badge-1abf2b598c75450dbbb1ade9a80d00b6). Demonstrate an in-depth understanding of team collaboration and workspace architecture.
-* [Notion Certified Consultant](https://certifications.notion.site/Notion-Certified-Consultant-0282c348a42d477b873d45879e3c4d55). There are substantial prerequisites to earn this badge: you need to demonstrate contributions to the Notion community and present three case studies – with client references – where you used Notion to efficiently resolve client needs.
+* **Notion Essentials**. An all-around exam, testing everything starting from the basics to databases and formulas.
+* **Notion Settings & Sharing**. Demonstrate an in-depth understanding of team collaboration and workspace architecture.
+* **Notion Advanced**. Building advanced workflows and tackling tricky use cases.
+
+Once you've earned all three badges, you could apply [to become a Notion Certified Consultant](https://www.notion.so/consulting-partner-program) and join the Consulting Partner Directory to get in touch with potential clients.
 
 To attempt any of the exams, you need to fill out an application form and provide information about your Notion experience.
 

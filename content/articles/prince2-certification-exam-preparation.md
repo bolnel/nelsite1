@@ -342,7 +342,7 @@ Your DIY PRINCE2 Practitioner exam simulator using free Axelos materials:
 
 ## PRINCE2 credential recertification methods and costs
 
-PRINCE2 Foundation used to be good-for-life. But since 2023, all Axelos certifications, including the Foundation-level ones, expire in 3 years. There are a few [ways of renewing it](https://www.peoplecert.org/ways-to-get-certified/Keep-your-certification-valid):
+PRINCE2 Foundation used to be good-for-life. But since 2023, all Axelos certifications, including the Foundation-level ones, expire in 3 years. There are a few ways of renewing it:
 
 
 

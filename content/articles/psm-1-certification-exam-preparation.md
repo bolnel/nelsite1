@@ -47,9 +47,7 @@ Scrum.org has a Scrum Master Learning Path full of **free** articles and webinar
 
 To be introduced to the nuances of the Scrum Framework with a structured narrative, read _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_. The paperback and Kindle versions cost around $16 on Amazon. There are more book recommendations at the end of the article.
 
-If you like the video format, there are Scrum Master preparation courses, like this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy – the regular price is $35 but could be available for under $15 with the promotions Udemy regularly runs.
-
-[PSM I exam simulator](https://www.udemy.com/course/scrum-master-exam-simulator/) contains 400 exam-like questions and costs $20 or less with a promotional discount.
+If you like the video format, there are Scrum Master preparation courses, like this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy – the regular price is $35 but could be available for under $15 with the promotions Udemy regularly runs. 
 
 If you have the funds, taking a training course by a Professional Scrum Trainer would be very beneficial. PSM I 2-day training sessions on Scrum.org start at around $1000, with a free exam attempt included in the price. Training is available in different languages.
 
@@ -168,7 +166,7 @@ Free Scrum exam simulator by Mikhail Lapshin is an option mentioned in forum thr
 
 If you're new to Scrum, using practice tests with inaccurate or outdated information would be especially confusing and detrimental to your learning and to your exam score. Choose exam simulators that are kept up to date and have good scores.
 
-This [PSM I simulator by Volkerdon](https://www.udemy.com/course/scrum-master-exam-simulator/) is a popular option, I also used it to get the fundamentals down. It's updated regularly.
+This [PSM I simulator by Volkerdon](https://www.volkerdon.com/courses/scrum-master-exam-simulator-practice-tests) is a popular option, I also used it to get the fundamentals down. It's updated regularly.
 
 
 ## Recommended books to prepare for the PSM 1 certification

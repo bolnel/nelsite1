@@ -132,7 +132,7 @@ However, if you were missing or misusing some of the Scrum elements in your prac
 
 Learn about the anti-patterns:
 
-* [Scrum myths](https://medium.com/the-liberators/scrum-mythbusters/home)
+* [Scrum myths](https://medium.com/the-liberators/tagged/scrum-myths)
 * who the Scrum Master is not
 * [Zombie Scrum](https://www.amazon.com/Zombie-Scrum-Survival-Guide-Professional/dp/0136523269)
 * and the other ways Scrum could break in real-life scenarios.

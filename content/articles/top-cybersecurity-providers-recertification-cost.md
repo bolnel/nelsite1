@@ -84,7 +84,7 @@ The pricing structure easily accessible is flat. There are three types of exams 
 
 **Experience**. All but the Foundational-level certifications require 2-5 years of confirmed work experience.
 
-**Maintenance fees**. The obligatory membership fee varies from $45 to $125 per year, depending on the certification level. Plus earning the Professional Development units, which ICCP estimates [would cost around $500-$600/year](https://www.iccp.org/fees-cost--membership-fees.html). At this point, they note that such costs are the reason the majority of ICCP members belong to mid-to-large corporations that fund their employees' certification and ongoing professional development.
+**Maintenance fees**. The obligatory membership fee varies from $45 to $125 per year, depending on the certification level. You'll also [need to submit Professional Development (PD) Education credits](https://www.iccp.org/submitting-pd-education-credits) - you can earn them by taking courses, volunteering, retaking the exams, and in various other ways.
 
 {{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img2.jpg" alt="What are the total costs of maintaining your cybersecurity credential?" caption="photo by \@angieprz21 on Unsplash">}}
 
@@ -156,7 +156,7 @@ _International Council of E-Commerce Consultants_ was founded in 2001 in the wak
 
 **Experience**. If you don’t participate in a training program, a minimum of 2 years of work experience is required.
 
-**Maintenance fees**. $80/year membership fee for certification holders who participate in [EC-Council Continuous Education program](https://cert.eccouncil.org/ece-policy.html). There’s a single membership fee regardless of the number of certifications, [with a few exceptions](https://cert.eccouncil.org/membership.html).
+**Maintenance fees**. $80/year membership fee for certification holders who participate in [EC-Council Continuous Education program](https://cert.eccouncil.org/ece-policy.html). There’s a single membership fee regardless of the number of certifications, [with a few exceptions](https://cert.eccouncil.org/blogs/membership.html).
 
 
 ## Conclusion

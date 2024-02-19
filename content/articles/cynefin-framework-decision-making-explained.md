@@ -289,7 +289,7 @@ Read more about the rules and the challenges of the [Cynefin Lego game](https://
 
 ## Further reading
 
-[The new dynamics of strategy: Sense-making in a complex and complicated world](http://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf). A paper by C. F. Kurtz and D. J. Snowden.
+[The new dynamics of strategy: Sense-making in a complex and complicated world](https://www.researchgate.net/publication/224101753_The_new_dynamics_of_strategy_Sense-making_in_a_complex_and_complicated_world). A paper by C. F. Kurtz and D. J. Snowden.
 
 [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making). Dave Snowden and Mary Boone present the Cynefin framework in the Harward Business Review magazine.
 
