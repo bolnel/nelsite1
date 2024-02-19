@@ -6,7 +6,21 @@
     <description>Recent content in Categories on Personal and Professional Development via Life-Long Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ninel.work/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Growth</title>
+      <link>https://ninel.work/categories/professional-growth/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninel.work/categories/professional-growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Growth</title>
+      <link>https://ninel.work/categories/personal-growth/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninel.work/categories/personal-growth/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
