@@ -1,6 +1,6 @@
 +++
 title = "Become a Notion Certified Consultant: a Practical Guide"
-description = "Do you consider becoming Notion Certified Partner or just confirm your proficiency with Notion? Here are a few tips that could be helpful."
+description = "Do you consider becoming a Notion Certified Partner or just confirming your proficiency with Notion? Here are a few tips that could be helpful."
 date = "2024-02-03"
 lastmod = "2024-02-03"
 slug = "notion-certified-exam-preparation"
