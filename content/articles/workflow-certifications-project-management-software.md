@@ -144,6 +144,7 @@ Notion exam passing score is 70%. If you fail to achieve it, you can reapply for
 
 Prepare for your certification by browsing the resources in [Notion Help Center](https://www.notion.so/help) and practicing in your workspace.
 
+Read more in a dedicated article on [how to become a Notion Certified Partner](/articles/notion-certified-exam-preparation/) and which challenges you'll face along the way.
 
 ### Are Notion certifications worth it?
 
