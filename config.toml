@@ -38,12 +38,8 @@ unsafe= true
     url = '/contact/'
     weight = 50
   [[menu.main]]
-    name = 'Privacy Policy'
-    url = '/privacy-policy/'
+    name = 'Workflow Setup'
+    url = '/workflow-setup-automation-expert-specialist-hire/'
     weight = 60
-  [[menu.main]]
-    name = 'Coaching'
-    url = '/personal-professional-development-coaching/'
-    weight = 70
     [menu.main.params]
     class = "header_nav_button"

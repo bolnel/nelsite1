@@ -2,7 +2,7 @@
 title = "How to Pass the Certification Exam on the First Try – Study Tips"
 description = "Is there a sure-fire way to pass an exam? No. But there are methods you could use to make your success nearly inevitable."
 date = "2022-10-02"
-lastmod = "2023-02-12"
+lastmod = "2024-02-12"
 slug = "how-pass-certification-exam-test-first-try-tips-techniques"
 featured = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-hero.jpg"
 thumbnail = "/article_images/how-pass-certification-exam-test-first-try-tips-techniques-thumbnail.jpg"
@@ -15,7 +15,7 @@ So, you figured out [why you want to get certified](/articles/are-certifications
 
 I'm not giving you a 100% success guarantee (and you should be wary of people who claim they do). But I'll share an approach that would increase your chances greatly.
 
-Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation/), [aced my PMP](/articles/pmp-certification-exam-preparation/), and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below. Stay tuned for the stories about each of these exams.
+Using this approach, I [passed the PSM II exam](/articles/psm-2-certification-exam-preparation/), [aced my PMP](/articles/pmp-certification-exam-preparation/), and did very well on IIBA-AAC… And utterly failed IIBA-CPOA – but then again, in that case, I missed doing some things I describe below.
 
 The main points to successfully pass the exam are:
 
@@ -85,7 +85,7 @@ There are two levels to your way of studying. Let's call them "strategy" and "ta
 
 _Strategic_ _level_ is your general preference for how you study, based on how much guidance you receive and how many interactions you have with others:
 
-* Study groups
+* [Study groups](/articles/start-successful-study-group-online-challenges-tips-guide/)
 * [Enrolling in a course](/articles/how-find-best-online-course/)
 * Individual lessons
 * Self-education
