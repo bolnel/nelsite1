@@ -9,6 +9,6 @@ Professionally, I mostly worked as a project manager with technical background, 
 
 The overall topic of this blog is "Personal Growth via Lifelong Learning" – you’ll see articles about self-education, remote work, certifications and continuous education, and other related subjects.
 
-I’d be happy if you join me on this journey!
+I also [offer workflow setup & automation services](/workflow-setup-automation-expert-specialist-hire/) in Trello, Asana, and other PM software.
 
 {{< figure src="/about-ninel-retro-circus.jpg" alt="Loft, retro circus black-and-white outfit" caption="photo by Erandir">}}
