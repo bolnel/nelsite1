@@ -10,4 +10,7 @@ Disallow: /21732118914,22902328803/
 User-agent: Bytespider
 Disallow: /
 
+User-agent: Yandex
+Disallow: /
+
 Sitemap: https://ninel.work/sitemap.xml
