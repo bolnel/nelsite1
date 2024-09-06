@@ -40,7 +40,7 @@
   <!-- Add This. Go to www.addthis.com/dashboard to customize -->
   <!-- Removed the script to improve speed, might add later
 
-  <p class="article_share_prompt">If you liked the article, feel free to bookmark or share it:</p>   
+  <p class="article_share_prompt">If you liked the article, feel free to bookmark or share it:</p>
 
   -->
   {{ end }}
@@ -66,17 +66,6 @@
   </nav>
   {{ end }}
 
-  <!-- Disqus -->
-  {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
-  <div id="disqus_thread"></div>
-  <script>
-    const disqusShortname = '{{ site.DisqusShortname }}';
-    const script = document.createElement('script');
-    script.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
-    script.setAttribute('data-timestamp', +new Date());
-    document.head.appendChild(script);
-  </script>
-  {{ end }}
 </article>
 
 {{ end }}
