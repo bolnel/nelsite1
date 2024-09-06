@@ -15,7 +15,7 @@ There are a few components to setting up smooth and efficient workflows in PM so
 
 In this article, I’ll dive into comparison of what different PM tools offer with their automation. Use the Contents section below to jump to the tool you consider using in your workflow.
 
-[I also offer workflow setup & automation services](http://localhost:1313/workflow-setup-automation-expert-specialist-hire/). If you need any help with setting up or optimizing your flows, feel free to get in touch.
+[I also offer workflow setup & automation services](/workflow-setup-automation-expert-specialist-hire/). If you need any help with setting up or optimizing your flows, feel free to get in touch.
 
 {{< figure src="/article_images/workflow-automation-project-management-hero.jpg" alt="How to use the power of automation to make your flows more efficient" caption="photo by \@jakubzerdzicki on Pexels">}}
 
@@ -38,7 +38,7 @@ In this article, I’ll dive into comparison of what different PM tools offer wi
 
 ## Rules of creating great automated flows in Trello, ClickUp, Asana, and other PM software
 
-Those are the rules I personally follow when [setting up and optimizing workflows for my clients](http://localhost:1313/workflow-setup-automation-expert-specialist-hire/).
+Those are the rules I personally follow when [setting up and optimizing workflows for my clients](/workflow-setup-automation-expert-specialist-hire/).
 
 
 
@@ -146,7 +146,7 @@ You can’t see the automation rules created by another account, only see them i
 
 So, when setting up automations for a team, consider which account would be responsible for creating and modifying them, and how to transfer the automations if the owner becomes inactive on the board. To share automations, they must be added to libraries, and the option for sharing each library should be on.
 
-If you’re looking for [an expert to set up, optimize and automate your Trello workflow](http://localhost:1313/workflow-setup-automation-expert-specialist-hire/), I’d be happy to help.
+If you’re looking for [an expert to set up, optimize and automate your Trello workflow](/workflow-setup-automation-expert-specialist-hire/), I’d be happy to help.
 
 {{< figure src="/article_images/workflow-automation-project-management-img2.jpg" alt="Principles of setting up automations in Trello, Asana and other software" caption="photo by \@eric-anada on Pexels">}}
 
