@@ -21,6 +21,17 @@ In this article, I’ll dive into comparison of what different PM tools offer wi
 
 {{< table_of_contents >}}
 
+## What are workflow automations? Examples
+
+Workflow automations are actions set to fire when certain conditions are met. They can be triggered, for example:
+
+* When status changes to "In review", notify a team member
+* When a task is added to a certain column, assign a team member and set a due date 1 week in the future
+* When the "Urgent" tag is added to a task, unassign the current assignee, assign a certain team member, and move the task to the top of the lists
+* When a comment is added on a task, send a Slack message
+
+Or they can be scheduled, usually used for rearranging task to bring the most topical ones to the top of the list, archiving the done tasks, or creating reports on the task status.
+
 
 ## Advantages of using automations in your workflows
 
