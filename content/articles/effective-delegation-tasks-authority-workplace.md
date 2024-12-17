@@ -33,7 +33,7 @@ How do you transfer important tasks to others and be sure you won’t regret it?
 
 ## When should I delegate tasks?
 
-I’m looking at the delegation issue from a broader perspective of personal and professional development: which tasks to prioritize, which ones to transfer, and which ones to get rid of entirely by improving your processes.
+I’m looking at the delegation issue from a broader perspective of personal and professional development: which tasks to prioritize, which ones to transfer, and which ones to get rid of entirely by [improving your processes](/workflow-setup-automation-expert-specialist-hire/).
 
 Signs that some tasks need to be removed from your agenda:
 
@@ -111,7 +111,7 @@ Whatever your role or position is, you might find it hard to delegate due to the
 
 
 * **Perfectionism**. It either has to be done well or not done at all. Are their skills on par? Will they really do it as well as you?
-* **Lack of trust**. Similar to perfectionism but with distinct suspicion towards others. Fear of being let down.
+* **[Lack of trust](/articles/effective-delegation-tasks-authority-workplace/)**. Similar to perfectionism but with distinct suspicion towards others. Fear of being let down.
 * **No time to spare**. There’s no time to explain or wait for someone less experienced to do the task. If it happens regularly, you might’ve fallen into the urgency trap.
 * **Fuzzy prioritization**. You’d love to delegate the mid-level tasks and focus on the most important ones, but there’s an issue: everything feels important.
 * **Vanity, clinging to authority**. Desire to be indispensable. Not wanting to admit that someone might do the task just as well – or even better – than you.
@@ -128,7 +128,7 @@ The challenges described above are mostly stemming from personal perception and 
 * [Develop an Agile, flexible mindset](/articles/develop-agile-mindset-guide/). It’ll help with embracing failures to learn and grow faster.
 * Shift your focus to the big picture and long-term prioritization.
 * [Establishing solid boundaries](/articles/how-set-maintain-develop-boundaries-strong-healthy/) will help see and respect others’ boundaries as well. You’ll have a better idea of when and whom to delegate to and won’t feel the urge to micromanage.
-* If you need external recognition, analyze why – and if – it really matters, and see how to reach your goals without obvious support.
+* If you need external recognition, analyze why – and if – it really matters, and see [how to reach your goals without obvious support](/articles/how-handle-deal-with-criticism-work-family/).
 
 {{< figure src="/article_images/effective-delegation-tasks-authority-workplace-img2.jpg" alt="How to overcome the obstacles to successful delegation" caption="photo by \@shvetsa on Pexels">}}
 
@@ -160,7 +160,7 @@ You wouldn’t want to micromanage them – it’s annoying, kills the drive for
 
 But you need to be aware of the progress and hold them accountable. Instead of nudging them for updates, agree on where you could see the updates on their progress.
 
-It could be done, for example, via regular email summary updates or a Kanban board where you could check the status of the tasks.
+It could be done, for example, via regular email summary updates or a [Kanban board where you could check the status of the tasks](/articles/workflow-automation-project-management/).
 
 
 

@@ -106,7 +106,7 @@ A **constructive conversation** depends on:
 
 
 
-* How comfortable you feel with this person and how much you trust them.
+* How comfortable you feel with this person and [how much you trust them](/articles/who-to-trust-red-green-flags/).
 * How willing they are to listen without judgment.
 * Whether they can respect your opinions and decisions, even if they are different from their own.
 
