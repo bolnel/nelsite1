@@ -2,7 +2,7 @@
   
   <url>
     <loc>https://ninel.work/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -12,7 +12,7 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -22,11 +22,31 @@
   
   <url>
     <loc>https://ninel.work/categories/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/personal-growth/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/personal-growth/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/who-to-trust-red-green-flags/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/who-to-trust-red-green-flags/"
                 />
   </url>
   
@@ -87,16 +107,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/impostor-syndrome-how-overcome/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/personal-growth/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/personal-growth/"
                 />
   </url>
   
