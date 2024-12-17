@@ -36,7 +36,6 @@ Or they can be scheduled, usually used for rearranging task to bring the most to
 ## Advantages of using automations in your workflows
 
 
-
 * Streamlining repetitive actions
 * Reducing human error
 * Pinging teammates and employees
