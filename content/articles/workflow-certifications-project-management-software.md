@@ -16,7 +16,7 @@ Did you ever have this “duh” feeling when you learned about a feature or sho
 
 There are many project and workflow management tools on the market. ClickUp, Jira, and Notion are some of the most popular ones, but there are many others.
 
-Is it worth investing your time in learning more about the tools that you use and the principles of organizing efficient workflows? Definitely.
+Is it worth investing your time in learning more about the tools that you use and the [principles of organizing efficient workflows](/articles/workflow-setup-principles-trello-asana-clickup-notion/)? Definitely.
 
 But is it worth spending time diving deeper and passing the certification exam? You don’t always have to spend money – some credentials can be obtained completely for free.
 

@@ -198,6 +198,8 @@ However, reading the explanations for the answers, it was fascinating to get a d
 
 It felt like looking into the source code of elaborate software that is very specialized and most people who have it installed actively use only a handful of its functions. If nothing else, I admire it as a piece of art.
 
+**Related**: [Should I get a certification in ClickUp, Jira or Notion?](/articles/workflow-certifications-project-management-software/).
+
 
 ## Conclusions and lessons learned
 

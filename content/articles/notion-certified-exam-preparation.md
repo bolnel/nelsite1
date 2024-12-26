@@ -39,7 +39,7 @@ In this article, I’ll describe my experience with the certification exams and 
 
 Certifications enhance your professional profile, but [the biggest benefit of getting certified](/articles/are-certifications-worth-it/) is the knowledge and insights you get as you prepare for the exam.
 
-Notion certification exams are mostly about the familiarity with the specific piece of software. While it’s nice to have a good idea of what a specific tool could offer, it’s something you can get familiar with after looking through the main feature walkthrough and some experimentation. Notion-related materials only briefly touch on the principles of efficient workflow organization.
+Notion certification exams are mostly about the familiarity with the specific piece of software. While it’s nice to have a good idea of what a specific tool could offer, it’s something you can get familiar with after looking through the main feature walkthrough and some experimentation. Notion-related materials only briefly touch on the [principles of efficient workflow organization](/articles/workflow-setup-principles-trello-asana-clickup-notion/).
 
 
 ### Should I get Notion certified as a project manager?

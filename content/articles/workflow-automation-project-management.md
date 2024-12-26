@@ -11,7 +11,7 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-There are a few components to setting up smooth and efficient workflows in PM software. One of them is automation – when used to its full potential, it provides a great boost to various components of the flow and improves the quality of life of the team.
+There are a few components to [setting up smooth and efficient workflows in PM software](/articles/workflow-setup-principles-trello-asana-clickup-notion/). One of them is automation – when used to its full potential, it provides a great boost to various components of the flow and improves the quality of life of the team.
 
 In this article, I’ll dive into comparison of what different PM tools offer with their automation. Use the Contents section below to jump to the tool you consider using in your workflow.
 

@@ -228,3 +228,5 @@ As you delegate the tasks and responsibilities, consider what you’ll do instea
 * Just have some rest and decompress.
 
 Whatever it is, it has to be a conscious decision. Don’t just let the other tasks expand and take up the time you freed up.
+
+**Related**: [Workflow organization principle in project management tools](/articles/workflow-setup-principles-trello-asana-clickup-notion/).
