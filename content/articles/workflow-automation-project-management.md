@@ -163,7 +163,7 @@ If you’re looking for [an expert to set up, optimize and automate your Trello 
 
 ## Automation in Monday.com
 
-[Monday.com automations](Monday.com) are simple and intuitive to use. You can add multiple actions to the same trigger, and there are options to narrow down the trigger condition.
+[Monday.com automations](https://support.monday.com/hc/en-us/articles/360001222900-Get-started-with-monday-automations) are simple and intuitive to use. You can add multiple actions to the same trigger, and there are options to narrow down the trigger condition.
 
 You can assign tasks to teams in Monday.com.
 

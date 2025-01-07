@@ -207,7 +207,7 @@ Burnout is mostly a mental phenomenon, but our mental state greatly depends on h
 
 
 * **Are you getting enough sleep?** Even a few days of sleep deprivation have noticeable effects on your well-being. Your body needs to heal and restore. Here are some [tips to fix your sleep schedule](https://www.healthline.com/health/healthy-sleep/how-to-fix-sleep-schedule).
-* **Are your eating habits healthy?** Batch-plan the meals beforehand and use other tricks to [develop healthy eating habits](https://www.cdc.gov/healthyweight/losing_weight/eating_habits.html).
+* **Are your eating habits healthy?** Batch-plan the meals beforehand and use other tricks to [develop healthy eating habits](https://www.cdc.gov/healthy-weight-growth/losing-weight/improve-eating-habits.html).
 * **Is your workplace well-lit and comfortable?** Insufficient lighting, an uncomfortable chair, a cramped space, or a cluttered desk make for an unpleasant experience and enhance the influence of other stress factors.
 * **Do you move enough and exercise?** Exercise is great for reducing stress. Being physically active also helps with sleep issues and improves the overall mental state. Some advice on [overcoming obstacles to exercise.](https://www.helpguide.org/articles/healthy-living/the-mental-health-benefits-of-exercise.htm)
 

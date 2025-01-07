@@ -38,7 +38,7 @@ Those points could be applied on a personal level as well.
 
 ## Why is nobody 100% trustworthy?
 
-Usually you can’t completely and utterly rely on a person in *all *aspects:
+Usually you can’t completely and utterly rely on a person in *all* aspects:
 
 
 

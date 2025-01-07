@@ -95,6 +95,8 @@ In this scenario, the hiring decisions are fully in the hands of the business ow
 
 At this point, it’s more of a question of choosing people who have the right skills and the approach that aligns with the business owner’s vision.
 
+*Related*: [How to hire competent people](/articles/hire-competent-freelancers-employees/)
+
 It's a good practice to **document your processes** –  will bring clarity about what can be streamlined and improved and in which areas you can delegate. Documentation will help with the smooth transition of the tasks.
 
 The rest of the article will be geared towards people in managerial roles – or, more generally, those who don’t have the full freedom to define the set of people they deal with and have to make the most out of the current situation.

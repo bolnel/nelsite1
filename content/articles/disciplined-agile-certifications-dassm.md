@@ -226,7 +226,7 @@ Most probably you’re not completely new to Agile, so your experience would be 
 
 ## What comes after DASSM: Disciplined Agile Coaching and Consultancy
 
-There’s yet another level to Disciplined Agile Certifications: [Disciplined Agile Coach](https://www.pmi.org/certifications/become-a-project-manager/dac) (DAC) and [Disciplined Agile Value Stream Consultant](https://www.pmi.org/certifications/become-a-project-manager/davsc) (DAVSC).
+There’s yet another level to Disciplined Agile Certifications: [Disciplined Agile Coach](https://www.pmi.org/certifications/agile-certifications/disciplined-agile-coach-dac) (DAC) and [Disciplined Agile Value Stream Consultant](https://www.pmi.org/certifications/agile-certifications/disciplined-agile-value-stream-consultant-davsc) (DAVSC).
 
 DAC is oriented towards coaching teams, and DAVSC is more about organizational transformations.
 
