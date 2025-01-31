@@ -1,8 +1,8 @@
 +++
-title = "PMP vs. PRINCE2: Which Certification Should You Get in 2024?"
+title = "PMP vs. PRINCE2: Which Certification Should You Get in 2025?"
 description = "PMP is recognized worldwide, but PRINCE2 is also a well-known and respected project management certification. Which one is the best for you?"
 date = "2023-01-09"
-lastmod = "2024-01-02"
+lastmod = "2025-01-02"
 slug = "pmp-prince2-certifications-differences"
 featured = "/article_images/pmp-prince2-certifications-differences-hero.jpg"
 thumbnail = "/article_images/pmp-prince2-certifications-differences-thumbnail.jpg"

@@ -61,12 +61,6 @@ article h2:after {
   background: #621f7a;
 }
 
-/* Note above the AddThis buttons */
-.article_share_prompt {
-  margin-bottom: 10px;
-  color: gray;
-}
-
 /* Table of Contents styling */
 .toc {
   background: #f7f7f7;
@@ -188,29 +182,15 @@ article h2:after {
   .subscription_form h3 {margin: 0;}
 }
 
-/* Classes for the Pin button */
-.pinnable {position: relative;}
-.pinnable img {margin: 0 auto;}
-
-img.pinbutton {
-  display: none;
-  position: absolute;
-  top: 10px;
+/* Workflow ad images */
+.workflow_ad_vertical {
+  position: fixed;
+  top: 300px;
   right: 10px;
-  width: 80px;
-  height: 33px;
-  z-index: 10;
 }
 
-@media only screen and (min-width: 540px) {
-  .imgnarrow img.pinbutton { /* for narrow images like quotes */
-    top: 15px;
-    right: 140px;
+@media only screen and (max-width: 1300px) {
+  .workflow_ad_vertical {
+    display: none;
   }
-}
-.pinnable .pinbutton {display: block;}
-
-.page_button {
-  display: block;
-  text-align: center;
 }

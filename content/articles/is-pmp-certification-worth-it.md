@@ -1,8 +1,8 @@
 +++
-title = "Is PMP Certification Worth It in 2024? Costs vs. Benefits"
+title = "Is PMP Certification Worth It in 2025? Costs vs. Benefits"
 description = "As the world adopts Agile approaches, you might be wondering: is PMP still relevant? Let's break down the benefits and costs of getting PMP-certified."
 date = "2023-01-15"
-lastmod = "2024-01-02"
+lastmod = "2025-01-02"
 slug = "is-pmp-certification-worth-it"
 featured = "/article_images/is-pmp-certification-worth-it-hero.jpg"
 thumbnail = "/article_images/is-pmp-certification-worth-it-thumbnail.jpg"
