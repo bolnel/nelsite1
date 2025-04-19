@@ -194,3 +194,13 @@ article h2:after {
     display: none;
   }
 }
+
+/* CTA button on the pages */
+.page_button {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 30px auto 20px auto;
+  text-align: center;
+  border: none;
+}
