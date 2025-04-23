@@ -30,7 +30,7 @@ This page highlights the services I provide, applied to ClickUp specifically. Fe
 
 I've set up workspaces for companies in various industries, but even when the area of expertise is the same, there are many small differences in the way each business operates. Your ClickUp workspace should be tailored to your process, factoring in the tools you're using, your unique needs, company culture, and other factors.
 
-After an initial call to understand your processes and requirements, I’ll translate them into an organized, scalable ClickUp structure using [best practices for workflow setup](/workflow-setup-principles-trello-asana-clickup-notion/).
+After an initial call to understand your processes and requirements, I’ll translate them into an organized, scalable ClickUp structure using [best practices for workflow setup](/articles/workflow-setup-principles-trello-asana-clickup-notion/).
 
 ## Integration specialist to level up ClickUp with Make, Zapier, or n8n
 
