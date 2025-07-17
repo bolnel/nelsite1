@@ -140,4 +140,4 @@ Most often, it seems [intuitively clear](/articles/develop-intuition-learning-se
 
 But I want it to always be a conscious decision. Unwrap it all and pack it back into boards that all fit together like well-placed puzzle pieces that make up your organization.
 
-And once again, if you need any assistance with [creating or optimizing the workspace architecture and flows in ClickUp, Trello, Monday.com, Asana, Notion](Monday.com) or any other PM tool, and perhaps with integrating various other tools via Zapier or Make.com, get in touch for a free intro call to discuss your situation and how I can help.
+And once again, if you need any assistance with [creating or optimizing the workspace architecture and flows in ClickUp, Trello, Monday.com, Asana, Notion](/workflow-setup-automation-expert-specialist-hire/) or any other PM tool, and perhaps with integrating various other tools via Zapier or Make.com, get in touch for a free intro call to discuss your situation and how I can help.

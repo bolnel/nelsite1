@@ -22,7 +22,7 @@ My certifications include [PMP](/articles/pmp-certification-exam-preparation/) a
 
 
 
-* Architecting workflows in project management tools like Trello, Asana, [Monday.com](/services/monday-expert-for-hire/), [ClickUp](/services/clickup-expert-for-hire/), Notion and more.
+* Architecting workflows in project management tools like Trello, Asana, [Monday.com](/services/hire-monday-expert-setup-automation/), [ClickUp](/services/hire-clickup-expert-workspace-automation/), Notion and more.
 * Using  connectors like Zapier or Make.com to create a fully integrated workspace.
 * Workflow audit – investigating the current and potential issues with your flows and advising on how to solve them.
 

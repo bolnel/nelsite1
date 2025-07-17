@@ -30,7 +30,7 @@ This page will highlight some of the services I offer applied to Monday.com. Fee
 
 Even when companies operate in the same industry, everyone’s workflows have their own peculiarities. Workspace setup also needs to be tailored to make the most sense for your process, accounting for your particular needs, other tools you’re using, your company culture, and other factors.
 
-Once I get a solid idea of your current flows and requirements on our intro call, I’ll translate them into the workspace setup using best practices and [workflow organization principles](/workflow-setup-principles-trello-asana-clickup-notion/).
+Once I get a solid idea of your current flows and requirements on our intro call, I’ll translate them into the workspace setup using best practices and [workflow organization principles](/articles/workflow-setup-principles-trello-asana-clickup-notion/).
 
 
 ## An expert to integrate Monday.com with other tools via Make.com, Zapier or n8n
