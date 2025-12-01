@@ -610,4 +610,13 @@
                 />
   </url>
   
+  <url>
+    <loc>https://ninel.work/articles/ai-application-project-management/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/ai-application-project-management/"
+                />
+  </url>
+  
 </urlset>
