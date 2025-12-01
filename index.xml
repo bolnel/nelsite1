@@ -6,8 +6,15 @@
     <description>Recent content on Personal and Professional Development via Life-Long Learning</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ninel.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging AI in Project Management: Practical Tips</title>
+      <link>https://ninel.work/articles/ai-application-project-management/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ninel.work/articles/ai-application-project-management/</guid>
+      <description>&lt;p&gt;Generative AI took the world by storm. It made a difference in many fields, and it could certainly help in project management work in ways that go beyond summaries and reports.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://ninel.work/article_images/ai-application-project-management-hero.jpg&#34;&#xA;         alt=&#34;Using AI in project management&#34;loading=&#34;lazy&#34;/&gt;&lt;figcaption&gt;&#xA;            &lt;p&gt;photo by @steve on Pexels&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;div class=&#34;toc&#34;&gt;&#xA;  &lt;label for=&#34;show_contents&#34;&gt;CONTENTS  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;  ⇅&lt;/label&gt;&#xA;  &lt;input id=&#34;show_contents&#34; type=&#34;checkbox&#34; name=&#34;_toc&#34;&gt;&#xA;         &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#free-courses-on-using-ai-for-project-managers&#34;&gt;Free courses on using AI for project managers&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#ai-in-project-management-beyond-the-meeting-summaries&#34;&gt;AI in project management: beyond the meeting summaries&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#gen-ai-setup-for-a-project-management-flow&#34;&gt;Gen AI setup for a project management flow&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#using-gen-ai-in-agile-and-waterfall-projects&#34;&gt;Using Gen AI in Agile and Waterfall projects&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#generating-traditional-pm-structures&#34;&gt;Generating traditional PM structures&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#uncovering-patterns-and-predicting-trends&#34;&gt;Uncovering patterns and predicting trends&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#risk-calculation&#34;&gt;Risk calculation&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#market-research-and-analysis&#34;&gt;Market research and analysis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#creating-internal-and-stakeholder-reports&#34;&gt;Creating internal and stakeholder reports&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#generative-ai-as-an-expert-opponent&#34;&gt;Generative AI as an expert opponent&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#considerations-for-using-ai-in-project-work&#34;&gt;Considerations for using AI in project work&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#insights-are-only-as-good-as-the-data-is&#34;&gt;Insights are only as good as the data is&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ai-and-access-to-confidential-data&#34;&gt;AI and access to confidential data&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#will-ai-take-the-jobs-of-project-managers&#34;&gt;Will AI take the jobs of project managers?&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#whats-the-best-ai-model-to-use-in-project-management&#34;&gt;What’s the best AI model to use in project management?&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;free-courses-on-using-ai-for-project-managers&#34;&gt;Free courses on using AI for project managers&lt;/h2&gt;&#xA;&lt;p&gt;Project Management Institute offers a free course on using AI, &lt;a href=&#34;https://www.pmi.org/shop/tc/p-/elearning/practical-application-of-generative-ai-for-project-managers/el173&#34;&gt;Practical Application of Generative AI for Project Managers&lt;/a&gt;. Another helpful free course by PMI is &lt;a href=&#34;https://www.pmi.org/shop/tc/p-/elearning/talking-to-ai-prompt-engineering-for-project-managers/el128&#34;&gt;Talking to AI: Prompt Engineering for Project Managers&lt;/a&gt;. Passing them would yield PDUs and a Credly badge, and, of course, valuable insights on using AI in your project work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hire a ClickUp Expert – Advanced Workflow Setup &amp; Automation</title>
       <link>https://ninel.work/services/hire-clickup-expert-workspace-automation/</link>
@@ -392,13 +399,6 @@
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ninel.work/articles/are-certifications-worth-it/</guid>
       <description>&lt;p&gt;If the job you seek requires a license, then making a decision is easy – you don&amp;rsquo;t really have a choice. Licensure and certification are both means of verifying your skills and expertise, but they have some &lt;a href=&#34;http://www.differencebetween.net/language/words-language/difference-between-certification-and-licensure/&#34;&gt;distinct differences&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a nutshell, a license is issued by a government authority and is legally required to practice in a field or hold a certain title. Certification is voluntary, serving as a reassurance to your peers and clients that you meet specific qualifications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://ninel.work/articles/ai-application-project-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ninel.work/articles/ai-application-project-management/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
