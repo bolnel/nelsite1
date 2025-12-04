@@ -20,22 +20,6 @@
     btnMenu.addEventListener('click', () => {
       htmlClass.toggle('open');
     });
-
-    // init
-    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-    const darkVal = localStorage.getItem('dark');
-    setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
-
-    // listen system
-    darkScheme.addEventListener('change', (event) => {
-      setDark(event.matches);
-    });
-
-    // manual switch
-    const btnDark = document.querySelector('.btn-dark');
-    btnDark.addEventListener('click', () => {
-      setDark(localStorage.getItem('dark') !== 'true');
-    });
   </script>
 
   <div
