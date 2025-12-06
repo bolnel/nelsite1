@@ -266,4 +266,4 @@ But in 2023, PeopleCert, the issuer of Axelos certifications, made it mandatory 
 
 1. **Retaking the original exam** (PRINCE2 Agile Foundation or Practitioner) before the renewal date.
 2. **Taking another exam within the same product suite**. PRINCE2 Agile is in the _Project, Programme & Portfolio Management_ Product Suite, along with the original PRINCE2, Management of Value (MoV), and a few other project management certifications.
-3. **Collecting the Continuing Professional Development (CPD) points** by [performing learning and professional activities](https://www.axelos.com/for-professionals/my-axelos/cpd-requirements), and logging the CPD points in your MyAxelos dashboard.
+3. **Collecting the Continuing Professional Development (CPD) points** by performing learning and professional activities, and logging the CPD points in your MyAxelos dashboard. [Here's the CPD points guide by PeopleCert (PDF)](https://www.peoplecert.org/-/media/peoplecert/pages/certification-renewal/cpd_guide.pdf)
