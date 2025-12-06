@@ -155,7 +155,7 @@ But they give the option to [pass the DA knowledge check](https://www.pmi.org/ce
 
 ## DASM and DASSM certification costs
 
-The only way to obtain a Disciplined Agile certification is via passing a training course that culminates in an exam. In both cases, you get 14 hours of learning and gain 14 PDUs.
+The only way to obtain a Disciplined Agile certification is via passing a training course that culminates in an exam. In both cases, you get 14 hours of learning and gain [14 PDUs](/articles/how-get-free-pdu-pmp-renewal/).
 
 There are two options: the official self-paced training course or choosing from a number of instructor-led courses.
 

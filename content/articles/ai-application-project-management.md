@@ -21,7 +21,7 @@ Generative AI took the world by storm. It made a difference in many fields, and 
 
 ## Free courses on using AI for project managers
 
-Project Management Institute offers a free course on using AI, [Practical Application of Generative AI for Project Managers](https://www.pmi.org/shop/tc/p-/elearning/practical-application-of-generative-ai-for-project-managers/el173). Another helpful free course by PMI is [Talking to AI: Prompt Engineering for Project Managers](https://www.pmi.org/shop/tc/p-/elearning/talking-to-ai-prompt-engineering-for-project-managers/el128). Passing them would yield PDUs and a Credly badge, and, of course, valuable insights on using AI in your project work.
+Project Management Institute offers a free course on using AI, [Practical Application of Generative AI for Project Managers](https://www.pmi.org/shop/tc/p-/elearning/practical-application-of-generative-ai-for-project-managers/el173). Another helpful free course by PMI is [Talking to AI: Prompt Engineering for Project Managers](https://www.pmi.org/shop/tc/p-/elearning/talking-to-ai-prompt-engineering-for-project-managers/el128). Passing them would [yield PDUs](/articles/how-get-free-pdu-pmp-renewal/) and a Credly badge, and, of course, valuable insights on using AI in your project work.
 
 This article started with the notes I took going through the Gen AI course, with more ideas and insights based on research and experience.
 

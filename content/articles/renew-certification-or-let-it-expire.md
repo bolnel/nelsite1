@@ -154,7 +154,7 @@ As you know, besides the renewal fee, the certification providers require a cert
 
 Here are a few examples, linked to the guides on unit requirements and ways of earning them:
 
-* PDU for PMP and other PMI certifications
+* [PDU for PMP](/articles/how-get-free-pdu-pmp-renewal/) and other PMI certifications
 * CEU for Security+ and other CompTIA credentials
 * [SEU for CSM](/articles/how-to-get-seu-for-csm-renewal/) and other certifications by Scrum Alliance
 

@@ -257,6 +257,8 @@ The Foundation-level certifications didn’t expire before 2023.
 
 But in 2023, PeopleCert, the issuer of Axelos certifications, made it mandatory to [renew Global Best Practice certifications](https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-foundation) every 3 years. This includes PRINCE2 Agile Foundation.
 
+**Related**: [Should I renew my professional certification or let it lapse?](/articles/renew-certification-or-let-it-expire/)
+
 
 ### Ways of renewing the PRINCE2 Agile credentials
 
