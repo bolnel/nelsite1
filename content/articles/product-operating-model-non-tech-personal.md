@@ -166,7 +166,7 @@ According to the author, on-premises teams are better than remote. Because, whil
 
 I’d argue that product discovery and collaboration is quite possible on remote, though it does take more coordination and willingness to collaborate. But [that goes for anything remote]( /articles/find-maintain-work-life-balance-home/) – being successful in this format depends on all parties involved being driven, autonomous and proactive.
 
-Related: Overcoming challenges of remote work.
+**Related**: [Overcoming challenges of remote work](/articles/find-maintain-work-life-balance-home/).
 
 
 ## Agile POM by Scrum.org

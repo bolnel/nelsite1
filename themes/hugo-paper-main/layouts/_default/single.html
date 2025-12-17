@@ -34,17 +34,9 @@
   </footer>
   {{ end }}
 
-  {{ if .Params.no_socials }}
-  <!-- Don't render AddThis -->
-  {{ else }}
-  <!-- Add This. Go to www.addthis.com/dashboard to customize -->
-  <!-- Removed the script to improve speed, might add later
-
-  <p class="article_share_prompt">If you liked the article, feel free to bookmark or share it:</p>
-
-  -->
+  {{ if eq .Type "articles" }}
+    {{ partial "author-bio.html" . }}
   {{ end }}
-
 
 
   <!-- Post Nav -->
