@@ -1,8 +1,8 @@
 +++
-title = "PMP Certification Exam Preparation: the Full Guide"
+title = "PMP Certification Exam Preparation Guide: Resources & Tips"
 description = "PMP is the most famous project management certification in the world. How to prepare for the exam to pass it on the first try?"
 date = "2023-01-29"
-lastmod = "2023-01-29"
+lastmod = "2025-12-10"
 slug = "pmp-certification-exam-preparation"
 featured = "/article_images/pmp-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/pmp-certification-exam-preparation-thumbnail.jpg"
@@ -14,19 +14,11 @@ categories = ["Professional growth"]
 
 So, here we are at last.
 
-You’re sure that [project management is the right career for you](/articles/is-project-management-right-for-me/).
+You’re sure that [project management is the right path for you](/articles/is-project-management-right-for-me/).
 
-You feel that you acquired enough professional experience to apply for the most famous project management certification in the world.
+You've acquired enough professional experience to apply for the most famous project management certification in the world. All you need to do is to get ready and book your exam.
 
-And it’s a great time to do it! Today, the PMP certification is more accessible than it has ever been before:
-
-
-
-* Simplified work experience requirements.
-* An option to take a proctored test remotely.
-* Since early 2023, the pricing is region-based, so the exam got more affordable for many potential applicants.
-
-You’re going to get ready for the PMP exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). Let’s do this.
+In this article, you'll find practical advice and study materials to prepare for the PMP exam and [pass it on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/). Let’s do this.
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-hero.jpg" alt="The ultimate guide to prepare for the project management professional (PMP) certification exam." caption="photo by \@jessbaileydesign on Pexels" >}}
 
@@ -68,16 +60,16 @@ There are many training providers accredited by PMI who offer courses for PMP pr
 
 The go-to option for most people is the [PMP exam prep course](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/) by Andrew Ramdayal. The course is affordable and covers the entirety of the Exam Content Outline in an accessible way.
 
-If you have an active CAPM certification, it satisfies the requirement, so you don’t have to submit additional 35 contact hours.
+If you have an [active CAPM certification](/articles/capm-certification-exam-preparation/), it satisfies the requirement, so you don’t have to submit additional 35 contact hours.
 
-**Related**: [Preparing for the CAPM certification exam](/articles/capm-certification-exam-preparation/).
+Note: don't confuse contact hours with PDUs. Contact hours are submitted as proof of training when you apply for your PMP certification, and [Professional Development Units](/articles/how-get-free-pdu-pmp-renewal/) are required to maintain your active PMP status. See more in the "certification maintenance" section below.
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img1.jpg" alt="To be eligible for PMP, you need meet the academic and experience requirements." caption="photo by \@mart-production on Pexels" >}}
 
 
 ## How much does the PMP certification cost?
 
-PMP certification exam used to have a flat price of $405 for PMI members and $555 for non-members, no matter which region you’re from. But in early 2023, to address economic barriers, PMI **made the exam and membership pricing flexible**.
+To make the certification more accessible in regions with varying economic situation, PMI **made the exam and membership pricing flexible**.
 
 Visit the [PMP exam page](https://www.pmi.org/certifications/project-management-pmp) to see what the cost is for your country (it changes automatically based on your IP).
 
@@ -88,41 +80,42 @@ Besides the exam fee, you need to count in the exam preparation and certificatio
 **Related**: [Is PMP worth it: costs vs benefits breakdown](/articles/is-pmp-certification-worth-it/).
 
 
-## Is the PMP exam hard? How did the exam change?
+## How hard is the PMP exam? Is the new version more difficult?
 
-I could say right away: the PMP exam is easier than it used to be.
-
-Pre-2021, a noticeable percentage of test takers didn’t pass the test on the first try. Anecdotal evidence suggests the pass rate was around 70%.
-
-In recent years, if you look at the forum where people share their test outcomes, there’s hardly a post about a failure. The forums are filled with happy PMPs, many of whom got Above Target across all three domains.
-
-This doesn’t mean that the test is easy.
-
-<p class="paragraph_highlight">There’s less memorization, less math, and more reliance on understanding the concepts, soft skills, and an Agile mindset.</p>
-
-The PMP exam went from notoriously hard to challenging but approachable. You still need to put a lot of effort into preparation – but now it’s less of a gamble whether your hard effort will pay off on the first try.
+Years ago, the PMP exam was extremely challenging, mostly due to the sheer number of processes and formulas you had to memorize. Now, you still need to learn a lot, but the test is more about the understanding and practical application of the concepts.
 
 Aim to get around 80% right on the simulators to confidently apply for the exam.
+
+### What are the PMP certification exam topics?
+
+PMI constantly follows emerging project management trends and best practices.
+
+The exam used to test the knowledge of five traditional project management domains: Initiating, Planning, Executing, Monitoring and Controlling, and Closing. Since 2021, the PMP exam focuses on three domains: **People, Process**, and **Business Environment**.
+
+Download the [exam content outline](https://www.pmi.org/certifications/project-management-pmp/pmp-exam-preparation) to see how the domains break into topics and tasks. Note: this outline will only be relevant till July 2026, when the new version of the PMP exam rolls out.
+
+### July 2026 PMP Exam version – what changes
+Here are the main changes announced for the new version. Download the revised [PMP exam content outline](https://www.pmi.org/certifications/project-management-pmp/new-exam) to learn more.
+- The three domains will have an almost equal number of questions each (now, Business Environment domain only takes 8% of questions – the percentage will bump to 26%.)
+- Addressing the new trends, like [the use of AI](/articles/ai-application-project-management/), and sustainability.
+- Higher empathis on real-life project dynamics, more interactive and scenario-based questions.
+
+**Related**: [Free Generative AI courses by PMI](/articles/ai-application-project-management/).
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img2.jpg" alt="How many questions are there on the PMP certification exam, and what are the question types?" caption="photo by \@andy-barbour on Pexels" >}}
 
 
-## PMP exam details
+## PMP exam time limit and question types
 
-There are **180 questions** in the PMP exam. 5 of them are trial, unscored questions that might be added to the main exam pool in the future.
+The updated exam version still has **180 questions**. 10 of them are trial, unscored questions that might be added to the main exam pool in the future.
 
-You have **230 minutes**, or a little under 4 hours, to answer the questions.
+The participants have **240 minutes**, 4 hours, to answer the questions. That's around 1 minute 20 seconds per question on average, but most questions actually take less than half a minute to answer. That's why it's important to practice and have a good understanding of the [Agile mindset](/articles/develop-agile-mindset-guide/) and the exam concepts – there's not much time to ponder during the test, you'll need to see what the right answer is right after reading the question.
 
 After the 60th and the 120th questions of the exam, you could take optional 10-minute breaks that don’t count toward your time.
 
+Besides single-choice and multiple-choice, the PMP exam contains interactive questions where you’re asked to match a few items, select an area on an image, and so on.
 
-### PMP question types
-
-Most of the PMP exam questions have a single correct answer, but there are also questions where you need to select more than one option.
-
-The exam contains interactive questions where you’re asked to match a few items, select an area on an image, and so on.
-
-At the moment, the PMP exam doesn’t have essay questions (where you need to type in the answers).
+There are no essay questions (where you need to type in the answers).
 
 
 ### Is PMP open book or proctored?
@@ -139,24 +132,7 @@ But in an authorized testing center, you don’t have to worry about the technic
 **Related**: [Pros and cons of online proctored testing](/articles/online-proctored-testing-pros-cons/).
 
 
-## How to successfully pass the PMP certification exam
-
-First of all, check out the article dedicated to general exam preparation tips, techniques, and mindset:
-
-[How to pass a certification exam on the first try](/articles/how-pass-certification-exam-test-first-try-tips-techniques/).
-
-In the following sections, we’ll concentrate on the PMP domains and the specific materials for learning and practicing.
-
 {{< ebook-subscribe >}}
-
-
-### What are the PMP certification exam topics?
-
-PMI constantly follows emerging project management trends and best practices. In early 2021, the PMP test had a major overhaul.
-
-The exam used to test the knowledge of five traditional project management domains: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
-
-Since 2021, the PMP exam focuses on three domains: **People, Process**, and **Business Environment**.
 
 
 ## PMP Domain 1: People. Getting into the mindset
@@ -197,22 +173,9 @@ This domain is about the tasks and processes associated with traditional project
 Traditional project management processes and knowledge areas are covered in detail in the [PMP exam prep course](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/) by Andrew Ramdayal. The course also covers the Agile topics from the Exam Content Outline.
 
 
-### Rita Mulcahy preparation materials for PMP
+### Process Chart games by Rita Mulcahy
 
-For decades, the [PMP exam prep book](https://rmcls.com/pmp-exam-prep/) by Rita Mulcahy was considered a must-read for anyone who aims to pass the PMP exam.
-
-The book is mostly focused on traditional project management processes. As the exam shifted towards Agile and the remaining Process domain questions became less tricky, you might be wondering if the book is still relevant.
-
-While Andrew's course would be sufficient for understanding the PM processes at the level needed to pass the exam, Rita’s book enhances the topics with a wealth of nuance and detail.
-
-<p class="paragraph_highlight">Exam or not, Rita’s book is a great read from a professional growth perspective.</p>
-
-
-### Do I need to memorize process groups and ITTOs for the PMP exam?
-
-Thankfully, not anymore. But you do need to have a solid understanding of what activities occur in each process group and how they’re interconnected.
-
-[Process Chart Game](https://rmcls.com/process-chart-game-v10/) by Rita Mulcahy helps with learning which activities belong to each of the five process groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
+[Process Chart Game](https://rmcls.com/process-chart-game-v10/) by Rita Mulcahy helps with learning which activities belong to each of the five Waterfall process groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
 
 The game **doesn’t break** the processes down into 10 knowledge areas (Scope, Schedule, Resource Management, and others). But if you know which process group the activity is in, it’s usually easy to figure out which knowledge area it belongs to.
 
@@ -225,14 +188,14 @@ You could also try Rita’s [Agile Process Chart Game](https://rmcls.com/agile-p
 
 The third domain on the PMP exam covers the topics on long-term and organizational levels:
 
-
-
-* Evaluating project benefits
+* Estimating project benefits
 * Managing project compliance
 * Reviewing external business environment for its effects on project scope
 * Supporting organizational culture
+* Risk planning and management
+* Evaluating impact on external business environment
 
-Those topics are addressed in the materials of the second, Process domain.
+
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img4.jpg" alt="Which preparation materials can I use to get ready for the PMP exam?" caption="photo by \@shvetsa on Pexels" >}}
 
@@ -250,7 +213,7 @@ If you're confused or wrong about a few questions in a row, it means you should 
 
 ### PMI Study Hall practice exams
 
-Released in 2022, [PMI Study Hall](https://www.pmi.org/certifications/certification-resources/pmi-study-hall) is an official PMP preparation app by PMI. Here’s a demo by PMI that shows its features:
+[PMI Study Hall](https://www.pmi.org/certifications/certification-resources/pmi-study-hall) is an official PMP preparation app by PMI. Here’s a demo by PMI that shows its features:
 
 {{< youtube 2AMUotMRrvc >}}
 
@@ -272,23 +235,23 @@ If we add up all questions, PMI Study Hall Essentials ends up having 775, while 
 
 I think it’s a worthy upgrade, especially since the questions are provided by the official exam provider.
 
-How to maximize the value of PMI Study Hall and not feel overcharged:
-
-
+### How to maximize the value of PMI Study Hall and not feel overcharged:
 
 * Come prepared. Before you sign up for Study Hall, read the other study materials and finish the [PMP exam prep course](https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/). The course also has over 400 exam-like questions for you to practice.
 * Turn off the subscription auto-renew feature in the Study Hall app. You could manually renew in three months if you feel like it, but you’ll probably pass your PMP exam by that time.
 
+## Are there free PMP exam simulators?
+No scored PMP-like exam is actually free, but you could emulate the experience. There's a long video by David McLachlan discussing the answers to 200 Agile questions:
 
-### 200 Agile questions with explanations – a free simulator-like experience
-
-Another resource is an almost 7-hour-long video by David McLachlan discussing the answers to 200 Agile questions.
 
 {{< youtube tNIHysh2ZW4 >}}
 
-Of course, you shouldn't passively watch seven hours of video. Iterate on a 3-step action plan:
+And to 150 Waterfall questions:
 
+{{< youtube Zht0-j03NfQ >}}
 
+### How to use the video as the exam simulator
+Of course, you shouldn't passively watch seven hours of each video. Iterate on a 3-step action plan:
 
 1. Open the video, pause it, and navigate with the left and right keys on your keyboard (skipping the video 5 seconds forward per click).
 2. When a question appears on the screen, consider the options, note the answer, then make a few skips until David shows the correct answer.
@@ -296,12 +259,8 @@ Of course, you shouldn't passively watch seven hours of video. Iterate on a 3-st
 * You chose the correct option, but it was a semi-guess. You couldn’t give a confident explanation why you picked this specific one.
 * You chose the wrong option.
 
-    Then unpause the video for this question, read and listen to the explanation given. What’s the logic behind discarding the other options and choosing this particular one?
+Then unpause the video for this question, read and listen to the explanation given. What’s the logic behind discarding the other options and choosing this particular one? You need to internalize this logic.
 
-
-The questions are relatively easy, but they’re a nice bonus for [practicing your Agile mindset](/articles/develop-agile-mindset-guide/).
-
-David also has videos related to PMBOK and Waterfall questions – check them out as well.
 
 {{< figure src="/article_images/pmp-certification-exam-preparation-img5.jpg" alt="Getting PDUs is one of the ways to stay current as a project manager" caption="photo by \@tima-miroshnichenko on Pexels" >}}
 
@@ -332,7 +291,7 @@ But it’s something we should be doing anyway. Nothing is static. Whatever does
 
 ### How to get PDU for PMP renewal
 
-You could earn PDUs by reading articles and books, volunteering, participating in events, performing professional activities, and various other ways.
+You could [earn PDUs](/articles/how-get-free-pdu-pmp-renewal/) by reading articles and books, volunteering, participating in events, performing professional activities, and various other ways.
 
 Currently, there’s no cap on the “Learning” section, so, theoretically, you could earn all your 60 PDUs by reading and watching free materials on the PMI’s website.
 
