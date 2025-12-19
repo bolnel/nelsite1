@@ -2,7 +2,7 @@
 title = "PSM III certification: Actionable Guide to Pass the Exam"
 description = "PSM III certification exam is the ultimate challenge for Scrum practitioners. We'll talk about the mindset and the strategies to pass this exam on the first try."
 date = "2022-11-17"
-lastmod = "2022-11-17"
+lastmod = "2025-12-15"
 slug = "psm-3-certification-exam-preparation"
 featured = "/article_images/psm-3-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-3-certification-exam-preparation-thumbnail.jpg"
@@ -11,11 +11,11 @@ draft = false
 categories = ["Professional growth"]
 +++
 
-PSM III certification exam is the ultimate challenge for Scrum practitioners. Out of all people who passed the PSM I test, only 0.2% went all the way up to level three.
+PSM III certification exam is the ultimate challenge for Scrum practitioners. Out of all people who passed the PSM I test, less than 0.2% went all the way up to level three.
 
-{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
+{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="PSM certification holders in 2025">}}
 
-There are just over 1000 people in the entire world who obtained the PSM III certification.
+There are just over 1200 people in the entire world who obtained the PSM III certification.
 
 But that statistic doesn't show an untold number of people who attempted the PSM 3 exam, failed, and were discouraged from ever trying again. I won't let this happen to you.
 
@@ -56,38 +56,19 @@ The point of all those metaphors is: not only do the answers have to be correct,
 {{< figure src="/article_images/psm-3-certification-exam-preparation-img1.jpg" alt="Time management is the key to successfully pass the PSM exam" caption="photo by \@jontyson on Unsplash">}}
 
 
-## Time Limit: the hardest part about the PSM III exam  
+## PSM III exam time pressure – how much time do I have per question?
 
-There are 30 questions that you need to answer in 2.5 hours (150 minutes).
+There are 24 questions that you need to answer in 2.5 hours (150 minutes). All of them are essay questions where you need to type the answer (no copy-pasting or prepared responses).
 
-Out of these, 80% are essay questions where you need to type the answer (no copy-pasting or prepared responses). The rest are multiple-answer questions.
+There used to be 6 multiple-answer questions, but they were removed, so the exam takers will need to answer the remaining essay questions within the same time frame.
 
-If we just divide 150 minutes by 30, that would give us 5 minutes per question.
+If we divide 150 minutes by 24, that would give us a little over 6 minutes per question. But keep in mind that each question might have more than one sub-question related to the scenario at hand, effectively increasing the number of questions in the exam. If, say, a third of PSM III questions have two sub-questions, you'll effectively need to answer 32 questions.
 
-You’ll actually answer multiple-answer questions faster, in under 3 minutes or less. 20% of 30 is 6, so those six multiple-answer questions will give you over 12 extra minutes to write the essay answers.
-
-However, as exciting as it is to hit the “Complete” button seconds before the timer runs out, it’s better to keep the pace that would let you double-check your answer and calmly submit the test with some time left on the clock.
-
-So, let those 12 minutes be your strategic reserve, and aim to complete each of the PSM III essay questions in **5 minutes or less**.
-
-{{< figure src="/article_images/psm-3-certification-exam-preparation-img2.jpg" alt="A guide to passing the PSM III certification exam" caption="photo by \@alexas_fotos on Unsplash">}}
-
-
-## How much time do I have per a PSM 3 exam question?
-
-Keep in mind that each question might have more than one sub-question related to the scenario at hand, effectively increasing the number of questions in the exam. Let’s imagine that a third of the essay questions consist of two sub-questions.
-
-80% of the 30 PSM III exam questions are essay. A third of them (24/3 = 8) actually contains 2 questions, which makes it 24+8, or around 32 questions that you’ll need to answer in writing.
-
-80% of the exam time is 120 minutes. Divided into 32, that equates to 3.75 minutes per question, or 3 minutes and 45 seconds.
-
-So, here’s the tangible answer on how to succeed at your PSM III exam:
-
-<p class="paragraph_highlight">You need to give a clear, concise answer, using the Scrum Guide terminology, in under 3 minutes 45 seconds.</p>
+With less questions in total, you get more time and mental energy to focus on each one. But my advice remains the same – for your own peace of mind, as you get ready for the exam, aim to complete each of the PSM III essay questions in **5 minutes or less**.
 
 As you might imagine, that would take practice.
 
-{{< ebook-subscribe >}}
+{{< figure src="/article_images/psm-3-certification-exam-preparation-img2.jpg" alt="A guide to passing the PSM III certification exam" caption="photo by \@alexas_fotos on Unsplash">}}
 
 ## PSM III exam and preparation cost
 
@@ -97,7 +78,7 @@ PSM II training [comes with a 40% discount](https://www.scrum.org/courses/profes
 
 Cost-wise, the preparation is the same as what you would do when [getting ready for PSM II](/articles/psm-2-certification-exam-preparation/).
 
-Most likely you already own the books like _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_ (3rd edition) and _[Mastering Professional Scrum](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522)_, and you took a course or a training class by a Professional Scrum Trainer. Revisit the books and course materials to refresh your knowledge.
+Most likely you already own the books like _[Scrum: A Pocket Guide](https://www.amazon.com/Scrum-Pocket-Guide-Companion-Practice/dp/9401812217/)_ (4th edition) and _[Mastering Professional Scrum](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522)_, and you took a course or a training class by a Professional Scrum Trainer. Revisit the books and course materials to refresh your knowledge.
 
 But the resource you’ll be spending the most as you prepare for PSM III is time spent practicing. It takes time to beat time.
 
@@ -120,6 +101,8 @@ What is **{{ a keyword }}** and why is it important? How does it play into empir
 Write this out for each of the Scrum values, artifacts, events, accountabilities, and all the other keywords.
 
 If you want an extra challenge, write what is the empirical importance of each of the items from the [Scrum developer glossary](https://www.scrum.org/resources/professional-scrum-developer-glossary).
+
+{{< ebook-subscribe >}}
 
 
 ### Answer the PSM II questions in an essay form

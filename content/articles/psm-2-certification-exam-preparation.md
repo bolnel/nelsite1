@@ -2,7 +2,7 @@
 title = "PSM II Certification: How to Pass the Exam Successfully"
 description = "The second level of PSM is testing your understanding of Scrum in real-life scenarios. This guide will give you practical tips to prepare for the test."
 date = "2022-11-10"
-lastmod = "2023-01-29"
+lastmod = "2025-12-14"
 slug = "psm-2-certification-exam-preparation"
 featured = "/article_images/psm-2-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-2-certification-exam-preparation-thumbnail.jpg"
@@ -23,9 +23,9 @@ In this article, you’ll find practical tips on how to prepare for the PSM II e
 
 ## How in-demand is the PSM II certification? Is it worth getting it?
 
-Among the people who passed the PSM I assessment, only around 5% went on to take PSM II.
+Among the people who passed the PSM I assessment, only around 7% went on to take PSM II. However, that's a higher percentage than before, and the total number of PSM II certification holders nearly doubled in the last few years.
 
-{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
+{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="PSM certification holders in 2025">}}
 
 The second level of PSM is definitely more of a challenge than the first. Since [the best thing about getting a certification](/articles/are-certifications-worth-it/) is the knowledge and insights you get while preparing for the exam, you’ll gain a lot from taking the PSM II test.
 
@@ -72,7 +72,7 @@ There are tons of free materials provided by Scrum.org, like their Learning Path
 
 If you prefer to receive information in a more concise and structured way, you could buy a few books, for $15-25 on average. But still, read as many extra materials as your schedule allows.
 
-If you like the video format, there are video courses, like the [Advanced Scrum Master](https://www.udemy.com/course/ultimate-scrum-master-certification-agile-scrum-training-scrum-master-prep/) course on Udemy. The regular price is $50 but could be available for under $15 under the promotions Udemy regularly runs.
+If you like the video format, there are video courses, like the [Advanced Scrum Master](https://www.udemy.com/course/ultimate-scrum-master-certification-agile-scrum-training-scrum-master-prep/) course on Udemy. It could be available for under $15 during the promotions Udemy regularly runs.
 
 Exam simulators, like this [PSM II exam simulator](https://www.udemy.com/course/scrum-master-2-6-practice-tests-scrum-guide-2021/) on Udemy, costs $20 but could be less with a promotional discount.
 
@@ -115,7 +115,7 @@ There's also a book written by Professional Scrum Trainers from Scrum.org that d
 
 ### 4. Look into Evidence-Based Management (EBM)
 
-[Read the EBM guide here](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-12/EBM%20Guide%202020_1.pdf). Pay special attention to Key Value Areas (KVAs): **Current Value (CV), Unrealized Value (UV), Ability to Innovate (A2I), Time-to-Market (T2M)**. Thoroughly study the appendix with examples of how each of the areas is measured.
+[Read the EBM guide here (PDF)](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-12/EBM%20Guide%202020_1.pdf). Pay special attention to Key Value Areas (KVAs): **Current Value (CV), Unrealized Value (UV), Ability to Innovate (A2I), Time-to-Market (T2M)**. Thoroughly study the appendix with examples of how each of the areas is measured.
 
 
 ### 5. Understand the Scrum Guide version changes
@@ -170,7 +170,7 @@ Get suspicious of:
 2. _[Fixing Your Scrum:](https://www.amazon.com/Fixing-Your-Scrum-Practical-Solutions/dp/1680506978) Practical Solutions to Common Scrum Problems_ by Ryan Ripley and Todd Miller. It discusses various ways using the Scrum framework can go wrong – mishandled accountabilities, issues with product backlog and Scrum events – and how those problems could be tackled. There are many real-world examples. Available on [Amazon](https://www.amazon.com/Fixing-Your-Scrum-Practical-Solutions/dp/1680506978) and [Barnes & Noble](https://www.barnesandnoble.com/w/fixing-your-scrum-ryan-ripley/1132124402?ean=9781680506976).
 3. _[Agile Leadership Toolkit](https://www.amazon.com/dp/0135224969): Learning to Thrive with Self-Managing Teams_ by Peter Koning. The book offers methods and tools to lead agile teams at a large scale and improve the environment within your organization. In particular, the book discusses Key Value Indicators and other Agile metrics related to Evidence-Based Management. Available on [Amazon](https://www.amazon.com/dp/0135224969) and [Barnes & Noble](https://www.barnesandnoble.com/w/agile-leadership-toolkit-peter-koning/1132519464?ean=9780135224960).
 4. _[Nexus Framework for Scaling Scrum](https://www.amazon.com/Nexus-Framework-Scaling-Scrum-Continuously/dp/0134682661)_ by Kurt Bittner, Patricia Kong, and Dave West. Scrum.org presents their version of scaling Scrum across multiple Scrum Teams – the Nexus framework. It provides methods of integration among Scrum Teams and non-Scrum teams working on the same project. Available on [Amazon](https://www.amazon.com/Nexus-Framework-Scaling-Scrum-Continuously/dp/0134682661) and [Barnes & Noble](https://www.barnesandnoble.com/w/nexus-framework-for-scaling-scrum-the-kurt-bittner/1138612371?ean=9780134682716).
-5. _[Agile Conversations](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture-ebook/dp/B07YZP8LC9): Transform Your Conversations, Transform Your Culture_ by Douglas Squirrel and Jeffrey Fredrick. The book shares stories and provides techniques to handle different conversations and improve communication within the team and the company. Available on [Amazon](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture-ebook/dp/B07YZP8LC9) and [Barnes & Noble](https://www.barnesandnoble.com/w/agile-conversations-dougals-squirrel/1134041206?ean=9781942788973).
+5. _[Agile Conversations](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture/dp/1942788975/): Transform Your Conversations, Transform Your Culture_ by Douglas Squirrel and Jeffrey Fredrick. The book shares stories and provides techniques to handle different conversations and improve communication within the team and the company. Available on [Amazon](https://www.amazon.com/Agile-Conversations-Transform-Your-Culture-ebook/dp/B07YZP8LC9) and [Barnes & Noble](https://www.barnesandnoble.com/w/agile-conversations-dougals-squirrel/1134041206?ean=9781942788973).
 
 
 ## My experience preparing for and passing the PSM II test
@@ -195,11 +195,11 @@ I was preparing for both Professional Scrum with Kanban certification and PSM II
 
 <p class="paragraph_highlight">Does it make me a great Scrum Master?</p>
 
-The more I learned, the more I realized that the Scrum Master accountability in its pure form, as it was intended by the Scrum Guide, isn’t something that fully resonates with me. I like organizing workflows (but not micromanaging), exposing and mitigating risks. Scrum Master [isn't Agile Project Manager](https://keystonecollects.com/career/agile-project-manager/).
+The more I learned, the more I realized that the Scrum Master accountability in its pure form, as it was intended by the Scrum Guide, isn’t something that fully resonates with me. I like organizing workflows (but not micromanaging), exposing and mitigating risks. Scrum Master [isn't Agile Project Manager](https://apmg-international.com/article/what-does-agile-project-manager-do).
 
 But, as I said in the beginning, getting a certification is about the journey and the things you learned along the way.
 
-I did understand the Scrum framework well enough to be aware of subtle nuances and be able to explain, implement and facilitate it. I learned insightful and useful things. And this immersion into the Agile mindset was a great foundation to pass the PMP and IIBA-AAC exams with high scores shortly afterward.
+I did understand the Scrum framework well enough to be aware of subtle nuances and be able to explain, implement and facilitate it. I learned insightful and useful things. And this immersion into the Agile mindset was a great foundation to pass the [PMP](/articles/pmp-certification-exam-preparation/) and IIBA-AAC exams with high scores shortly afterward.
 
 
 ## Conclusion

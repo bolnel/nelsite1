@@ -2,7 +2,7 @@
 title = "PSM I Certification: How to Prepare for and Pass the Exam"
 description = "Professional Scrum Master certification exam tests your understanding of the Scrum framework. How hard is this exam, and how do you pass it successfully?"
 date = "2022-11-04"
-lastmod = "2023-01-29"
+lastmod = "2025-12-13"
 slug = "psm-1-certification-exam-preparation"
 featured = "/article_images/psm-1-certification-exam-preparation-hero.jpg"
 thumbnail = "/article_images/psm-1-certification-exam-preparation-thumbnail.jpg"
@@ -30,28 +30,13 @@ Some questions you might need answered before deciding to take the exam:
 
 The biggest [competitor for PSM is CSM](/articles/psm-csm-which-scrum-certification-best/), but Scrum Alliance doesn’t publish the number of their certification holders. Scrum.org does, and Professional Scrum Master certification is in high demand.
 
-At the time of writing, among 750 000 professional certifications issued, around 70% of them were PSM I certifications.
+Scrum.org has a number of different certifications, but from over a million they issued in total, around 65% were PSM I certifications.
 
 **Related**: [Is the Scrum Master role a good fit for me?](/articles/is-the-scrum-master-role-right-for-me/)
 
-{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="Screenshot from Scrum.org">}}
+{{< figure src="/article_images/PSM-holders-Count-Scrum-org.jpg" alt="Number of Scrum.org Professional Scrum Master certification holders on each of the three levels" caption="PSM certification holders in 2025">}}
 
 As you can see, only under 5% of PSM I certification holders went on to obtain PSM II. However, PSM 1 isn’t the prerequisite for PSM 2, and maybe you’ll even opt to go [straight for the second level of PSM](/articles/psm-2-certification-exam-preparation/) – see below what the differences are.
-
-
-### PSM I exam and preparation cost
-
-PSM 1 exam fee is $150 per attempt.
-
-Scrum.org has a Scrum Master Learning Path full of **free** articles and webinars. You’ll gain a tremendous amount of insight if you complete it. Here’s a [list of full-length webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam/) from Scrum.org learning paths.
-
-To be introduced to the nuances of the Scrum Framework with a structured narrative, read _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_. The paperback and Kindle versions cost around $16 on Amazon. There are more book recommendations at the end of the article.
-
-If you like the video format, there are Scrum Master preparation courses, like this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy – the regular price is $35 but could be available for under $15 with the promotions Udemy regularly runs. 
-
-If you have the funds, taking a training course by a Professional Scrum Trainer would be very beneficial. PSM I 2-day training sessions on Scrum.org start at around $1000, with a free exam attempt included in the price. Training is available in different languages.
-
-{{< ebook-subscribe >}}
 
 ### How hard is the PSM 1 exam?
 
@@ -61,6 +46,7 @@ According to the calculations I ran when [comparing PSM I to the first level of 
 
 However, in and of itself the PSM I test is straightforward – as long as you know the Scrum Guide well. The best way to learn it well is to understand how its elements come together and try to implement its principles in practice.
 
+{{< ebook-subscribe >}}
 
 ### Is the PSM I exam open book or proctored?
 
@@ -72,6 +58,24 @@ Though it’s a relief to know that you could attempt the exam without the hassl
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img1.jpg" alt="PSM I certification exam is open-book, but you shouldn't count on it" caption="photo by \@tima-miroshnichenko on Pexels">}}
 
+
+## PSM I certification cost breakdown
+
+### PSM 1 preparation cost
+
+Scrum.org has a [Scrum Master Learning Path](https://www.scrum.org/pathway/scrum-master/) full of **free** articles and webinars. You’ll gain a tremendous amount of insight if you complete it. Here’s a [list of full-length webinars](/articles/free-scrum-agile-webinars-prepare-certification-exam/) I put together from this and other learning paths on Scrum.org.
+
+To be introduced to the nuances of the Scrum Framework with a structured narrative, read _[Scrum: A Pocket Guide](https://www.amazon.com/Scrum-Pocket-Guide-Companion-Practice/dp/9401812217/)_. The paperback and Kindle versions cost around $19 on Amazon. There are more book recommendations at the end of the article.
+
+If you like the video format, there are Scrum Master preparation courses, like this [Scrum for Beginners course](https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-preparation/) on Udemy – it could be available for under $15 with the promotions Udemy regularly runs.
+
+If you have the funds, taking a training course by a Professional Scrum Trainer would be beneficial. PSM I 2-day training sessions on Scrum.org start at around $1000, with a free exam attempt included in the price. Training is available in different languages.
+
+### PSM 1 exam cost
+
+PSM I exam fee is $200 per attempt. It's a hike from what it was before ($150), while the cost per PSM II exam attempt is still the same ($250). So if you're planning to get the PSM II certification in the future (some people pass PSM 2 just months or even weeks after PSM 1), that's yet another reason to [go for PSM II right away](/articles/psm-2-certification-exam-preparation/) – like I did.
+
+
 ## What is the difference between PSM I and PSM II?
 
 In a nutshell, here’s what I think the essence of each PSM level is:
@@ -80,7 +84,11 @@ PSM I validates that you **know** Scrum.
 
 PSM II validates that you **deeply get** Scrum.
 
-PSM III validates that you **can teach** Scrum.
+[PSM III](/articles/psm-3-certification-exam-preparation/) validates that you **can teach** Scrum.
+
+### Should I skip PSM I and take PSM II directly?
+
+As you probably know, [unlike CSM](/articles/psm-csm-which-scrum-certification-best/), PSM levels are independent. You can take any of the Scrum.org tests without obtaining any of their other certifications or taking their courses. Just buy the access code for the exam of your choice and launch it whenever you feel ready.
 
 It seems logical that PSM I should be taken first, right? Not necessarily. It depends on:
 
@@ -91,42 +99,20 @@ It seems logical that PSM I should be taken first, right? Not necessarily. It de
 
 Job postings mentioning Scrum Master certifications rarely talk about PSM II specifically, so it doesn’t look like it makes much difference from the employability standpoint. It’s more of a personal preference.
 
-
-### Can I skip PSM I and take PSM II directly?
-
-As you probably know, [unlike CSM](/articles/psm-csm-which-scrum-certification-best/), PSM levels are independent. You can take any of the Scrum.org tests without obtaining any of their other certifications or taking their courses. Just buy the access code for the exam of your choice and launch it whenever you feel ready.
-
-PSM II is obviously a harder test, and it takes more time to prepare.
-
-But if you know that your aspiration is to deeply dive into Scrum, and you feel you're going to attempt the second level anyway (some people pass PSM 2 just months or even weeks after PSM 1), then you might as well go straight for PSM II, like I did.
-
-Check out the guide on [how to pass the PSM II exam](/articles/psm-2-certification-exam-preparation/) and see which certification level resonates more with your experience and aspirations.
+PSM II is obviously a harder test, and it takes more time to prepare. Check out the guide on [how to pass the PSM II exam](/articles/psm-2-certification-exam-preparation/) and see which certification level resonates more with your experience and aspirations.
 
 {{< figure src="/article_images/psm-1-certification-exam-preparation-img2.jpg" alt="You can go directly for the PSM II exam, skipping the PSM. Will you try it?" caption="photo by \@ann-h-45017 on Pexels">}}
 
 
 ## Mindset to prepare for the PSM I exam
 
-There are things described as “easy to learn but hard to master”. Scrum Guide is short and easy to read, but Scrum isn’t that _easy _to learn.
+There are things described as “easy to learn but hard to master”. Scrum Guide is short and easy to read, but Scrum isn’t that _easy_ to learn.
 
 Akin to ancient spiritual manuscripts, you have the original small book, and then there are volumes upon volumes of comments, interpretations, and examples of practical implementation.
 
 <p class="paragraph_highlight">Getting a certification is great, but the main value you get is from the preparation. It’s a wonderful journey, so make the most of it.</p>
 
 Start with a solid understanding of [why you want to get certified](/articles/are-certifications-worth-it/), curious, open-minded, driven by a desire to expand your horizons, and ready to [dive into learning](/articles/online-research-strategy-efficient/).
-
-
-## Caution: old versions of the Scrum Guide vs. the 2020 version
-
-Keep in mind: the Scrum Guide gets revised every few years. Here’s the [timeline overviewing the differences](https://scrumguides.org/revisions.html) between the Scrum Guide versions since 2010, when the first version was published.
-
-For example, “The Development Team” wording is used throughout (changed to “The Developers” in the 2020 version, so that nobody thinks there’s another team within the Scrum Team). The core hasn’t changed, but there are minor differences that might be confusing.
-
-This article highlights the 4 [most important changes to the Scrum Guide](https://www.scrum.org/resources/blog/what-4-key-changes-scrum-guide-tell-us-about-scrum) and gives a rundown of other changes worth mentioning. It’s a part of a series of almost 60 articles [explaining various aspects](https://www.scrum.org/scrum-guide-2020) that changed in the 2020 version of the Scrum Guide.
-
-Most of the articles and books you’ll be using in your preparation were written when the previous versions of the Scrum Guide were active.
-
-Just be aware that there are differences, and refer to the latest edition of the Scrum Guide to whenever in doubt.
 
 
 ## Topics and keywords for PSM 1
@@ -171,7 +157,7 @@ This [PSM I simulator by Volkerdon](https://www.volkerdon.com/courses/scrum-mast
 
 ## Recommended books to prepare for the PSM 1 certification
 
-1. _[Scrum: A Pocket Guide](https://www.amazon.com/gp/product/B08XWQ7DG9/)_ (3rd edition) by Gunther Verheyen. A fundamental book for beginners explaining the Agile principles and the elements, methods, and principles of the Scrum Framework. The third edition, released in 2021, is fully aligned with the newest version of the Scrum Guide. Available on [Amazon](https://www.amazon.com/gp/product/B08XWQ7DG9/) and [Barnes & Noble](https://www.barnesandnoble.com/w/scrum-a-pocket-guide-3rd-edition-gunther-verheyen/1138924732?ean=9789401807364).
+1. _[Scrum: A Pocket Guide](https://www.amazon.com/Scrum-Pocket-Guide-Companion-Practice/dp/9401812217/)_ (4rd edition) by Gunther Verheyen. A fundamental book for beginners explaining the Agile principles and the elements, methods, and principles of the Scrum Framework. The third edition, released in 2021, is fully aligned with the newest version of the Scrum Guide. Available on [Amazon](https://www.amazon.com/gp/product/B08XWQ7DG9/) and [Barnes & Noble](https://www.barnesandnoble.com/w/scrum-a-pocket-guide-3rd-edition-gunther-verheyen/1138924732?ean=9789401807364).
 2. _[Scrum Insights for Practitioners: The Scrum Guide Companion](https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion/dp/0692807179)_ by Hiren Doshi. A book about the practical application of the Scrum framework in different situations. It touches on questions like:
 	- How is Scrum empirical?
 	- What are the tactics to do Scrum Events effectively?
@@ -179,9 +165,20 @@ This [PSM I simulator by Volkerdon](https://www.volkerdon.com/courses/scrum-mast
 
     It was released in 2016, so contains some older terminology like “Development Team” or “Scrum roles”, but the core principles remain topical. Available on [Amazon](https://www.amazon.com/Scrum-Insights-Practitioners-Guide-Companion/dp/0692807179) and [Barnes & Noble](https://www.barnesandnoble.com/w/scrum-insights-for-practitioners-hiren-doshi/1125252333?ean=9780692807170).
 
-3. _[Mastering Professional Scrum](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522)_: _A Practitioner's Guide to Overcoming Challenges and Maximizing the Benefits of Agility _by Stephanie Ockerman and Simon Reindl. The book delves deeper into implementing Scrum principles, creating a strong team foundation, delivering value, and improving teams and organizations. Available on [Amazon](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522) and [Barnes & Noble](https://www.barnesandnoble.com/w/mastering-professional-scrum-stephanie-ockerman/1132975155).
+3. _[Mastering Professional Scrum](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522)_: _A Practitioner's Guide to Overcoming Challenges and Maximizing the Benefits of Agility_ by Stephanie Ockerman and Simon Reindl. The book delves deeper into implementing Scrum principles, creating a strong team foundation, delivering value, and improving teams and organizations. Available on [Amazon](https://www.amazon.com/Mastering-Professional-Scrum-Coaches-Challenges/dp/0134841522) and [Barnes & Noble](https://www.barnesandnoble.com/w/mastering-professional-scrum-stephanie-ockerman/1132975155).
 4. _[Scrum Mastery](https://www.amazon.com/Scrum-Mastery-Geoff-Watts-Agile/dp/B091NN3QBD/)_ (2nd edition) by Geoff Watts. What makes a great Scrum Master? Geoff has been coaching Scrum teams for over twenty years. In the 2021 updated edition of this book, he shares a collection of stories and practical guidance on servant leadership and nurturing a high-performing team. Available on [Amazon](https://www.amazon.com/Scrum-Mastery-Geoff-Watts-Agile/dp/B091NN3QBD/).
 
+## Caution: old versions of the Scrum Guide vs. the 2020 version
+
+Keep in mind: the Scrum Guide gets revised every few years. Here’s the [timeline overviewing the differences](https://scrumguides.org/revisions.html) between the Scrum Guide versions since 2010, when the first version was published.
+
+For example, “The Development Team” wording is used throughout (changed to “The Developers” in the 2020 version, so that nobody thinks there’s another team within the Scrum Team). The core hasn’t changed, but there are minor differences that might be confusing.
+
+This article highlights the 4 [most important changes to the Scrum Guide](https://www.scrum.org/resources/blog/what-4-key-changes-scrum-guide-tell-us-about-scrum) and gives a rundown of other changes worth mentioning. It’s a part of a series of almost 60 articles [explaining various aspects](https://www.scrum.org/scrum-guide-2020) that changed in the 2020 version of the Scrum Guide.
+
+Most of the articles and books you’ll be using in your preparation were written when the previous versions of the Scrum Guide were active.
+
+Just be aware that there are differences, and refer to the latest edition of the Scrum Guide to whenever in doubt.
 
 ## Conclusion
 
