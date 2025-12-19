@@ -71,7 +71,7 @@ If you like the video format, there are Scrum Master preparation courses, like t
 
 If you have the funds, taking a training course by a Professional Scrum Trainer would be beneficial. PSM I 2-day training sessions on Scrum.org start at around $1000, with a free exam attempt included in the price. Training is available in different languages.
 
-### PSM 1 exam cost
+### Professional Scrum Master exam cost
 
 PSM I exam fee is $200 per attempt. It's a hike from what it was before ($150), while the cost per PSM II exam attempt is still the same ($250). So if you're planning to get the PSM II certification in the future (some people pass PSM 2 just months or even weeks after PSM 1), that's yet another reason to [go for PSM II right away](/articles/psm-2-certification-exam-preparation/) – like I did.
 
@@ -115,7 +115,7 @@ Akin to ancient spiritual manuscripts, you have the original small book, and the
 Start with a solid understanding of [why you want to get certified](/articles/are-certifications-worth-it/), curious, open-minded, driven by a desire to expand your horizons, and ready to [dive into learning](/articles/online-research-strategy-efficient/).
 
 
-## Topics and keywords for PSM 1
+## Topics and keywords for Professional Scrum Master exam
 
 To confidently pass the PSM I test, you need to be able to explain why each of these is important and what their features are.
 
