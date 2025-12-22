@@ -138,13 +138,6 @@ The exam is proctored. You could pass it online via Pearson VUE or in person at 
 **Related**: [Should I take my certification exam online or in a testing center?](/articles/online-proctored-testing-pros-cons/)
 
 
-## How did the CAPM exam change?
-
-In early 2021, the PMP exam changed to put more emphasis on Agile concepts and soft skills.
-
-CAPM, however, remained rooted in traditional methodologies. But a new version was announced in 2022 and [released in early 2023](https://www.pmi.org/certifications/certified-associate-capm/capm-exam-updates).
-
-
 ### What are the CAPM certification exam topics?
 
 Here are the four CAPM exam domains and the percentages of questions they take on the test:
@@ -227,6 +220,8 @@ The book also contains exam-like questions that would be a great challenge.
 To maintain your CAPM certification, you need to submit 15 Professional Development Units (PDU) within a three-year period and pay a renewal fee.
 
 CAPM renewal fee used to be $60 for PMI members and $150 for non-members. Now, the CAPM recertification cost is also subject to **regional pricing rules**.
+
+**Related**: [Ways to earn free PDUs](/articles/how-get-free-pdu-pmp-renewal/).
 
 
 ### How to get PDU for CAPM renewal

@@ -102,7 +102,7 @@ Other similarities between Agile and Lean:
 
 * Products are based on customer demand
 * Deferring commitment: waiting until the last responsible moment to make a decision
-* Reducing [lead time](https://www.digite.com/agile/lead-time-cycle-time/) by eliminating wait time
+* Reducing [lead time](https://www.nimblework.com/agile/lead-time-cycle-time/) by eliminating wait time
 * Employers are responsible for defining their method of working
 * Continuous incremental process improvement (“Kaizen” in manufacturing)
 * Looking for the most efficient way to get to the end goal

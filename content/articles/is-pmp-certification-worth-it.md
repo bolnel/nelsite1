@@ -19,7 +19,7 @@ As the world adopts Agile approaches more and more, you might be wondering: is P
 
 The short answer is “yes”. The certification issuer, PMI, constantly adapts. With the recent exam modifications and the introduction of a flexible pricing structure, taking the PMP exam is a great option for anyone who fits the eligibility requirements.
 
-If you’re convinced, feel free to move on to the [PMP exam preparation guide](/articles/pmp-certification-exam-preparation).
+If you’re convinced, feel free to move on to the [PMP exam preparation guide](/articles/pmp-certification-exam-preparation/).
 
 Or keep reading to get a detailed breakdown of the benefits and costs of getting PMP-certified and to see how PMP compares to other project management certifications.
 

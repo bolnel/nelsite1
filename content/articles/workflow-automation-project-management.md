@@ -180,7 +180,7 @@ Asana offers quite a few options for customization – up to 20 different trigge
 
 The drawbacks of Asana automations are about the same as in Trello – currently no option in Asana to assign teams, and rules are linked to the account that originally created them.
 
-Only the person who created a rule in Asana could edit or delete it. Rules are duplicated when duplicating a project, but the user who copied the project still [doesn’t become the full owner of the rule](https://help.asana.com/hc/en-us/articles/23060086657563-Rule-permissions#h_01HQ0KZ0W6509CDNN2Y88X978H). If a rule is duplicated via project templates, the template user becomes a new owner.
+Only the person who created a rule in Asana could edit or delete it. Rules are duplicated when duplicating a project, but the user who copied the project still [doesn’t become the full owner of the rule](https://help.asana.com/s/article/rule-permissions). If a rule is duplicated via project templates, the template user becomes a new owner.
 
 If a user who created the rule is removed from Asana, the rule will be paused and ownership will be transferred to the project owner – or, if there’s no project owner, to the admin who removed the user.
 

@@ -336,9 +336,9 @@ Scrum Alliance has three levels on the Product Owner track:
 
 Each subsequent level requires passing a course, more SEUs for renewal, and a higher recertification fee.
 
-PSPO by Scrum.org doesn't have any mandatory courses or exam prerequisites. Once you [successfully pass a rigorous exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques) at a certain level, you get a credential that doesn't expire.
+PSPO by Scrum.org doesn't have any mandatory courses or exam prerequisites. Once you [successfully pass a rigorous exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) at a certain level, you get a credential that doesn't expire.
 
-**Related**: [PSM vs CSM. Which Scrum Master certification to choose?](/articles/psm-csm-which-scrum-certification-best)
+**Related**: [PSM vs CSM. Which Scrum Master certification to choose?](/articles/psm-csm-which-scrum-certification-best/)
 
 ### What is the difference between PSM and PSPO certifications?
 
@@ -370,5 +370,5 @@ Other articles you might be interested in:
 
 
 
-* [How to do online research efficiently](/articles/online-research-strategy-efficient)
-* [Improving your intuition with learning](/articles/develop-intuition-learning-self-awareness)
+* [How to do online research efficiently](/articles/online-research-strategy-efficient/)
+* [Improving your intuition with learning](/articles/develop-intuition-learning-self-awareness/)

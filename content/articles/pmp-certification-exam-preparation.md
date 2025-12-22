@@ -175,13 +175,13 @@ Traditional project management processes and knowledge areas are covered in deta
 
 ### Process Chart games by Rita Mulcahy
 
-[Process Chart Game](https://rmcls.com/process-chart-game-v10/) by Rita Mulcahy helps with learning which activities belong to each of the five Waterfall process groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
+[Process Chart Game](https://rmcls.com/game/process-chart-game-v10) by Rita Mulcahy helps with learning which activities belong to each of the five Waterfall process groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
 
 The game **doesn’t break** the processes down into 10 knowledge areas (Scope, Schedule, Resource Management, and others). But if you know which process group the activity is in, it’s usually easy to figure out which knowledge area it belongs to.
 
 The confusion mostly arises when you try to choose if the activity belongs to the Monitoring & Controlling or the Executing process group, or Initiating vs. Planning.
 
-You could also try Rita’s [Agile Process Chart Game](https://rmcls.com/agile-process-chart-game-v11/) to see how the processes of an Agile project relate to traditional process groups. The PMP exam doesn’t ask about this – it would just be a fun exercise to understand the process groups better.
+You could also try Rita’s [Agile Process Chart Game](https://rmcls.com/game/agile-process-chart-game-v11) to see how the processes of an Agile project relate to traditional process groups. The PMP exam doesn’t ask about this – it would just be a fun exercise to understand the process groups better.
 
 
 ## PMP Domain 3: Business environment. Topics

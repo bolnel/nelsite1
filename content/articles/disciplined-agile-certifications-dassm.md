@@ -65,7 +65,7 @@ In this [overview of DAD Full Delivery Life Cycles](https://www.pmi.org/discipli
 
 ### Disciplined Agile toolkit is owned by PMI
 
-In 2019, Project Management Institute [acquired Disciplined Agile](https://www.businesswire.com/news/home/20190809005432/en/Project-Management-Institute-Announces-Acquisition-of-Disciplined-Agile).
+In 2019, Project Management Institute [acquired Disciplined Agile](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/project-management-institute-announces-acquisition-of-disciplined-agile).
 
 This gives them the responsibility of maintaining and promoting the DA toolkit – as well as the rights to the “Disciplined Agile” trademark and issuing the DA certifications.
 

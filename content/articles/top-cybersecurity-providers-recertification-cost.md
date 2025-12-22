@@ -120,7 +120,7 @@ Tech giant founded in 1984 by a married couple of Standford University computer 
 
 **Experience**. Recommended, but doesn't have to be proven before applying.
 
-**Maintenance fee**. Cisco doesn’t have fixed recertification fees. [Based on your certification level](https://www.cisco.com/c/en/us/training-events/training-certifications/recertification-policy.html), during the 3-year recertification period you’ll need to pass another exam (the average price is $300 per exam), or multiple exams, or earn Continuous Education units by completing educational courses and training by Cisco or accredited partners.
+**Maintenance fee**. Cisco doesn’t have fixed recertification fees. [Based on your certification level](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/recertification/index.html), during the 3-year recertification period you’ll need to pass another exam (the average price is $300 per exam), or multiple exams, or earn Continuous Education units by completing educational courses and training by Cisco or accredited partners.
 
 {{< figure src="/article_images/top-cybersecurity-providers-recertification-cost-img3.jpg" alt="How much does maintaining a Cisco certification cost?" caption="photo by \@nasa on Unsplash">}}
 

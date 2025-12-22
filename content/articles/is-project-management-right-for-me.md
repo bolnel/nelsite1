@@ -239,7 +239,7 @@ Certifications help you become more competitive.
 
 CAPM (Certified Associate in Project Management) by PMI is a good choice – it’s issued by the same institute that issues PMP, the golden standard of a project management certification today.
 
-CAPM could also substitute certain prerequisites for other certifications – for example, you could use CAPM instead of PRINCE2 Foundation to [obtain the PRINCE2 Professional certification](/articles/prince2-certification-exam-preparation).
+CAPM could also substitute certain prerequisites for other certifications – for example, you could use CAPM instead of PRINCE2 Foundation to [obtain the PRINCE2 Professional certification](/articles/prince2-certification-exam-preparation/).
 
 Either way, you need to have a solid understanding of the process of both Waterfall and Agile project management. [Getting ready for a certification exam](/articles/how-pass-certification-exam-test-first-try-tips-techniques/) helps with that a lot.
 
@@ -289,5 +289,5 @@ Whichever road you take, I wish you to stay curious and resilient on your journe
 
 Articles you might be interested in:
 
-- [How to earn the PMP certification](/articles/pmp-certification-exam-preparation).
-- [A strategy for researching and learning new things](/articles/online-research-strategy-efficient).
+- [How to earn the PMP certification](/articles/pmp-certification-exam-preparation/).
+- [A strategy for researching and learning new things](/articles/online-research-strategy-efficient/).

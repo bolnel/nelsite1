@@ -151,4 +151,4 @@ However, if you don't take action within a year, the credential lapses completel
 
 Yes, if a PDU is relevant for more than one certification, it counts towards each one.
 
-**Related**: [How to get SEU for CSM certification renewal](/articles/how-get-seu-csm-renewal-free).
+**Related**: [How to get SEU for CSM certification renewal](/articles/how-get-seu-csm-renewal-free/).

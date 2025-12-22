@@ -22,7 +22,7 @@ On the [workflow setup overview page](/workflow-setup-automation-expert-speciali
 
 This page highlights the services I provide, applied to ClickUp specifically. Feel free to reach out with your current setup or goals, and we’ll start with a free discovery call to explore the best path forward.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 {{< figure src="/services_images/clickup-expert-for-hire.jpg" alt="Hire a certified workflow expert to help with setting up and optimizing flows in ClickUp. Automation, integration." >}}
 
@@ -57,4 +57,4 @@ With customized dashboards, charts, and reporting, you’ll gain visibility into
 
 [Want to know more about how I work and what to expect?](/workflow-setup-automation-expert-specialist-hire/).
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>

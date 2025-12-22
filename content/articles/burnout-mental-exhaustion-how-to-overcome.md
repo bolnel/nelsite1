@@ -181,7 +181,7 @@ You might ask: “When am I supposed to do all of these if I’m overworked?”
 
 You don’t have to spend hours doing these. Dance to one song you like, draw a quick sketch, shoot a message to your friend, or try to build a short sentence in another language.
 
-If you’re low on energy, [doing exercise will actually revitalize you](https://www.helpguide.org/articles/healthy-living/the-mental-health-benefits-of-exercise.htm).
+If you’re low on energy, [doing exercise will actually revitalize you](https://www.helpguide.org/wellness/fitness/the-mental-health-benefits-of-exercise).
 
 A few minutes every now and then really add up. You might be surprised how far consistency could take you in less than half a year.
 

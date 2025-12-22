@@ -69,7 +69,7 @@ Many well-recognized certifications have the experience barrier – a minimum of
 **Project Management**: 36 months leading projects – [PMP](https://www.pmi.org/certifications/project-management-pmp) by PMI. <br>
 **Business Analysis**: 7,500 hours of BA Work – [CBAP](https://www.iiba.org/business-analysis-certifications/cbap/) by IIBA.<br>
 **Human Relations**: 1 year of professional HR experience – [PHR](https://www.hrci.org/certifications/individual-certifications/phr) by HRCI.<br>
-**Cybersecurity**: 5 years of work experience – [CISSP](https://www.isc2.org/Certifications/CISSP/experience-requirements) by (ISC)2.
+**Cybersecurity**: 5 years of work experience – [CISSP](https://www.isc2.org/certifications/cissp/cissp-experience-requirements) by (ISC)2.
 
 Here's a more detailed breakdown of prerequisites for the [top cybersecurity certifications](/articles/top-cybersecurity-providers-recertification-cost/).
 

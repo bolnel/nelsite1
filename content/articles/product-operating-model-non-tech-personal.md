@@ -171,4 +171,4 @@ I’d argue that product discovery and collaboration is quite possible on remote
 
 ## Agile POM by Scrum.org
 
-[Scrum.org](Scrum.org) has its own take on POM – Agile Product Operating Model. POM is already a framework inherently based on Agile principles, but apparently it could be made even more Agile. If you’re curious to learn more, see the [whitepaper on APOM framework by Scrum.org](https://www.scrum.org/resources/moving-beyond-agile-transformations-leveraging-agile-product-operating-model).
+Scrum.org has its own take on POM – Agile Product Operating Model. POM is already a framework inherently based on Agile principles, but apparently it could be made even more Agile. If you’re curious to learn more, see the [whitepaper on APOM framework by Scrum.org](https://www.scrum.org/resources/moving-beyond-agile-transformations-leveraging-agile-product-operating-model).

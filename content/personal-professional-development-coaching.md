@@ -61,7 +61,7 @@ You could also [find out more about me](/about/) as an individual and see if I�
 
 But the best way to ensure we’re a fit is to book a trial consultation.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 
 ### Will my coaching bring value? A mindset and context check
@@ -124,7 +124,7 @@ The hours are valid for **3 months**, so you could take breaks and use them at l
 
 **Price**: $400.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 <h3 id="messaging-mentor-personal-coaching-package">3. The “Messaging mentor” personal coaching package</h3>
 
@@ -167,4 +167,4 @@ The **messaging coaching** format has its own advantages:
 
 You could decide on the format after the intro session. Book your 30-minute coaching consultation, and we’ll take it from there.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>

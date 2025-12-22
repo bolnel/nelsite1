@@ -73,7 +73,7 @@ System and equipment requirements change – for one, a wired headset used to be
 
 You might need to upgrade your operating system or arrange to use someone else’s machine, buy or borrow a digital camera you could use separately from your laptop camera to scan the room or jump through other hoops to get a setup that fits the requirements.
 
-Check the online testing FAQs and the most recent system and equipment requirements by [Pearson VUE](https://home.pearsonvue.com/onvue-tips), [Prometric](https://www.prometric.com/proproctorcandidate), [PSI Online](https://www.psionline.com/en-gb/online-proctoring-guide-test-takers/), and [edX](https://support.edx.org/hc/en-us/articles/360000218027-Proctored-exam-rules-and-requirements).
+Check the online testing FAQs and the most recent system and equipment requirements by [Pearson VUE](https://home.pearsonvue.com/onvue-tips), [Prometric](https://www.prometric.com/remote-exam-experience), [PSI Online](https://www.psionline.com/en-gb/online-proctoring-guide-test-takers/), and [edX](https://support.edx.org/hc/en-us/articles/360000218027-Proctored-exam-rules-and-requirements).
 
 The test center takes care of all the technical details, so you just need to show up on time and sit for the exam.
 

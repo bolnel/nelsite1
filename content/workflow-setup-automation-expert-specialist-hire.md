@@ -13,7 +13,7 @@ draft = false
 
 While I currently specialize in workflow architecture and integration, I also provide [coaching for individuals and teams](/personal-professional-development-coaching/), help with hiring the best person for the job, and solve problems in general.
 
-I like challenges, so if there’s a problem in your organization that someone with my skills could help with tackling, <a href="/contact">get in touch</a> and let’s discuss it.
+I like challenges, so if there’s a problem in your organization that someone with my skills could help with tackling, <a href="/contact/">get in touch</a> and let’s discuss it.
 
 My certifications include [PMP](/articles/pmp-certification-exam-preparation/) and Professional Scrum with Kanban, as well as [a few certifications related to specific PM software](/articles/workflow-certifications-project-management-software/).
 
@@ -26,7 +26,7 @@ My certifications include [PMP](/articles/pmp-certification-exam-preparation/) a
 * Using  connectors like Zapier or Make.com to create a fully integrated workspace.
 * Workflow audit – investigating the current and potential issues with your flows and advising on how to solve them.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 
 ## Advantages of working with me as a workflow expert
@@ -67,7 +67,7 @@ I have dealt with many different tools already and have back-end experience, so 
 
 Being efficient in obtaining information goes hand in hand with being good at explaining it and coming to mutual understanding. Working with me would be a smooth and pleasant experience.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 
 ## Workflow setup and optimization in ClickUp, Asana, Trello and other tools: my work process
@@ -93,7 +93,7 @@ Using workflow tools saves time, reduces errors, improves coordination and accou
 4. **Bottlenecks become visible**. It’s much easier to see how much time has passed between the stages of each task, so it’s more obvious when something gets stuck. Issues get on the radar, so you could learn the root cause faster and act to find a solution.
 5. **Task-related information is organized and recorded**. You don’t have to go through your inbox to recall the history of a certain task or issue – it’s all listed in the updates of that task. And when it’s done and archived, you could still refer to it later.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 
 ## Which project management software do you recommend?
@@ -121,4 +121,4 @@ But connection to a wide variety of software could be integrated and automated w
 
 Stay tuned for an article on how PM tools like Trello, Asana, ClickUp, Monday.com and Notion match up from the perspective of native automations they have available.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>

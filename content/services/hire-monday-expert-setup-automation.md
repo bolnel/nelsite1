@@ -21,7 +21,7 @@ On the [workflow setup overview page](/workflow-setup-automation-expert-speciali
 
 This page will highlight some of the services I offer applied to Monday.com. Feel free to contact me with the details of your current situation and what you need implemented in Monday, and we’ll set up a free discovery call.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 {{< figure src="/services_images/monday-expert-for-hire.jpg" alt="Hire a certified workflow expert to help with setting up and optimizing flows in Monday.com. Automation, integration." >}}
 
@@ -44,7 +44,7 @@ Monday.com Sales CRM product is based on the functionality of Monday Work Manage
 
 Do you need the sales CRM-specific features in Monday.com, or can your case be handled with the base Work Management product? Contact me and let’s discuss what makes the most sense for your setup.
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
 
 
 ## Client portal setup in Monday with Make.com
@@ -70,4 +70,4 @@ Charts with a snapshot of key workspace information will provide insights into h
 
 Read more [about my workflow setup process](/workflow-setup-automation-expert-specialist-hire/).
 
-<a class="header_nav_button page_button" href="/contact">GET IN TOUCH</a>
+<a class="header_nav_button page_button" href="/contact/">GET IN TOUCH</a>
