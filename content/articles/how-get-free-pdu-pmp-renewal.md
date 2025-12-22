@@ -100,7 +100,7 @@ PMI has a number of “free” courses that give a few PDUs each. Most of them a
 
 **Related**: [AI in project management: practical tips](/articles/ai-application-project-management/).
 
-Another example is this free introductory course: [PMI Certified Professional in Managing AI (PMI-CPMAI)](https://www.pmi.org/shop/tc/p-/elearning/free-introduction-to-cognitive-project-management-in-ai-cpmai/). It’s available in a number of languages, including French, Spanish, Korean and even Klingon (a fictional language from the Star Trek universe – so we’re truly entering the domain of the future), and while its estimated duration is 1 hour, it yields 3 PDUs in the “Ways of working” subcategory.
+Another example is this free introductory course: [PMI Certified Professional in Managing AI (PMI-CPMAI)](https://www.pmi.org/shop/tc/p-/elearning/free-introduction-to-cognitive-project-management-in-ai-cpmai/el185). It’s available in a number of languages, including French, Spanish, Korean and even Klingon (a fictional language from the Star Trek universe – so we’re truly entering the domain of the future), and while its estimated duration is 1 hour, it yields 3 PDUs in the “Ways of working” subcategory.
 
 {{< figure src="/article_images/how-get-free-pdu-pmp-renewal-img2.jpg" alt="Lifelong learning keeps our minds sharp." caption="photo by \@pixabay on Pexels">}}
 

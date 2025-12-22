@@ -78,7 +78,7 @@ If you want to dig deeper into Agile practices, consider certifications by Scrum
 
 **Project Management Institute** (PMI) [was formed in 1969](https://www.pmi.org/about/learn-about-pmi/history-of-pmi) and became a leading project management certification provider worldwide.
 
-Their most famous certification is Project Manager Professional, but the [credential portfolio](https://www.pmi.org/certifications/become-a-project-manager/certification-framework) spans 20+ certifications in traditional and Agile project management, business analysis, and organizational transformation.
+Their most famous certification is Project Manager Professional, but the [credential portfolio](https://www.pmi.org/certifications) spans 20+ certifications in traditional and Agile project management, business analysis, and organizational transformation.
 
 PRINCE2 certification was maintained by the Government of the United Kingdom [until its transfer](https://en.wikipedia.org/wiki/AXELOS) to **Axelos**, a joint venture set up by the UK government and public company. But the exams themselves are provided by a certification institute called PeopleCert.
 
