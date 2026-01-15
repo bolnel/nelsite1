@@ -2,7 +2,7 @@
   
   <url>
     <loc>https://ninel.work/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -12,7 +12,7 @@
   
   <url>
     <loc>https://ninel.work/articles/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
@@ -22,11 +22,31 @@
   
   <url>
     <loc>https://ninel.work/categories/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/articles/workflow-management-without-trello/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/articles/workflow-management-without-trello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ninel.work/categories/personal-growth/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="https://ninel.work/categories/personal-growth/"
                 />
   </url>
   
@@ -37,16 +57,6 @@
                 rel="alternate"
                 hreflang="x-default"
                 href="https://ninel.work/articles/free-trello-account-setup-personal-productivity/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ninel.work/categories/personal-growth/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="https://ninel.work/categories/personal-growth/"
                 />
   </url>
   
