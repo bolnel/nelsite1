@@ -12,7 +12,7 @@ categories = ["Personal growth"]
 +++
 
 
-Productivity means getting more things done, achieving your goals more efficiently and with less stress. Using a task management tool, Trello in particular, is one way to achieve this. There are other ways.
+Productivity means getting more things done, achieving your goals more efficiently and with less stress. Using a task management tool, Trello in particular, is one way to achieve this. [There are other ways](/articles/free-trello-account-setup-personal-productivity/).
 
 Using a task management tool has to simplify your life and bring focus and clarity, not add anxiety. If the boards get cluttered, it'll be annoying and overwhelming.
 
