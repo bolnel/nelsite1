@@ -81,6 +81,7 @@ Whatever the entries on the board represent, it’s best to keep them more or le
 
 If one of the cards is “order from a vendor” and the one next to it is about organizing the whole event, this likely means that the structure needs to be updated, and some tasks items should be broken down or aggregated. It’s usually better to break them down for transparency and ease of management.
 
+**Related**: [Kanban principles and metrics for organizing stable workflows](/articles/kanban-principles-metrics-littles-law-scrum/).
 
 ## Do you have documentation to onboard new members?
 
@@ -139,5 +140,9 @@ Notion is leveraging its database nature the most – once you create a source o
 Most often, it seems [intuitively clear](/articles/develop-intuition-learning-self-awareness/) how to break down most of your workflows into boards – there are leads, clients, properties, tasks, orders, and so on, and what their fields should be.
 
 But I want it to always be a conscious decision. Unwrap it all and pack it back into boards that all fit together like well-placed puzzle pieces that make up your organization.
+
+## Personal workflows and process setup help
+
+For personal workflows, check out the articles on [setting up a free Trello account for productivity](/articles/free-trello-account-setup-personal-productivity/) – and see my take on [managing personal workflows without Trello](/articles/workflow-management-without-trello/).
 
 And once again, if you need any assistance with [creating or optimizing the workspace architecture and flows in ClickUp, Trello, Monday.com, Asana, Notion](/workflow-setup-automation-expert-specialist-hire/) or any other PM tool, and perhaps with integrating various other tools via Zapier or Make.com, get in touch for a free intro call to discuss your situation and how I can help.

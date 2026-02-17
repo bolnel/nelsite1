@@ -83,7 +83,7 @@ Trello Premium plan (costs double the standard plan both annually and monthly) a
 
 Keep the number of boards, lists and current to-do items to a minimum. Having things on one board initially will reduce distractions and context switching. Have less tasks, but really focus on knocking them out.
 
-[Limiting your work in progress](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how) ultimately helps with achieving more.
+[Limiting your work in progress](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how) ultimately helps with achieving more. Trello is a tool built for Kanban workflow – [learn more about the key Kanban metrics](/articles/kanban-principles-metrics-littles-law-scrum/). 
 
 {{< figure src="/article_images/free-trello-account-setup-personal-productivity-img1-trello-board-example.jpg" alt="Minimalistic Trello board example" caption="Minimalistic Trello board example">}}
 

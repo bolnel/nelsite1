@@ -191,7 +191,7 @@ So, I completed 100% of the Scrum Master and Product Owner Learning Paths, and m
 * Took all Open Assessments on Scrum.org
 * Used the PSM I and PSM II exam simulators
 
-I was preparing for both Professional Scrum with Kanban certification and PSM II. Took them a few days apart after about a month of deep immersion. Passed both exams on the first try with around 90% score.
+I was preparing for both [Professional Scrum with Kanban](/articles/kanban-principles-metrics-littles-law-scrum/) certification and PSM II. Took them a few days apart after about a month of deep immersion. Passed both exams on the first try with around 90% score.
 
 <p class="paragraph_highlight">Does it make me a great Scrum Master?</p>
 
