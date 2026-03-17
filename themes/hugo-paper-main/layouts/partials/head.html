@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta name="twitter:creator" content="@NinelBolotova">
   <meta name="twitter:image" content="https://bolnel.github.io/nelsite1{{ .Params.featured }}" />
 
-<meta name="author" content="{{ site.Author.name }}" />
+<meta name="author" content="{{ site.Params.author }}" />
 <meta name="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
 <meta itemprop="description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
 <meta property="og:description" content="{{ if .Params.Description }}{{ .Params.Description }}{{ else if .Site.Params.Description }}{{ .Site.Params.Description }}{{ end }}" />
