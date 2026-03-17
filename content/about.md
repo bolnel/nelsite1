@@ -1,9 +1,9 @@
----
++++
 title: "About Ninel Bolotova"
-date: 2025-09-14T11:15:34+03:00
+date = "2023-03-18"
+lastmod = "2026-03-16"
 draft: false
-no_socials: true
----
++++
 
 Professionally, I mostly worked as a project manager ([PMP-certified](/articles/pmp-certification-exam-preparation/)) with technical background, head of operations, and general problem preventer. I find joy and excitement in obtaining knowledge, solving challenges, and improving and applying my skills.
 
